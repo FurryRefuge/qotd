@@ -100,5 +100,5 @@ setTimeout(async function () {
   });
 
   oldest_qotd_entry.last_used = qotd_day;
-  fs.writeFileSync(new URL(path.join('data', 'qotds.json'), import.meta.url), JSON.stringify(qotds, undefined, 2));
+  fs.writeFileSync(new URL(path.join('..', 'data', 'qotds.json'), import.meta.url), JSON.stringify(qotds, undefined, 2));
 }, wait);
