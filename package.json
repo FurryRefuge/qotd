@@ -1,0 +1,13 @@
+{
+  "name": "qotd",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "add-qotds": "node --experimental-json-modules scripts/add-qotds.mjs",
+    "lint-qotds": "node --experimental-json-modules scripts/lint-qotds.mjs",
+    "post-qotd": "node --experimental-json-modules scripts/post-qotd.mjs"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1"
+  }
+}
