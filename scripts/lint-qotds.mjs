@@ -17,7 +17,8 @@ for (const qotd of qotds) {
 
   if (linted_qotds.has(qotd.text)) {
     const linted = linted_qotds.get(qotd.text);
-    if (qotd.last_used && (!linted.last_used || (qotd.last_used > linted.last_used)))
+    if ('author' in qotd && !('author' in linted)) linted.author = qotd.author;
+    if ('last_used' in qotd && (!('last_used' in linted) || (qotd.last_used > linted.last_used)))
       linted.last_used = qotd.last_used;
     continue;
   }
