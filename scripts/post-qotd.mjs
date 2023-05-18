@@ -19,13 +19,17 @@ for (const arg of argv) {
   switch (arg) {
     case '-ci':
       process.env.CI = 'true';
+      break;
     case '--wait':
       args.wait = true;
+      break;
     case '--test':
       qotd_channel = '645783809492779052';
       args.test = true;
+      break;
     case '--no-write':
       args.noWrite = true;
+      break;
   }
 }
 
