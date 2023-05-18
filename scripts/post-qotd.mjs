@@ -13,7 +13,7 @@ assert.ok(process.env.DISCORD_TOKEN);
 
 const argv = process.argv.slice(2);
 const args = {};
-let qotd_channel = '645783740618113028';
+let qotd_channel = '645783740618113027';
 
 for (const arg of argv) {
   switch (arg) {
