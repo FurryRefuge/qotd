@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: '16'
       - run: npm install
-      - run: npm run lint-qotds && npm run post-qotd
+      - run: npm run lint-qotds && (npm run post-qotd -- --test)
       - run: |
           git config user.name "Paw Bot"
           git config user.email "developers@paw.bot"
