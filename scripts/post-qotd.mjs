@@ -24,6 +24,8 @@ for (const arg of argv) {
     case '--test':
       qotd_channel = '645783809492779052';
       args.test = true;
+    case '--no-write':
+      args.noWrite = true;
   }
 }
 
@@ -100,5 +102,5 @@ setTimeout(async function () {
   });
 
   oldest_qotd_entry.last_used = qotd_day;
-  fs.writeFileSync(new URL(path.join('..', 'data', 'qotds.json'), import.meta.url), JSON.stringify(qotds, undefined, 2));
+  if (true !== args.noWrite) fs.writeFileSync(new URL(path.join('..', 'data', 'qotds.json'), import.meta.url), JSON.stringify(qotds, undefined, 2));
 }, wait);
