@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
-      - run: npm ci
+      - run: npm ci --production
       - run: npm run lint-qotds
       - run: npm run post-qotd
         env:

@@ -6,6 +6,8 @@ import process from 'node:process';
 import fs from 'node:fs';
 import { URL } from 'node:url';
 import path from 'node:path';
+import { createMessagePayload } from './shared/script.mjs';
+import * as constants from './shared/constants.mjs';
 
 process.env.TZ = 'UTC';
 
@@ -13,7 +15,7 @@ assert.ok(process.env.DISCORD_TOKEN);
 
 const argv = process.argv.slice(2);
 const args = {};
-let qotd_channel = '645783740618113027';
+let qotd_channel = constants.qotd_channel;
 
 for (const arg of argv) {
   switch (arg) {
@@ -83,26 +85,10 @@ else if (0 > wait) {
   }
 }
 
-
 setTimeout(async function () {
   const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
   await rest.post(`/channels/${qotd_channel}/messages`, {
-    body: {
-      allowed_mentions: {
-        roles: ['672008561760534541'],
-        users: [],
-      },
-      content: '<@&672008561760534541>',
-      embeds: [
-        {
-          color: 0x01DDFF,
-          description:
-            `**${oldest_qotd_entry.text}**\n` +
-            '> [Notifications can be disabled here](https://discord.com/channels/368557500884189186/645783730559909908/694594700249792573)\n' +
-            `> ${oldest_qotd_entry.author ? `By <@${oldest_qotd_entry.author}> from ` : ''}<#1065322834265653309>`,
-        },
-      ],
-    },
+    body: createMessagePayload(oldest_qotd_entry.text, oldest_qotd_entry.author),
   });
 
   oldest_qotd_entry.last_used = qotd_day;

@@ -1,0 +1,1 @@
+export const qotd_channel = '645783740618113027';

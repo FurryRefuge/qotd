@@ -5,9 +5,13 @@
   "scripts": {
     "add-qotds": "node --experimental-json-modules scripts/add-qotds.mjs",
     "lint-qotds": "node --experimental-json-modules scripts/lint-qotds.mjs",
-    "post-qotd": "node --experimental-json-modules scripts/post-qotd.mjs"
+    "post-qotd": "node --experimental-json-modules scripts/post-qotd.mjs",
+    "edit-post": "node --experimental-json-modules scripts/edit-post.mjs"
   },
   "dependencies": {
     "@discordjs/rest": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1"
   }
 }
