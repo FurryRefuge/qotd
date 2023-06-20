@@ -1,0 +1,65 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/FurryRefuge/qotd/main/qotds.schema.json",
+  "title": "QoTDs",
+  "type": "array",
+  "items": {
+    "description": "A QoTD entry",
+    "type": "object",
+    "required": [
+      "text"
+    ],
+    "properties": {
+      "text": {
+        "description": "The question to be posted",
+        "type": "string"
+      },
+      "author": {
+        "description": "The Discord user id of this entry's author",
+        "pattern": "^\\d+$",
+        "type": "string"
+      },
+      "last_used": {
+        "description": "When this QoTD was most recently used. The value is the amount of days since Unix Epoch as per the equation floor(UNIX_MS / 24 * 60 * 60 * 1000) where UNIX_MS is milliseconds since Unix Epoch",
+        "type": "number"
+      },
+      "history": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "day",
+            "message"
+          ],
+          "properties": {
+            "day": {
+              "description": "The last_used property when this QoTD was posted",
+              "type": "number"
+            },
+            "message": {
+              "description": "The Discord message id of this post",
+              "pattern": "^\\d+$",
+              "type": "string"
+            },
+            "stats": {
+              "type": "object",
+              "properties": {
+                "total": {
+                  "description": "The total amount of messages sent after this QoTD was posted",
+                  "type": "number"
+                },
+                "users": {
+                  "description": "The total amount of users who participated in this QoTD post",
+                  "type": "number"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "additionalProperties": false
+  }
+}

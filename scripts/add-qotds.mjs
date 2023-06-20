@@ -18,27 +18,29 @@ for (const qotd of qotds) duplicate_set.add(qotd);
 for (let arg of argv) {
   arg = arg.trim();
 
-  if ('--help' == arg) {
-    console.info(
-      'Usage: add-qotd [entry_index_to_update=]"<text>"[:author_user_id] [...repeat]\n' +
-      'Examples:\n' +
-      ' Add entry: add-qotd "Hello world?":291656468493631488\n' +
-      ' Update entry: add-qotd 7="Hello world?":291656468493631488\n' +
-      ' Update text, keep author: add-qotd 7="Hello world?"\n' +
-      ' Update text, remove author: add-qotd 7="Hello world?":\n' +
-      ' Update author, keep text: add-qotd 7=:291656468493631488'
-    );
-    process.exit(0);
-  }
-
-  if ('--dry' == arg) {
-    dry = true;
-    continue;
-  }
-
-  if ('--update' == arg) {
-    overwrite = true;
-    continue;
+  if (arg[0] === '-') {
+    switch (arg) {
+      case '--help':
+        console.info(
+          'Usage: add-qotd [entry_index_to_update=]"<text>"[:author_user_id] [...repeat]\n' +
+          'Examples:\n' +
+          ' Add entry: add-qotd "Hello world?":291656468493631488\n' +
+          ' Update entry: add-qotd 7="Hello world?":291656468493631488\n' +
+          ' Update text, keep author: add-qotd 7="Hello world?"\n' +
+          ' Update text, remove author: add-qotd 7="Hello world?":\n' +
+          ' Update author, keep text: add-qotd 7=:291656468493631488'
+        );
+        process.exit(0);
+      case '--dry':
+        dry = true;
+        continue;
+      case '--update':
+        overwrite = true;
+        continue;
+      default:
+        console.error(`Unknown option ${arg}`);
+        process.exit(1);
+    }
   }
 
   const [, index, text, user_id] = arg.match(/^(?:([0-9]+)=)?(.*?)(:[0-9]*)?$/);
@@ -53,7 +55,7 @@ for (let arg of argv) {
     else if (1 !== user_id.length) entry.author = user_id.substring(1);
     if (text) entry.text = text;
     else entry.text = qotds[index].text;
-    
+
     map.set(index, entry);
   } else {
     if (undefined !== user_id && 1 !== user_id.length) entry.author = user_id.substring(1);
@@ -64,7 +66,7 @@ for (let arg of argv) {
 
     if (duplicate_set.has(text)) continue;
     duplicate_set.add(text);
-    
+
     entry.text = text;
     map.set(++qotd_index, entry)
   }

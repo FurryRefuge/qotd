@@ -1,10 +1,10 @@
-export function createMessagePayload(text, author) {
+export function createMessagePayload(role_id, text, author) {
   return {
     allowed_mentions: {
-      roles: ['672008561760534541'],
+      roles: [role_id],
       users: [],
     },
-    content: '<@&672008561760534541>',
+    content: `<@&${role_id}>`,
     embeds: [
       {
         color: 0x01DDFF,

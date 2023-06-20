@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "url": "./qotds.schema.json",
+      "fileMatch": [
+        "data/qotds.json"
+      ]
+    }
+  ]
+}

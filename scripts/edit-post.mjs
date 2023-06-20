@@ -71,5 +71,5 @@ if (!message_id) {
 const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
 
 rest.patch(`/channels/${channel_id}/messages/${message_id}`, {
-  body: createMessagePayload(qotd.text, qotd.author),
+  body: createMessagePayload(constants.qotd_role, qotd.text, qotd.author),
 });
