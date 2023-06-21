@@ -145,7 +145,14 @@
     "last_used": 19528
   },
   {
-    "text": "Home is where ________"
+    "text": "Home is where ________",
+    "history": [
+      {
+        "day": 19529,
+        "message": "1121107260869988352"
+      }
+    ],
+    "last_used": 19529
   },
   {
     "text": "What animal do you most identify with and why?"
