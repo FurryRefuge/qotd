@@ -149,13 +149,24 @@
     "history": [
       {
         "day": 19529,
-        "message": "1121107260869988352"
+        "message": "1121107260869988352",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19529
   },
   {
-    "text": "What animal do you most identify with and why?"
+    "text": "What animal do you most identify with and why?",
+    "history": [
+      {
+        "day": 19530,
+        "message": "1121469649524117608"
+      }
+    ],
+    "last_used": 19530
   },
   {
     "text": "What book, movie, album, etc. always makes you feel better when you're having a bad day?"
