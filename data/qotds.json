@@ -163,13 +163,24 @@
     "history": [
       {
         "day": 19530,
-        "message": "1121469649524117608"
+        "message": "1121469649524117608",
+        "stats": {
+          "total": 18,
+          "users": 14
+        }
       }
     ],
     "last_used": 19530
   },
   {
-    "text": "What book, movie, album, etc. always makes you feel better when you're having a bad day?"
+    "text": "What book, movie, album, etc. always makes you feel better when you're having a bad day?",
+    "history": [
+      {
+        "day": 19531,
+        "message": "1121832037872046092"
+      }
+    ],
+    "last_used": 19531
   },
   {
     "text": "If a stranger visited your home, they'd think you seem like a normal person, until they saw ___"
