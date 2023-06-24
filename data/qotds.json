@@ -177,13 +177,24 @@
     "history": [
       {
         "day": 19531,
-        "message": "1121832037872046092"
+        "message": "1121832037872046092",
+        "stats": {
+          "total": 33,
+          "users": 16
+        }
       }
     ],
     "last_used": 19531
   },
   {
-    "text": "If a stranger visited your home, they'd think you seem like a normal person, until they saw ___"
+    "text": "If a stranger visited your home, they'd think you seem like a normal person, until they saw ___",
+    "history": [
+      {
+        "day": 19532,
+        "message": "1122194425934782474"
+      }
+    ],
+    "last_used": 19532
   },
   {
     "text": "Which one recipe are you most proud of being able to cook?"
