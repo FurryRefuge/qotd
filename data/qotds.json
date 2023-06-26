@@ -205,13 +205,24 @@
     "history": [
       {
         "day": 19533,
-        "message": "1122556813934604328"
+        "message": "1122556813934604328",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ],
     "last_used": 19533
   },
   {
-    "text": "If you could have a wild animal as a pet, what would it be and why?"
+    "text": "If you could have a wild animal as a pet, what would it be and why?",
+    "history": [
+      {
+        "day": 19534,
+        "message": "1122919249824989254"
+      }
+    ],
+    "last_used": 19534
   },
   {
     "text": "Tell us about your chair. Is it great? How does your back like it?"
