@@ -219,13 +219,24 @@
     "history": [
       {
         "day": 19534,
-        "message": "1122919249824989254"
+        "message": "1122919249824989254",
+        "stats": {
+          "total": 21,
+          "users": 15
+        }
       }
     ],
     "last_used": 19534
   },
   {
-    "text": "Tell us about your chair. Is it great? How does your back like it?"
+    "text": "Tell us about your chair. Is it great? How does your back like it?",
+    "history": [
+      {
+        "day": 19535,
+        "message": "1123281589430923346"
+      }
+    ],
+    "last_used": 19535
   },
   {
     "text": "What's the strangest place you've ever been?"
