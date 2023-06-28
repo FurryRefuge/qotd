@@ -233,13 +233,24 @@
     "history": [
       {
         "day": 19535,
-        "message": "1123281589430923346"
+        "message": "1123281589430923346",
+        "stats": {
+          "total": 26,
+          "users": 15
+        }
       }
     ],
     "last_used": 19535
   },
   {
-    "text": "What's the strangest place you've ever been?"
+    "text": "What's the strangest place you've ever been?",
+    "history": [
+      {
+        "day": 19536,
+        "message": "1123644004010041405"
+      }
+    ],
+    "last_used": 19536
   },
   {
     "text": "When you become all-powerful Imperial Ruler of the World, what's the first law that you'll implement?"
