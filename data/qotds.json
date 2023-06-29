@@ -247,13 +247,24 @@
     "history": [
       {
         "day": 19536,
-        "message": "1123644004010041405"
+        "message": "1123644004010041405",
+        "stats": {
+          "total": 18,
+          "users": 12
+        }
       }
     ],
     "last_used": 19536
   },
   {
-    "text": "When you become all-powerful Imperial Ruler of the World, what's the first law that you'll implement?"
+    "text": "When you become all-powerful Imperial Ruler of the World, what's the first law that you'll implement?",
+    "history": [
+      {
+        "day": 19537,
+        "message": "1124006364809805967"
+      }
+    ],
+    "last_used": 19537
   },
   {
     "text": "If you were a pie, what kind of pie would you be?"
