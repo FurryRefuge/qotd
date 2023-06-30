@@ -261,13 +261,24 @@
     "history": [
       {
         "day": 19537,
-        "message": "1124006364809805967"
+        "message": "1124006364809805967",
+        "stats": {
+          "total": 18,
+          "users": 16
+        }
       }
     ],
     "last_used": 19537
   },
   {
-    "text": "If you were a pie, what kind of pie would you be?"
+    "text": "If you were a pie, what kind of pie would you be?",
+    "history": [
+      {
+        "day": 19538,
+        "message": "1124368754667696138"
+      }
+    ],
+    "last_used": 19538
   },
   {
     "text": "What is your favourite breakfast snack?"
