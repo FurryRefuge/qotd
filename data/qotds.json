@@ -275,13 +275,24 @@
     "history": [
       {
         "day": 19538,
-        "message": "1124368754667696138"
+        "message": "1124368754667696138",
+        "stats": {
+          "total": 22,
+          "users": 16
+        }
       }
     ],
     "last_used": 19538
   },
   {
-    "text": "What is your favourite breakfast snack?"
+    "text": "What is your favourite breakfast snack?",
+    "history": [
+      {
+        "day": 19539,
+        "message": "1124731140473884763"
+      }
+    ],
+    "last_used": 19539
   },
   {
     "text": "What is the best movie you've ever watched?"
