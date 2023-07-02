@@ -289,13 +289,24 @@
     "history": [
       {
         "day": 19539,
-        "message": "1124731140473884763"
+        "message": "1124731140473884763",
+        "stats": {
+          "total": 23,
+          "users": 19
+        }
       }
     ],
     "last_used": 19539
   },
   {
-    "text": "What is the best movie you've ever watched?"
+    "text": "What is the best movie you've ever watched?",
+    "history": [
+      {
+        "day": 19540,
+        "message": "1125093529270616198"
+      }
+    ],
+    "last_used": 19540
   },
   {
     "text": "What is the worst thing you've ever done to a friend?"
