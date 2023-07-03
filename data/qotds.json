@@ -303,13 +303,24 @@
     "history": [
       {
         "day": 19540,
-        "message": "1125093529270616198"
+        "message": "1125093529270616198",
+        "stats": {
+          "total": 26,
+          "users": 14
+        }
       }
     ],
     "last_used": 19540
   },
   {
-    "text": "What is the worst thing you've ever done to a friend?"
+    "text": "What is the worst thing you've ever done to a friend?",
+    "history": [
+      {
+        "day": 19541,
+        "message": "1125455916729380894"
+      }
+    ],
+    "last_used": 19541
   },
   {
     "text": "If you had 2 days to live with seemingly infinite amount of money, what would you do?"
