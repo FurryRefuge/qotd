@@ -317,13 +317,24 @@
     "history": [
       {
         "day": 19541,
-        "message": "1125455916729380894"
+        "message": "1125455916729380894",
+        "stats": {
+          "total": 26,
+          "users": 15
+        }
       }
     ],
     "last_used": 19541
   },
   {
-    "text": "If you had 2 days to live with seemingly infinite amount of money, what would you do?"
+    "text": "If you had 2 days to live with seemingly infinite amount of money, what would you do?",
+    "history": [
+      {
+        "day": 19542,
+        "message": "1125818303596732527"
+      }
+    ],
+    "last_used": 19542
   },
   {
     "text": "What is your dream job?"
