@@ -331,13 +331,24 @@
     "history": [
       {
         "day": 19542,
-        "message": "1125818303596732527"
+        "message": "1125818303596732527",
+        "stats": {
+          "total": 23,
+          "users": 16
+        }
       }
     ],
     "last_used": 19542
   },
   {
-    "text": "What is your dream job?"
+    "text": "What is your dream job?",
+    "history": [
+      {
+        "day": 19543,
+        "message": "1126180692586418247"
+      }
+    ],
+    "last_used": 19543
   },
   {
     "text": "What is your worst phobia/fear?"
