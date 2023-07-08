@@ -373,13 +373,24 @@
     "history": [
       {
         "day": 19545,
-        "message": "1126905467902382210"
+        "message": "1126905467902382210",
+        "stats": {
+          "total": 28,
+          "users": 16
+        }
       }
     ],
     "last_used": 19545
   },
   {
-    "text": "What are you most passionate about?"
+    "text": "What are you most passionate about?",
+    "history": [
+      {
+        "day": 19546,
+        "message": "1127267856371953684"
+      }
+    ],
+    "last_used": 19546
   },
   {
     "text": "What is the craziest thing you have ever done?"
