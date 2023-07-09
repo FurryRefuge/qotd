@@ -387,13 +387,24 @@
     "history": [
       {
         "day": 19546,
-        "message": "1127267856371953684"
+        "message": "1127267856371953684",
+        "stats": {
+          "total": 27,
+          "users": 16
+        }
       }
     ],
     "last_used": 19546
   },
   {
-    "text": "What is the craziest thing you have ever done?"
+    "text": "What is the craziest thing you have ever done?",
+    "history": [
+      {
+        "day": 19547,
+        "message": "1127630245688774656"
+      }
+    ],
+    "last_used": 19547
   },
   {
     "text": "What would be your ideal morning breakfast?"
