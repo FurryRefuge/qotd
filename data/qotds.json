@@ -401,13 +401,24 @@
     "history": [
       {
         "day": 19547,
-        "message": "1127630245688774656"
+        "message": "1127630245688774656",
+        "stats": {
+          "total": 42,
+          "users": 16
+        }
       }
     ],
     "last_used": 19547
   },
   {
-    "text": "What would be your ideal morning breakfast?"
+    "text": "What would be your ideal morning breakfast?",
+    "history": [
+      {
+        "day": 19548,
+        "message": "1127992632358993970"
+      }
+    ],
+    "last_used": 19548
   },
   {
     "text": "What is your favourite Easter tradition?"
