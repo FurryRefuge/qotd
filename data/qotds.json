@@ -415,13 +415,24 @@
     "history": [
       {
         "day": 19548,
-        "message": "1127992632358993970"
+        "message": "1127992632358993970",
+        "stats": {
+          "total": 18,
+          "users": 14
+        }
       }
     ],
     "last_used": 19548
   },
   {
-    "text": "What is your favourite Easter tradition?"
+    "text": "What is your favourite Easter tradition?",
+    "history": [
+      {
+        "day": 19549,
+        "message": "1128355020249772194"
+      }
+    ],
+    "last_used": 19549
   },
   {
     "text": "What would you do for a day without using the internet?"
