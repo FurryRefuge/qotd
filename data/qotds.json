@@ -443,13 +443,24 @@
     "history": [
       {
         "day": 19550,
-        "message": "1128717407284908033"
+        "message": "1128717407284908033",
+        "stats": {
+          "total": 36,
+          "users": 15
+        }
       }
     ],
     "last_used": 19550
   },
   {
-    "text": "What is the cutest thing you've ever seen?"
+    "text": "What is the cutest thing you've ever seen?",
+    "history": [
+      {
+        "day": 19551,
+        "message": "1129079796207472742"
+      }
+    ],
+    "last_used": 19551
   },
   {
     "text": "What is your favourite made-up ice cream flavour?"
