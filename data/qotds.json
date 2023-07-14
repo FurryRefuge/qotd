@@ -457,13 +457,24 @@
     "history": [
       {
         "day": 19551,
-        "message": "1129079796207472742"
+        "message": "1129079796207472742",
+        "stats": {
+          "total": 23,
+          "users": 11
+        }
       }
     ],
     "last_used": 19551
   },
   {
-    "text": "What is your favourite made-up ice cream flavour?"
+    "text": "What is your favourite made-up ice cream flavour?",
+    "history": [
+      {
+        "day": 19552,
+        "message": "1129442182705729597"
+      }
+    ],
+    "last_used": 19552
   },
   {
     "text": "What is something you are utterly obsessed with at the moment?"
