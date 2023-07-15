@@ -471,13 +471,24 @@
     "history": [
       {
         "day": 19552,
-        "message": "1129442182705729597"
+        "message": "1129442182705729597",
+        "stats": {
+          "total": 34,
+          "users": 19
+        }
       }
     ],
     "last_used": 19552
   },
   {
-    "text": "What is something you are utterly obsessed with at the moment?"
+    "text": "What is something you are utterly obsessed with at the moment?",
+    "history": [
+      {
+        "day": 19553,
+        "message": "1129804571078840471"
+      }
+    ],
+    "last_used": 19553
   },
   {
     "text": "If you could slow down time, what would you do with that power?"
