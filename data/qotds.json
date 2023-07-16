@@ -485,13 +485,24 @@
     "history": [
       {
         "day": 19553,
-        "message": "1129804571078840471"
+        "message": "1129804571078840471",
+        "stats": {
+          "total": 29,
+          "users": 20
+        }
       }
     ],
     "last_used": 19553
   },
   {
-    "text": "If you could slow down time, what would you do with that power?"
+    "text": "If you could slow down time, what would you do with that power?",
+    "history": [
+      {
+        "day": 19554,
+        "message": "1130166958894104617"
+      }
+    ],
+    "last_used": 19554
   },
   {
     "text": "What wastes the most time in your day to day life?"
