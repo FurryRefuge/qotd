@@ -499,13 +499,24 @@
     "history": [
       {
         "day": 19554,
-        "message": "1130166958894104617"
+        "message": "1130166958894104617",
+        "stats": {
+          "total": 27,
+          "users": 18
+        }
       }
     ],
     "last_used": 19554
   },
   {
-    "text": "What wastes the most time in your day to day life?"
+    "text": "What wastes the most time in your day to day life?",
+    "history": [
+      {
+        "day": 19555,
+        "message": "1130529346436735078"
+      }
+    ],
+    "last_used": 19555
   },
   {
     "text": "When things break, do you prefer to fix them or replace them?"
