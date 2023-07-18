@@ -513,13 +513,24 @@
     "history": [
       {
         "day": 19555,
-        "message": "1130529346436735078"
+        "message": "1130529346436735078",
+        "stats": {
+          "total": 17,
+          "users": 15
+        }
       }
     ],
     "last_used": 19555
   },
   {
-    "text": "When things break, do you prefer to fix them or replace them?"
+    "text": "When things break, do you prefer to fix them or replace them?",
+    "history": [
+      {
+        "day": 19556,
+        "message": "1130891734314918090"
+      }
+    ],
+    "last_used": 19556
   },
   {
     "text": "What is the best thing out of everything in existence? (Must be a real thing and not a person)"
