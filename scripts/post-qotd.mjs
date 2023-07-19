@@ -12,6 +12,7 @@ import * as constants from './shared/constants.mjs';
 process.env.TZ = 'UTC';
 
 assert.ok(process.env.DISCORD_TOKEN);
+assert.ok(qotds.length > 0);
 
 const argv = process.argv.slice(2);
 const args = {};
@@ -68,7 +69,11 @@ let wait = restart - time;
 
 assert.ok(!(did_qotd_today && 0 <= wait))
 
-if (args.test) wait = 0, qotd_day = 1 + getLastUsedQotdEntry().last_used;
+if (args.test) {
+  wait = 0;
+  const entry = getLastUsedQotdEntry();
+  qotd_day = undefined === entry ? 0 : 1 + entry.last_used;
+}
 else if (0 > wait) {
   if (process.env.CI) {
     // ci is given a 30 minute grace period
@@ -89,7 +94,10 @@ else if (0 > wait) {
 const oldest_qotd_entry = getOldestQotdEntry();
 setTimeout(async function () {
   const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
-  await createStatsForLast(rest);
+  {
+    const promise = createStatsForLast(rest);
+    if (promise !== undefined) await promise;
+  }
 
   const message = await rest.post(`/channels/${qotd_channel}/messages`, {
     body: createMessagePayload(args.test ? '0' : constants.qotd_role, oldest_qotd_entry.text, oldest_qotd_entry.author),
@@ -103,6 +111,7 @@ setTimeout(async function () {
 
 function createStatsForLast(rest) {
   const last_qotd_entry = getLastUsedQotdEntry();
+  if (last_qotd_entry === undefined) return;
   if (!('history' in last_qotd_entry)) return console.error('last used qotd entry had no history');
   if (0 === last_qotd_entry.history.length) return constants.error('last used qotd entry history is an empty array');
 
@@ -140,9 +149,15 @@ function createStatsForLast(rest) {
 function getOldestQotdEntry() {
   let entry = qotds[0];
 
-  for (const qotd of qotds) {
-    if (!('last_used' in entry)) break;
-    if (!('last_used' in qotd)) return qotd;
+  for (let i = 0; i < qotds.length; ++i) {
+    const qotd = qotds[i];
+    if (!('last_used' in qotd)) {
+      if ('author' in qotd) return qotd;
+      else if (!('last_used' in entry)) entry = qotd;
+      continue;
+    }
+
+    if (!('last_used' in entry)) continue;
     if (qotd.last_used < entry.last_used) entry = qotd;
   }
 
@@ -150,10 +165,13 @@ function getOldestQotdEntry() {
 }
 
 function getLastUsedQotdEntry() {
-  let entry = qotds[0];
+  let i = 0;
+  while (!('last_used' in qotds[i]))
+    if (++i <= qotds.length) return;
+  let entry = qotds[i];
 
-  for (const qotd of qotds) {
-    if (!('last_used' in entry)) continue;
+  for (; i < qotds.length; ++i) {
+    const qotd = qotds[i];
     if (!('last_used' in qotd)) continue;
     if (qotd.last_used > entry.last_used) entry = qotd;
   }
