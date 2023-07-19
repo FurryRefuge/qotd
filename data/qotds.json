@@ -527,13 +527,24 @@
     "history": [
       {
         "day": 19556,
-        "message": "1130891734314918090"
+        "message": "1130891734314918090",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 19556
   },
   {
-    "text": "What is the best thing out of everything in existence? (Must be a real thing and not a person)"
+    "text": "What is the best thing out of everything in existence? (Must be a real thing and not a person)",
+    "history": [
+      {
+        "day": 19557,
+        "message": "1131254122843230238"
+      }
+    ],
+    "last_used": 19557
   },
   {
     "text": "What is your favorite meal to have for dinner?"
