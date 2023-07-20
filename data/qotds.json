@@ -541,7 +541,11 @@
     "history": [
       {
         "day": 19557,
-        "message": "1131254122843230238"
+        "message": "1131254122843230238",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19557
@@ -1076,7 +1080,14 @@
   },
   {
     "author": "292959447444226048",
-    "text": "If you could get the car of your choice for free, what car would you get?"
+    "text": "If you could get the car of your choice for free, what car would you get?",
+    "history": [
+      {
+        "day": 19558,
+        "message": "1131616510855626904"
+      }
+    ],
+    "last_used": 19558
   },
   {
     "text": "What's a treat you can't live without?"
