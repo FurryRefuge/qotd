@@ -1084,7 +1084,11 @@
     "history": [
       {
         "day": 19558,
-        "message": "1131616510855626904"
+        "message": "1131616510855626904",
+        "stats": {
+          "total": 33,
+          "users": 17
+        }
       }
     ],
     "last_used": 19558
@@ -1094,7 +1098,14 @@
   },
   {
     "author": "884625785913221121",
-    "text": "What is your favourite animal?"
+    "text": "What is your favourite animal?",
+    "history": [
+      {
+        "day": 19559,
+        "message": "1131978897605541960"
+      }
+    ],
+    "last_used": 19559
   },
   {
     "author": "641877579443208196",
