@@ -1102,13 +1102,24 @@
     "history": [
       {
         "day": 19559,
-        "message": "1131978897605541960"
+        "message": "1131978897605541960",
+        "stats": {
+          "total": 30,
+          "users": 17
+        }
       }
     ],
     "last_used": 19559
   },
   {
     "author": "641877579443208196",
-    "text": "What is the dumbest thing you have ever done?"
+    "text": "What is the dumbest thing you have ever done?",
+    "history": [
+      {
+        "day": 19560,
+        "message": "1132341285823447170"
+      }
+    ],
+    "last_used": 19560
   }
 ]
