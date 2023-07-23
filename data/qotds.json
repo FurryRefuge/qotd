@@ -2,7 +2,13 @@
   {
     "text": "What is your favourite homemade meal?",
     "author": "692389214909759648",
-    "last_used": 19493
+    "last_used": 19561,
+    "history": [
+      {
+        "day": 19561,
+        "message": "1132703673760362610"
+      }
+    ]
   },
   {
     "text": "If you discovered a new island, what would you name it and why?",
@@ -1117,7 +1123,11 @@
     "history": [
       {
         "day": 19560,
-        "message": "1132341285823447170"
+        "message": "1132341285823447170",
+        "stats": {
+          "total": 26,
+          "users": 15
+        }
       }
     ],
     "last_used": 19560
