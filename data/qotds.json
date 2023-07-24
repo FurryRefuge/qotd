@@ -6,13 +6,23 @@
     "history": [
       {
         "day": 19561,
-        "message": "1132703673760362610"
+        "message": "1132703673760362610",
+        "stats": {
+          "total": 19,
+          "users": 15
+        }
       }
     ]
   },
   {
     "text": "If you discovered a new island, what would you name it and why?",
-    "last_used": 19494
+    "last_used": 19562,
+    "history": [
+      {
+        "day": 19562,
+        "message": "1133066062187987014"
+      }
+    ]
   },
   {
     "text": "What is something you are utterly obsessed with at the moment",
