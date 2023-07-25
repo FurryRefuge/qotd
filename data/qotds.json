@@ -20,13 +20,23 @@
     "history": [
       {
         "day": 19562,
-        "message": "1133066062187987014"
+        "message": "1133066062187987014",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ]
   },
   {
     "text": "What is something you are utterly obsessed with at the moment",
-    "last_used": 19495
+    "last_used": 19563,
+    "history": [
+      {
+        "day": 19563,
+        "message": "1133428449474785331"
+      }
+    ]
   },
   {
     "text": "What do you greatly enjoy doing but wish you could do more?",
