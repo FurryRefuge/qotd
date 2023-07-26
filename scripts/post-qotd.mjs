@@ -153,7 +153,7 @@ function getOldestQotdEntry() {
     const qotd = qotds[i];
     if (!('last_used' in qotd)) {
       if ('author' in qotd) return qotd;
-      else if (!('last_used' in entry)) entry = qotd;
+      else if ('last_used' in entry) entry = qotd;
       continue;
     }
 
