@@ -48,7 +48,11 @@
     "history": [
       {
         "day": 19564,
-        "message": "1133790837600436274"
+        "message": "1133790837600436274",
+        "stats": {
+          "total": 20,
+          "users": 16
+        }
       }
     ]
   },
@@ -587,7 +591,14 @@
     "last_used": 19557
   },
   {
-    "text": "What is your favorite meal to have for dinner?"
+    "text": "What is your favorite meal to have for dinner?",
+    "history": [
+      {
+        "day": 19565,
+        "message": "1134153225327624323"
+      }
+    ],
+    "last_used": 19565
   },
   {
     "text": "What is your favorite Discord feature?"
