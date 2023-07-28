@@ -595,13 +595,24 @@
     "history": [
       {
         "day": 19565,
-        "message": "1134153225327624323"
+        "message": "1134153225327624323",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ],
     "last_used": 19565
   },
   {
-    "text": "What is your favorite Discord feature?"
+    "text": "What is your favorite Discord feature?",
+    "history": [
+      {
+        "day": 19566,
+        "message": "1134515612878651423"
+      }
+    ],
+    "last_used": 19566
   },
   {
     "text": "What do you like to collect?"
