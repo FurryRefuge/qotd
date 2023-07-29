@@ -609,13 +609,24 @@
     "history": [
       {
         "day": 19566,
-        "message": "1134515612878651423"
+        "message": "1134515612878651423",
+        "stats": {
+          "total": 26,
+          "users": 15
+        }
       }
     ],
     "last_used": 19566
   },
   {
-    "text": "What do you like to collect?"
+    "text": "What do you like to collect?",
+    "history": [
+      {
+        "day": 19567,
+        "message": "1134878001146908793"
+      }
+    ],
+    "last_used": 19567
   },
   {
     "text": "If you had a Get Out of Jail Free card, what perfect crime would you commit?"
