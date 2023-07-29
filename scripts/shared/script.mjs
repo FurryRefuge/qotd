@@ -9,9 +9,21 @@ export function createMessagePayload(role_id, text, author) {
       {
         color: 0x01DDFF,
         description:
-          `**${text}**\n` +
-          '> [Notifications can be disabled here](https://discord.com/channels/368557500884189186/645783730559909908/694594700249792573)\n' +
-          `> ${author ? `By <@${author}> from ` : ''}<#1065322834265653309>`,
+          `### **${text}**\n` +
+          '> [Notifications can be disabled here](https://discord.com/channels/368557500884189186/645783730559909908/694594700249792573)',
+      },
+    ],
+    components: [
+      {
+        type: 1,
+        components: [
+          {
+            type: 2,
+            style: 5,
+            label: 'Suggest a QoTD',
+            url: 'https://discord.com/channels/368557500884189186/1065322834265653309',
+          },
+        ],
       },
     ],
   }
