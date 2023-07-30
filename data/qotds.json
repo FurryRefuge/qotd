@@ -623,13 +623,24 @@
     "history": [
       {
         "day": 19567,
-        "message": "1134878001146908793"
+        "message": "1134878001146908793",
+        "stats": {
+          "total": 17,
+          "users": 13
+        }
       }
     ],
     "last_used": 19567
   },
   {
-    "text": "If you had a Get Out of Jail Free card, what perfect crime would you commit?"
+    "text": "If you had a Get Out of Jail Free card, what perfect crime would you commit?",
+    "history": [
+      {
+        "day": 19568,
+        "message": "1135240389243195463"
+      }
+    ],
+    "last_used": 19568
   },
   {
     "text": "What is your favourite carvery?"
