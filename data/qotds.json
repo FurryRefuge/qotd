@@ -637,13 +637,24 @@
     "history": [
       {
         "day": 19568,
-        "message": "1135240389243195463"
+        "message": "1135240389243195463",
+        "stats": {
+          "total": 23,
+          "users": 15
+        }
       }
     ],
     "last_used": 19568
   },
   {
-    "text": "What is your favourite carvery?"
+    "text": "What is your favourite carvery?",
+    "history": [
+      {
+        "day": 19569,
+        "message": "1135602777855373352"
+      }
+    ],
+    "last_used": 19569
   },
   {
     "text": "What is the best birthday gift you ever got?"
