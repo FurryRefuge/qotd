@@ -651,13 +651,24 @@
     "history": [
       {
         "day": 19569,
-        "message": "1135610533085724833"
+        "message": "1135610533085724833",
+        "stats": {
+          "total": 20,
+          "users": 12
+        }
       }
     ],
     "last_used": 19569
   },
   {
-    "text": "What is your favourite cake?"
+    "text": "What is your favourite cake?",
+    "history": [
+      {
+        "day": 19570,
+        "message": "1135965164630450276"
+      }
+    ],
+    "last_used": 19570
   },
   {
     "text": "What is your favourite takeout?"
