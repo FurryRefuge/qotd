@@ -665,13 +665,24 @@
     "history": [
       {
         "day": 19570,
-        "message": "1135965164630450276"
+        "message": "1135965164630450276",
+        "stats": {
+          "total": 17,
+          "users": 17
+        }
       }
     ],
     "last_used": 19570
   },
   {
-    "text": "What is your favourite takeout?"
+    "text": "What is your favourite takeout?",
+    "history": [
+      {
+        "day": 19571,
+        "message": "1136327553498497035"
+      }
+    ],
+    "last_used": 19571
   },
   {
     "text": "What is your favourite holiday (i.e. halloween, christmas, etc)?"
