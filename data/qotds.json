@@ -679,13 +679,24 @@
     "history": [
       {
         "day": 19571,
-        "message": "1136327553498497035"
+        "message": "1136327553498497035",
+        "stats": {
+          "total": 15,
+          "users": 15
+        }
       }
     ],
     "last_used": 19571
   },
   {
-    "text": "What is your favourite holiday (i.e. halloween, christmas, etc)?"
+    "text": "What is your favourite holiday (i.e. halloween, christmas, etc)?",
+    "history": [
+      {
+        "day": 19572,
+        "message": "1136689941833846784"
+      }
+    ],
+    "last_used": 19572
   },
   {
     "text": "What is your favourite takeaway?"
