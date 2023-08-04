@@ -693,13 +693,24 @@
     "history": [
       {
         "day": 19572,
-        "message": "1136689941833846784"
+        "message": "1136689941833846784",
+        "stats": {
+          "total": 12,
+          "users": 12
+        }
       }
     ],
     "last_used": 19572
   },
   {
-    "text": "What is your favourite takeaway?"
+    "text": "What is your favourite takeaway?",
+    "history": [
+      {
+        "day": 19573,
+        "message": "1137052328109813821"
+      }
+    ],
+    "last_used": 19573
   },
   {
     "text": "What is your favourite McDonads' McFlurry flavour and why? (Oreo, M&Ms, Mars, etc)"
