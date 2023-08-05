@@ -707,13 +707,24 @@
     "history": [
       {
         "day": 19573,
-        "message": "1137052328109813821"
+        "message": "1137052328109813821",
+        "stats": {
+          "total": 12,
+          "users": 9
+        }
       }
     ],
     "last_used": 19573
   },
   {
-    "text": "What is your favourite McDonads' McFlurry flavour and why? (Oreo, M&Ms, Mars, etc)"
+    "text": "What is your favourite McDonads' McFlurry flavour and why? (Oreo, M&Ms, Mars, etc)",
+    "history": [
+      {
+        "day": 19574,
+        "message": "1137414716608749658"
+      }
+    ],
+    "last_used": 19574
   },
   {
     "text": "What is your all-time favourite song?"
