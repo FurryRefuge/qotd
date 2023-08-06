@@ -721,13 +721,24 @@
     "history": [
       {
         "day": 19574,
-        "message": "1137414716608749658"
+        "message": "1137414716608749658",
+        "stats": {
+          "total": 19,
+          "users": 14
+        }
       }
     ],
     "last_used": 19574
   },
   {
-    "text": "What is your all-time favourite song?"
+    "text": "What is your all-time favourite song?",
+    "history": [
+      {
+        "day": 19575,
+        "message": "1137777104587604081"
+      }
+    ],
+    "last_used": 19575
   },
   {
     "text": "What is the worst movie that you've ever seen?"
