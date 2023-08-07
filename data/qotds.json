@@ -735,13 +735,24 @@
     "history": [
       {
         "day": 19575,
-        "message": "1137777104587604081"
+        "message": "1137777104587604081",
+        "stats": {
+          "total": 26,
+          "users": 14
+        }
       }
     ],
     "last_used": 19575
   },
   {
-    "text": "What is the worst movie that you've ever seen?"
+    "text": "What is the worst movie that you've ever seen?",
+    "history": [
+      {
+        "day": 19576,
+        "message": "1138139491501084673"
+      }
+    ],
+    "last_used": 19576
   },
   {
     "text": "What is your favourite TV show?"
