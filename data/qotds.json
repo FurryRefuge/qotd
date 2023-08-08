@@ -749,13 +749,24 @@
     "history": [
       {
         "day": 19576,
-        "message": "1138139491501084673"
+        "message": "1138139491501084673",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19576
   },
   {
-    "text": "What is your favourite TV show?"
+    "text": "What is your favourite TV show?",
+    "history": [
+      {
+        "day": 19577,
+        "message": "1138501880000028702"
+      }
+    ],
+    "last_used": 19577
   },
   {
     "text": "What is your favourite dessert?"
