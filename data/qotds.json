@@ -763,13 +763,24 @@
     "history": [
       {
         "day": 19577,
-        "message": "1138501880000028702"
+        "message": "1138501880000028702",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ],
     "last_used": 19577
   },
   {
-    "text": "What is your favourite dessert?"
+    "text": "What is your favourite dessert?",
+    "history": [
+      {
+        "day": 19578,
+        "message": "1138864267790135370"
+      }
+    ],
+    "last_used": 19578
   },
   {
     "text": "What are three websites that you visit every day?"
