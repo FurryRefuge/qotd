@@ -777,13 +777,24 @@
     "history": [
       {
         "day": 19578,
-        "message": "1138864267790135370"
+        "message": "1138864267790135370",
+        "stats": {
+          "total": 41,
+          "users": 24
+        }
       }
     ],
     "last_used": 19578
   },
   {
-    "text": "What are three websites that you visit every day?"
+    "text": "What are three websites that you visit every day?",
+    "history": [
+      {
+        "day": 19579,
+        "message": "1139226656398127196"
+      }
+    ],
+    "last_used": 19579
   },
   {
     "text": "What junk food do you feel most guilty after eating?"
