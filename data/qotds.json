@@ -791,13 +791,24 @@
     "history": [
       {
         "day": 19579,
-        "message": "1139226656398127196"
+        "message": "1139226656398127196",
+        "stats": {
+          "total": 29,
+          "users": 17
+        }
       }
     ],
     "last_used": 19579
   },
   {
-    "text": "What junk food do you feel most guilty after eating?"
+    "text": "What junk food do you feel most guilty after eating?",
+    "history": [
+      {
+        "day": 19580,
+        "message": "1139589043978510476"
+      }
+    ],
+    "last_used": 19580
   },
   {
     "text": "What is the best thing that happened to you this week?"
