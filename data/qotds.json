@@ -805,13 +805,24 @@
     "history": [
       {
         "day": 19580,
-        "message": "1139589043978510476"
+        "message": "1139589043978510476",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19580
   },
   {
-    "text": "What is the best thing that happened to you this week?"
+    "text": "What is the best thing that happened to you this week?",
+    "history": [
+      {
+        "day": 19581,
+        "message": "1139951430996865127"
+      }
+    ],
+    "last_used": 19581
   },
   {
     "text": "What is your favourite ice crean?"
