@@ -819,13 +819,24 @@
     "history": [
       {
         "day": 19581,
-        "message": "1139951430996865127"
+        "message": "1139951430996865127",
+        "stats": {
+          "total": 24,
+          "users": 17
+        }
       }
     ],
     "last_used": 19581
   },
   {
-    "text": "What is your favourite ice crean?"
+    "text": "What is your favourite ice crean?",
+    "history": [
+      {
+        "day": 19582,
+        "message": "1140313819168649227"
+      }
+    ],
+    "last_used": 19582
   },
   {
     "text": "What kind of music do you like to listen to and why?"
