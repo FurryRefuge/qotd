@@ -833,13 +833,24 @@
     "history": [
       {
         "day": 19582,
-        "message": "1140313819168649227"
+        "message": "1140313819168649227",
+        "stats": {
+          "total": 17,
+          "users": 17
+        }
       }
     ],
     "last_used": 19582
   },
   {
-    "text": "What kind of music do you like to listen to and why?"
+    "text": "What kind of music do you like to listen to and why?",
+    "history": [
+      {
+        "day": 19583,
+        "message": "1140676207013269574"
+      }
+    ],
+    "last_used": 19583
   },
   {
     "text": "What is your favourite type of cake?"
