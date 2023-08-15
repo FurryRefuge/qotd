@@ -847,13 +847,24 @@
     "history": [
       {
         "day": 19583,
-        "message": "1140676207013269574"
+        "message": "1140676207013269574",
+        "stats": {
+          "total": 21,
+          "users": 20
+        }
       }
     ],
     "last_used": 19583
   },
   {
-    "text": "What is your favourite type of cake?"
+    "text": "What is your favourite type of cake?",
+    "history": [
+      {
+        "day": 19584,
+        "message": "1141038595013083177"
+      }
+    ],
+    "last_used": 19584
   },
   {
     "text": "What is your favourite restaurant and why?"
