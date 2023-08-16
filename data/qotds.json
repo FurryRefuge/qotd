@@ -861,7 +861,11 @@
     "history": [
       {
         "day": 19584,
-        "message": "1141038595013083177"
+        "message": "1141038595013083177",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ],
     "last_used": 19584
@@ -1381,7 +1385,14 @@
   },
   {
     "author": "898704751984787476",
-    "text": "What is your favourite quote?"
+    "text": "What is your favourite quote?",
+    "history": [
+      {
+        "day": 19585,
+        "message": "1141401041951268935"
+      }
+    ],
+    "last_used": 19585
   },
   {
     "author": "453708408777080833",
