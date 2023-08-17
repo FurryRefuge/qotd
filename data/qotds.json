@@ -1389,13 +1389,24 @@
     "history": [
       {
         "day": 19585,
-        "message": "1141401041951268935"
+        "message": "1141401041951268935",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ],
     "last_used": 19585
   },
   {
     "author": "453708408777080833",
-    "text": "What would be your ideal lifestyle?"
+    "text": "What would be your ideal lifestyle?",
+    "history": [
+      {
+        "day": 19586,
+        "message": "1141763370803003423"
+      }
+    ],
+    "last_used": 19586
   }
 ]
