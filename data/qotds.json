@@ -871,7 +871,14 @@
     "last_used": 19584
   },
   {
-    "text": "What is your favourite restaurant and why?"
+    "text": "What is your favourite restaurant and why?",
+    "history": [
+      {
+        "day": 19587,
+        "message": "1142125758379196437"
+      }
+    ],
+    "last_used": 19587
   },
   {
     "text": "What is your favourite movie and why?"
@@ -1404,7 +1411,11 @@
     "history": [
       {
         "day": 19586,
-        "message": "1141763370803003423"
+        "message": "1141763370803003423",
+        "stats": {
+          "total": 11,
+          "users": 10
+        }
       }
     ],
     "last_used": 19586
