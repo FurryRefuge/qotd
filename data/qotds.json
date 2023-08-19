@@ -875,13 +875,24 @@
     "history": [
       {
         "day": 19587,
-        "message": "1142125758379196437"
+        "message": "1142125758379196437",
+        "stats": {
+          "total": 16,
+          "users": 12
+        }
       }
     ],
     "last_used": 19587
   },
   {
-    "text": "What is your favourite movie and why?"
+    "text": "What is your favourite movie and why?",
+    "history": [
+      {
+        "day": 19588,
+        "message": "1142488146840404058"
+      }
+    ],
+    "last_used": 19588
   },
   {
     "text": "What is your favourite pudding?"
