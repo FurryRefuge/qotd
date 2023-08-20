@@ -889,13 +889,24 @@
     "history": [
       {
         "day": 19588,
-        "message": "1142488146840404058"
+        "message": "1142488146840404058",
+        "stats": {
+          "total": 29,
+          "users": 17
+        }
       }
     ],
     "last_used": 19588
   },
   {
-    "text": "What is your favourite pudding?"
+    "text": "What is your favourite pudding?",
+    "history": [
+      {
+        "day": 19589,
+        "message": "1142850547632848946"
+      }
+    ],
+    "last_used": 19589
   },
   {
     "text": "If you could only eat one food for the rest of your life, what would it be and why?"
