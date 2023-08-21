@@ -903,13 +903,24 @@
     "history": [
       {
         "day": 19589,
-        "message": "1142850547632848946"
+        "message": "1142850547632848946",
+        "stats": {
+          "total": 19,
+          "users": 17
+        }
       }
     ],
     "last_used": 19589
   },
   {
-    "text": "If you could only eat one food for the rest of your life, what would it be and why?"
+    "text": "If you could only eat one food for the rest of your life, what would it be and why?",
+    "history": [
+      {
+        "day": 19590,
+        "message": "1143212922944880781"
+      }
+    ],
+    "last_used": 19590
   },
   {
     "text": "What is the most luckiest thing that has ever happened to you?"
