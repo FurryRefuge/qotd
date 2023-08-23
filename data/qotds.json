@@ -931,13 +931,24 @@
     "history": [
       {
         "day": 19591,
-        "message": "1143575310768541756"
+        "message": "1143575310768541756",
+        "stats": {
+          "total": 14,
+          "users": 10
+        }
       }
     ],
     "last_used": 19591
   },
   {
-    "text": "If you could travel anywhere for free, where would you go and why?"
+    "text": "If you could travel anywhere for free, where would you go and why?",
+    "history": [
+      {
+        "day": 19592,
+        "message": "1143937709946179635"
+      }
+    ],
+    "last_used": 19592
   },
   {
     "text": "If you could meet any celebrity, who would you meet?"
