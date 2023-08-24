@@ -945,13 +945,24 @@
     "history": [
       {
         "day": 19592,
-        "message": "1143937709946179635"
+        "message": "1143937709946179635",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ],
     "last_used": 19592
   },
   {
-    "text": "If you could meet any celebrity, who would you meet?"
+    "text": "If you could meet any celebrity, who would you meet?",
+    "history": [
+      {
+        "day": 19593,
+        "message": "1144300086298415195"
+      }
+    ],
+    "last_used": 19593
   },
   {
     "text": "What website can you not live without?"
