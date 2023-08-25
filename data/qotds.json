@@ -959,13 +959,24 @@
     "history": [
       {
         "day": 19593,
-        "message": "1144300086298415195"
+        "message": "1144300086298415195",
+        "stats": {
+          "total": 13,
+          "users": 13
+        }
       }
     ],
     "last_used": 19593
   },
   {
-    "text": "What website can you not live without?"
+    "text": "What website can you not live without?",
+    "history": [
+      {
+        "day": 19594,
+        "message": "1144662473677488249"
+      }
+    ],
+    "last_used": 19594
   },
   {
     "text": "What is the most disgusting food you have ever eaten?"
