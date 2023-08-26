@@ -973,13 +973,24 @@
     "history": [
       {
         "day": 19594,
-        "message": "1144662473677488249"
+        "message": "1144662473677488249",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ],
     "last_used": 19594
   },
   {
-    "text": "What is the most disgusting food you have ever eaten?"
+    "text": "What is the most disgusting food you have ever eaten?",
+    "history": [
+      {
+        "day": 19595,
+        "message": "1145024861492752464"
+      }
+    ],
+    "last_used": 19595
   },
   {
     "text": "What is the biggest risk you've ever taken that you regret?"
