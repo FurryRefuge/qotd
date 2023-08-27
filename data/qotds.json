@@ -987,13 +987,24 @@
     "history": [
       {
         "day": 19595,
-        "message": "1145024861492752464"
+        "message": "1145024861492752464",
+        "stats": {
+          "total": 19,
+          "users": 15
+        }
       }
     ],
     "last_used": 19595
   },
   {
-    "text": "What is the biggest risk you've ever taken that you regret?"
+    "text": "What is the biggest risk you've ever taken that you regret?",
+    "history": [
+      {
+        "day": 19596,
+        "message": "1145387249068949595"
+      }
+    ],
+    "last_used": 19596
   },
   {
     "text": "If you could send anything to hell forever, what would you send?"
