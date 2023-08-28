@@ -1001,13 +1001,24 @@
     "history": [
       {
         "day": 19596,
-        "message": "1145387249068949595"
+        "message": "1145387249068949595",
+        "stats": {
+          "total": 11,
+          "users": 10
+        }
       }
     ],
     "last_used": 19596
   },
   {
-    "text": "If you could send anything to hell forever, what would you send?"
+    "text": "If you could send anything to hell forever, what would you send?",
+    "history": [
+      {
+        "day": 19597,
+        "message": "1145749637056180476"
+      }
+    ],
+    "last_used": 19597
   },
   {
     "text": "What is your most favourite ice cream flavour?"
