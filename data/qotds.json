@@ -1015,13 +1015,24 @@
     "history": [
       {
         "day": 19597,
-        "message": "1145749637056180476"
+        "message": "1145749637056180476",
+        "stats": {
+          "total": 18,
+          "users": 16
+        }
       }
     ],
     "last_used": 19597
   },
   {
-    "text": "What is your most favourite ice cream flavour?"
+    "text": "What is your most favourite ice cream flavour?",
+    "history": [
+      {
+        "day": 19598,
+        "message": "1146112024967917761"
+      }
+    ],
+    "last_used": 19598
   },
   {
     "text": "What is your most favourite fast food meal?"
