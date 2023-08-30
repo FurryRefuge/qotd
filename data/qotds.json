@@ -1029,13 +1029,24 @@
     "history": [
       {
         "day": 19598,
-        "message": "1146112024967917761"
+        "message": "1146112024967917761",
+        "stats": {
+          "total": 15,
+          "users": 15
+        }
       }
     ],
     "last_used": 19598
   },
   {
-    "text": "What is your most favourite fast food meal?"
+    "text": "What is your most favourite fast food meal?",
+    "history": [
+      {
+        "day": 19599,
+        "message": "1146474412766396487"
+      }
+    ],
+    "last_used": 19599
   },
   {
     "text": "Who's your favourite Marvel character and why?"
