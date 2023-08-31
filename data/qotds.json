@@ -1043,13 +1043,24 @@
     "history": [
       {
         "day": 19599,
-        "message": "1146474412766396487"
+        "message": "1146474412766396487",
+        "stats": {
+          "total": 18,
+          "users": 12
+        }
       }
     ],
     "last_used": 19599
   },
   {
-    "text": "Who's your favourite Marvel character and why?"
+    "text": "Who's your favourite Marvel character and why?",
+    "history": [
+      {
+        "day": 19600,
+        "message": "1146836808144003173"
+      }
+    ],
+    "last_used": 19600
   },
   {
     "text": "What is your favourite Netflix show and why?"
