@@ -1057,13 +1057,24 @@
     "history": [
       {
         "day": 19600,
-        "message": "1146836808144003173"
+        "message": "1146836808144003173",
+        "stats": {
+          "total": 19,
+          "users": 14
+        }
       }
     ],
     "last_used": 19600
   },
   {
-    "text": "What is your favourite Netflix show and why?"
+    "text": "What is your favourite Netflix show and why?",
+    "history": [
+      {
+        "day": 19601,
+        "message": "1147199189307113512"
+      }
+    ],
+    "last_used": 19601
   },
   {
     "text": "What easter celebration do you hate attending?"
