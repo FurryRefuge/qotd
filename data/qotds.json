@@ -1071,13 +1071,24 @@
     "history": [
       {
         "day": 19601,
-        "message": "1147199189307113512"
+        "message": "1147199189307113512",
+        "stats": {
+          "total": 14,
+          "users": 9
+        }
       }
     ],
     "last_used": 19601
   },
   {
-    "text": "What easter celebration do you hate attending?"
+    "text": "What easter celebration do you hate attending?",
+    "history": [
+      {
+        "day": 19602,
+        "message": "1147561583321550890"
+      }
+    ],
+    "last_used": 19602
   },
   {
     "text": "If you could only eat one food for the rest of your life, what would it be?"
