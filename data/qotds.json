@@ -1085,13 +1085,24 @@
     "history": [
       {
         "day": 19602,
-        "message": "1147561583321550890"
+        "message": "1147561583321550890",
+        "stats": {
+          "total": 11,
+          "users": 11
+        }
       }
     ],
     "last_used": 19602
   },
   {
-    "text": "If you could only eat one food for the rest of your life, what would it be?"
+    "text": "If you could only eat one food for the rest of your life, what would it be?",
+    "history": [
+      {
+        "day": 19603,
+        "message": "1147923964279140422"
+      }
+    ],
+    "last_used": 19603
   },
   {
     "text": "What is your favourite restaurant?"
