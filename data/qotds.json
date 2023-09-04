@@ -1099,13 +1099,24 @@
     "history": [
       {
         "day": 19603,
-        "message": "1147923964279140422"
+        "message": "1147923964279140422",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19603
   },
   {
-    "text": "What is your favourite restaurant?"
+    "text": "What is your favourite restaurant?",
+    "history": [
+      {
+        "day": 19604,
+        "message": "1148286351612051567"
+      }
+    ],
+    "last_used": 19604
   },
   {
     "text": "What was the last movie you watched?"
