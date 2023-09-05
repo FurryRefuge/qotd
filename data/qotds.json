@@ -1113,13 +1113,24 @@
     "history": [
       {
         "day": 19604,
-        "message": "1148286351612051567"
+        "message": "1148286351612051567",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19604
   },
   {
-    "text": "What was the last movie you watched?"
+    "text": "What was the last movie you watched?",
+    "history": [
+      {
+        "day": 19605,
+        "message": "1148648740735955056"
+      }
+    ],
+    "last_used": 19605
   },
   {
     "text": "What song is your utmost favourite?"
