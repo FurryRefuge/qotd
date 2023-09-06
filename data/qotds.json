@@ -1127,13 +1127,24 @@
     "history": [
       {
         "day": 19605,
-        "message": "1148648740735955056"
+        "message": "1148648740735955056",
+        "stats": {
+          "total": 18,
+          "users": 17
+        }
       }
     ],
     "last_used": 19605
   },
   {
-    "text": "What song is your utmost favourite?"
+    "text": "What song is your utmost favourite?",
+    "history": [
+      {
+        "day": 19606,
+        "message": "1149011127808835714"
+      }
+    ],
+    "last_used": 19606
   },
   {
     "text": "Who is your number one favourite YouTuber?"
