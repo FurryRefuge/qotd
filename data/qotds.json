@@ -1141,13 +1141,24 @@
     "history": [
       {
         "day": 19606,
-        "message": "1149011127808835714"
+        "message": "1149011127808835714",
+        "stats": {
+          "total": 20,
+          "users": 20
+        }
       }
     ],
     "last_used": 19606
   },
   {
-    "text": "Who is your number one favourite YouTuber?"
+    "text": "Who is your number one favourite YouTuber?",
+    "history": [
+      {
+        "day": 19607,
+        "message": "1149373516177743943"
+      }
+    ],
+    "last_used": 19607
   },
   {
     "text": "What's the tastiest thing in your fridge right now?"
