@@ -1155,13 +1155,24 @@
     "history": [
       {
         "day": 19607,
-        "message": "1149373516177743943"
+        "message": "1149373516177743943",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ],
     "last_used": 19607
   },
   {
-    "text": "What's the tastiest thing in your fridge right now?"
+    "text": "What's the tastiest thing in your fridge right now?",
+    "history": [
+      {
+        "day": 19608,
+        "message": "1149735904353734818"
+      }
+    ],
+    "last_used": 19608
   },
   {
     "text": "What's your favourite chocolate and why?"
