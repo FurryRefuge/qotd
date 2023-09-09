@@ -1169,13 +1169,24 @@
     "history": [
       {
         "day": 19608,
-        "message": "1149735904353734818"
+        "message": "1149735904353734818",
+        "stats": {
+          "total": 24,
+          "users": 18
+        }
       }
     ],
     "last_used": 19608
   },
   {
-    "text": "What's your favourite chocolate and why?"
+    "text": "What's your favourite chocolate and why?",
+    "history": [
+      {
+        "day": 19609,
+        "message": "1150098291598569542"
+      }
+    ],
+    "last_used": 19609
   },
   {
     "text": "Have you ever peed in the shower?"
