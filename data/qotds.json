@@ -1183,13 +1183,24 @@
     "history": [
       {
         "day": 19609,
-        "message": "1150098291598569542"
+        "message": "1150098291598569542",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19609
   },
   {
-    "text": "Have you ever peed in the shower?"
+    "text": "Have you ever peed in the shower?",
+    "history": [
+      {
+        "day": 19610,
+        "message": "1150460680516943993"
+      }
+    ],
+    "last_used": 19610
   },
   {
     "text": "What is your favourite snack?"
