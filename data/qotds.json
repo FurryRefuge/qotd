@@ -1197,13 +1197,24 @@
     "history": [
       {
         "day": 19610,
-        "message": "1150460680516943993"
+        "message": "1150460680516943993",
+        "stats": {
+          "total": 20,
+          "users": 13
+        }
       }
     ],
     "last_used": 19610
   },
   {
-    "text": "What is your favourite snack?"
+    "text": "What is your favourite snack?",
+    "history": [
+      {
+        "day": 19611,
+        "message": "1150823067623370944"
+      }
+    ],
+    "last_used": 19611
   },
   {
     "text": "What is your favourite milkshake flavour and why?"
