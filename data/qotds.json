@@ -1211,13 +1211,24 @@
     "history": [
       {
         "day": 19611,
-        "message": "1150823067623370944"
+        "message": "1150823067623370944",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19611
   },
   {
-    "text": "What is your favourite milkshake flavour and why?"
+    "text": "What is your favourite milkshake flavour and why?",
+    "history": [
+      {
+        "day": 19612,
+        "message": "1151185454595592192"
+      }
+    ],
+    "last_used": 19612
   },
   {
     "text": "What is your favourite weird food combination?"
