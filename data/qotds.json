@@ -1225,13 +1225,24 @@
     "history": [
       {
         "day": 19612,
-        "message": "1151185454595592192"
+        "message": "1151185454595592192",
+        "stats": {
+          "total": 23,
+          "users": 16
+        }
       }
     ],
     "last_used": 19612
   },
   {
-    "text": "What is your favourite weird food combination?"
+    "text": "What is your favourite weird food combination?",
+    "history": [
+      {
+        "day": 19613,
+        "message": "1151547842863833180"
+      }
+    ],
+    "last_used": 19613
   },
   {
     "text": "What is one thing that you can not live without?"
