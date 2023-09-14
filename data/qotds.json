@@ -1239,13 +1239,24 @@
     "history": [
       {
         "day": 19613,
-        "message": "1151547842863833180"
+        "message": "1151547842863833180",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19613
   },
   {
-    "text": "What is one thing that you can not live without?"
+    "text": "What is one thing that you can not live without?",
+    "history": [
+      {
+        "day": 19614,
+        "message": "1151910230301605898"
+      }
+    ],
+    "last_used": 19614
   },
   {
     "text": "What kind of music do you listen to?"
