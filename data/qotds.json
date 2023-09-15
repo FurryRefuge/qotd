@@ -1253,13 +1253,24 @@
     "history": [
       {
         "day": 19614,
-        "message": "1151910230301605898"
+        "message": "1151910230301605898",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19614
   },
   {
-    "text": "What kind of music do you listen to?"
+    "text": "What kind of music do you listen to?",
+    "history": [
+      {
+        "day": 19615,
+        "message": "1152272618729246840"
+      }
+    ],
+    "last_used": 19615
   },
   {
     "text": "What was the last movie you saw?"
