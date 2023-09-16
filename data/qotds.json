@@ -1267,13 +1267,24 @@
     "history": [
       {
         "day": 19615,
-        "message": "1152272618729246840"
+        "message": "1152272618729246840",
+        "stats": {
+          "total": 18,
+          "users": 17
+        }
       }
     ],
     "last_used": 19615
   },
   {
-    "text": "What was the last movie you saw?"
+    "text": "What was the last movie you saw?",
+    "history": [
+      {
+        "day": 19616,
+        "message": "1152635006318035124"
+      }
+    ],
+    "last_used": 19616
   },
   {
     "text": "If you could have one super power, what would it be?"
