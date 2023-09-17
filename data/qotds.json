@@ -1281,13 +1281,24 @@
     "history": [
       {
         "day": 19616,
-        "message": "1152635006318035124"
+        "message": "1152635006318035124",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19616
   },
   {
-    "text": "If you could have one super power, what would it be?"
+    "text": "If you could have one super power, what would it be?",
+    "history": [
+      {
+        "day": 19617,
+        "message": "1152997394640805979"
+      }
+    ],
+    "last_used": 19617
   },
   {
     "text": "What is your favourite hair style and why?"
