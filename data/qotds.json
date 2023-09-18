@@ -1295,13 +1295,24 @@
     "history": [
       {
         "day": 19617,
-        "message": "1152997394640805979"
+        "message": "1152997394640805979",
+        "stats": {
+          "total": 19,
+          "users": 18
+        }
       }
     ],
     "last_used": 19617
   },
   {
-    "text": "What is your favourite hair style and why?"
+    "text": "What is your favourite hair style and why?",
+    "history": [
+      {
+        "day": 19618,
+        "message": "1153359781768216697"
+      }
+    ],
+    "last_used": 19618
   },
   {
     "text": "What's your favourite song?"
