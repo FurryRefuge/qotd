@@ -1309,13 +1309,24 @@
     "history": [
       {
         "day": 19618,
-        "message": "1153359781768216697"
+        "message": "1153359781768216697",
+        "stats": {
+          "total": 19,
+          "users": 17
+        }
       }
     ],
     "last_used": 19618
   },
   {
-    "text": "What's your favourite song?"
+    "text": "What's your favourite song?",
+    "history": [
+      {
+        "day": 19619,
+        "message": "1153722169973547039"
+      }
+    ],
+    "last_used": 19619
   },
   {
     "text": "What's your favourite chocolate brand?"
