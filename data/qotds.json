@@ -1323,13 +1323,24 @@
     "history": [
       {
         "day": 19619,
-        "message": "1153722169973547039"
+        "message": "1153722169973547039",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19619
   },
   {
-    "text": "What's your favourite chocolate brand?"
+    "text": "What's your favourite chocolate brand?",
+    "history": [
+      {
+        "day": 19620,
+        "message": "1154084557830766694"
+      }
+    ],
+    "last_used": 19620
   },
   {
     "text": "What is your most favourite foreign cuisine and why?"
