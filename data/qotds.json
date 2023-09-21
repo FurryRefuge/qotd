@@ -1337,13 +1337,24 @@
     "history": [
       {
         "day": 19620,
-        "message": "1154084557830766694"
+        "message": "1154084557830766694",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 19620
   },
   {
-    "text": "What is your most favourite foreign cuisine and why?"
+    "text": "What is your most favourite foreign cuisine and why?",
+    "history": [
+      {
+        "day": 19621,
+        "message": "1154446945658617936"
+      }
+    ],
+    "last_used": 19621
   },
   {
     "text": "Who's your favourite comic book character and why?"
