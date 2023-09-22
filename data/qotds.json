@@ -1351,13 +1351,24 @@
     "history": [
       {
         "day": 19621,
-        "message": "1154446945658617936"
+        "message": "1154446945658617936",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19621
   },
   {
-    "text": "Who's your favourite comic book character and why?"
+    "text": "Who's your favourite comic book character and why?",
+    "history": [
+      {
+        "day": 19622,
+        "message": "1154809333700366427"
+      }
+    ],
+    "last_used": 19622
   },
   {
     "text": "If you could go to any monument for free, what would you visit?"
