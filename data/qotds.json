@@ -1365,13 +1365,24 @@
     "history": [
       {
         "day": 19622,
-        "message": "1154809333700366427"
+        "message": "1154809333700366427",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 19622
   },
   {
-    "text": "If you could go to any monument for free, what would you visit?"
+    "text": "If you could go to any monument for free, what would you visit?",
+    "history": [
+      {
+        "day": 19623,
+        "message": "1155171721356267561"
+      }
+    ],
+    "last_used": 19623
   },
   {
     "text": "What's the most important characteristic of a friend?"
