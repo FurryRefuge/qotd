@@ -1379,13 +1379,24 @@
     "history": [
       {
         "day": 19623,
-        "message": "1155171721356267561"
+        "message": "1155171721356267561",
+        "stats": {
+          "total": 12,
+          "users": 10
+        }
       }
     ],
     "last_used": 19623
   },
   {
-    "text": "What's the most important characteristic of a friend?"
+    "text": "What's the most important characteristic of a friend?",
+    "history": [
+      {
+        "day": 19624,
+        "message": "1155534109658063011"
+      }
+    ],
+    "last_used": 19624
   },
   {
     "text": "How many tabs do you have open in your browser right now?"
