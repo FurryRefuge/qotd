@@ -1393,13 +1393,24 @@
     "history": [
       {
         "day": 19624,
-        "message": "1155534109658063011"
+        "message": "1155534109658063011",
+        "stats": {
+          "total": 13,
+          "users": 13
+        }
       }
     ],
     "last_used": 19624
   },
   {
-    "text": "How many tabs do you have open in your browser right now?"
+    "text": "How many tabs do you have open in your browser right now?",
+    "history": [
+      {
+        "day": 19625,
+        "message": "1155896497322328157"
+      }
+    ],
+    "last_used": 19625
   },
   {
     "text": "What's your favourite shampoo?"
