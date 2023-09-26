@@ -1407,13 +1407,24 @@
     "history": [
       {
         "day": 19625,
-        "message": "1155896497322328157"
+        "message": "1155896497322328157",
+        "stats": {
+          "total": 25,
+          "users": 20
+        }
       }
     ],
     "last_used": 19625
   },
   {
-    "text": "What's your favourite shampoo?"
+    "text": "What's your favourite shampoo?",
+    "history": [
+      {
+        "day": 19626,
+        "message": "1156258885703835668"
+      }
+    ],
+    "last_used": 19626
   },
   {
     "text": "What movie do you like that you're embarrassed to watch with a friend?"
