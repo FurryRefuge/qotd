@@ -1421,13 +1421,24 @@
     "history": [
       {
         "day": 19626,
-        "message": "1156258885703835668"
+        "message": "1156258885703835668",
+        "stats": {
+          "total": 21,
+          "users": 16
+        }
       }
     ],
     "last_used": 19626
   },
   {
-    "text": "What movie do you like that you're embarrassed to watch with a friend?"
+    "text": "What movie do you like that you're embarrassed to watch with a friend?",
+    "history": [
+      {
+        "day": 19627,
+        "message": "1156621273892409407"
+      }
+    ],
+    "last_used": 19627
   },
   {
     "text": "What kind of music do you like to listen to?"
