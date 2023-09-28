@@ -1435,13 +1435,24 @@
     "history": [
       {
         "day": 19627,
-        "message": "1156621273892409407"
+        "message": "1156621273892409407",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19627
   },
   {
-    "text": "What kind of music do you like to listen to?"
+    "text": "What kind of music do you like to listen to?",
+    "history": [
+      {
+        "day": 19628,
+        "message": "1156983660956885042"
+      }
+    ],
+    "last_used": 19628
   },
   {
     "text": "What is your favourite ice cream flavour?"
