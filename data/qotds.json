@@ -1449,13 +1449,24 @@
     "history": [
       {
         "day": 19628,
-        "message": "1156983660956885042"
+        "message": "1156983660956885042",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ],
     "last_used": 19628
   },
   {
-    "text": "What is your favourite ice cream flavour?"
+    "text": "What is your favourite ice cream flavour?",
+    "history": [
+      {
+        "day": 19629,
+        "message": "1157346049032192203"
+      }
+    ],
+    "last_used": 19629
   },
   {
     "text": "If you could move to any country with all fees paid off, where would you go and why?"
