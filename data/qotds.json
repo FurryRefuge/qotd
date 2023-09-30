@@ -1463,13 +1463,24 @@
     "history": [
       {
         "day": 19629,
-        "message": "1157346049032192203"
+        "message": "1157346049032192203",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ],
     "last_used": 19629
   },
   {
-    "text": "If you could move to any country with all fees paid off, where would you go and why?"
+    "text": "If you could move to any country with all fees paid off, where would you go and why?",
+    "history": [
+      {
+        "day": 19630,
+        "message": "1157708436784554085"
+      }
+    ],
+    "last_used": 19630
   },
   {
     "text": "What's your preferred sleeping position?"
