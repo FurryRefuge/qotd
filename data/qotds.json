@@ -1477,13 +1477,24 @@
     "history": [
       {
         "day": 19630,
-        "message": "1157708436784554085"
+        "message": "1157708436784554085",
+        "stats": {
+          "total": 17,
+          "users": 15
+        }
       }
     ],
     "last_used": 19630
   },
   {
-    "text": "What's your preferred sleeping position?"
+    "text": "What's your preferred sleeping position?",
+    "history": [
+      {
+        "day": 19631,
+        "message": "1158070825111523328"
+      }
+    ],
+    "last_used": 19631
   },
   {
     "text": "What is your exercise routine?"
