@@ -1491,13 +1491,24 @@
     "history": [
       {
         "day": 19631,
-        "message": "1158070825111523328"
+        "message": "1158070825111523328",
+        "stats": {
+          "total": 25,
+          "users": 16
+        }
       }
     ],
     "last_used": 19631
   },
   {
-    "text": "What is your exercise routine?"
+    "text": "What is your exercise routine?",
+    "history": [
+      {
+        "day": 19632,
+        "message": "1158433212570275990"
+      }
+    ],
+    "last_used": 19632
   },
   {
     "text": "What battery percentage does your phone have to get before you put it on charge?"
