@@ -1505,13 +1505,24 @@
     "history": [
       {
         "day": 19632,
-        "message": "1158433212570275990"
+        "message": "1158433212570275990",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19632
   },
   {
-    "text": "What battery percentage does your phone have to get before you put it on charge?"
+    "text": "What battery percentage does your phone have to get before you put it on charge?",
+    "history": [
+      {
+        "day": 19633,
+        "message": "1158795599680913478"
+      }
+    ],
+    "last_used": 19633
   },
   {
     "text": "What's the best thing about your gender?"
