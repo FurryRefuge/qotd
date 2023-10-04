@@ -1519,13 +1519,24 @@
     "history": [
       {
         "day": 19633,
-        "message": "1158795599680913478"
+        "message": "1158795599680913478",
+        "stats": {
+          "total": 23,
+          "users": 17
+        }
       }
     ],
     "last_used": 19633
   },
   {
-    "text": "What's the best thing about your gender?"
+    "text": "What's the best thing about your gender?",
+    "history": [
+      {
+        "day": 19634,
+        "message": "1159157987957559356"
+      }
+    ],
+    "last_used": 19634
   },
   {
     "text": "If you could meet any celebrity in-person, who would you meet?"
