@@ -1533,13 +1533,24 @@
     "history": [
       {
         "day": 19634,
-        "message": "1159157987957559356"
+        "message": "1159157987957559356",
+        "stats": {
+          "total": 21,
+          "users": 15
+        }
       }
     ],
     "last_used": 19634
   },
   {
-    "text": "If you could meet any celebrity in-person, who would you meet?"
+    "text": "If you could meet any celebrity in-person, who would you meet?",
+    "history": [
+      {
+        "day": 19635,
+        "message": "1159520381422542908"
+      }
+    ],
+    "last_used": 19635
   },
   {
     "text": "Describe your current hairstyle."
