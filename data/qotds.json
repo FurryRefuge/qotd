@@ -1547,13 +1547,24 @@
     "history": [
       {
         "day": 19635,
-        "message": "1159520381422542908"
+        "message": "1159520381422542908",
+        "stats": {
+          "total": 12,
+          "users": 12
+        }
       }
     ],
     "last_used": 19635
   },
   {
-    "text": "Describe your current hairstyle."
+    "text": "Describe your current hairstyle.",
+    "history": [
+      {
+        "day": 19636,
+        "message": "1159882764066242590"
+      }
+    ],
+    "last_used": 19636
   },
   {
     "text": "What position do you usually sleep in?"
