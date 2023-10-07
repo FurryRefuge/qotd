@@ -1561,13 +1561,24 @@
     "history": [
       {
         "day": 19636,
-        "message": "1159882764066242590"
+        "message": "1159882764066242590",
+        "stats": {
+          "total": 21,
+          "users": 14
+        }
       }
     ],
     "last_used": 19636
   },
   {
-    "text": "What position do you usually sleep in?"
+    "text": "What position do you usually sleep in?",
+    "history": [
+      {
+        "day": 19637,
+        "message": "1160245151688556756"
+      }
+    ],
+    "last_used": 19637
   },
   {
     "text": "What is the nicest thing you've ever done for a stranger?"
