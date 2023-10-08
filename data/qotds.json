@@ -1575,13 +1575,24 @@
     "history": [
       {
         "day": 19637,
-        "message": "1160245151688556756"
+        "message": "1160245151688556756",
+        "stats": {
+          "total": 13,
+          "users": 12
+        }
       }
     ],
     "last_used": 19637
   },
   {
-    "text": "What is the nicest thing you've ever done for a stranger?"
+    "text": "What is the nicest thing you've ever done for a stranger?",
+    "history": [
+      {
+        "day": 19638,
+        "message": "1160607539692576930"
+      }
+    ],
+    "last_used": 19638
   },
   {
     "text": "What time do you go to sleep?"
