@@ -1589,13 +1589,24 @@
     "history": [
       {
         "day": 19638,
-        "message": "1160607539692576930"
+        "message": "1160607539692576930",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 19638
   },
   {
-    "text": "What time do you go to sleep?"
+    "text": "What time do you go to sleep?",
+    "history": [
+      {
+        "day": 19639,
+        "message": "1160969928006963260"
+      }
+    ],
+    "last_used": 19639
   },
   {
     "text": "What is your least favourite chore?"
