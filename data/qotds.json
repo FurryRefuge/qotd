@@ -1603,13 +1603,24 @@
     "history": [
       {
         "day": 19639,
-        "message": "1160969928006963260"
+        "message": "1160969928006963260",
+        "stats": {
+          "total": 21,
+          "users": 17
+        }
       }
     ],
     "last_used": 19639
   },
   {
-    "text": "What is your least favourite chore?"
+    "text": "What is your least favourite chore?",
+    "history": [
+      {
+        "day": 19640,
+        "message": "1161332315130175640"
+      }
+    ],
+    "last_used": 19640
   },
   {
     "text": "If you could only eat one type of food for the rest of your life, what would it be?"
