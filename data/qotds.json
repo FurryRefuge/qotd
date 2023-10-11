@@ -1617,13 +1617,24 @@
     "history": [
       {
         "day": 19640,
-        "message": "1161332315130175640"
+        "message": "1161332315130175640",
+        "stats": {
+          "total": 12,
+          "users": 12
+        }
       }
     ],
     "last_used": 19640
   },
   {
-    "text": "If you could only eat one type of food for the rest of your life, what would it be?"
+    "text": "If you could only eat one type of food for the rest of your life, what would it be?",
+    "history": [
+      {
+        "day": 19641,
+        "message": "1161694703746555954"
+      }
+    ],
+    "last_used": 19641
   },
   {
     "text": "What is your favourite day of the week and why?"
