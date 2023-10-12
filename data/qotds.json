@@ -1631,13 +1631,24 @@
     "history": [
       {
         "day": 19641,
-        "message": "1161694703746555954"
+        "message": "1161694703746555954",
+        "stats": {
+          "total": 12,
+          "users": 10
+        }
       }
     ],
     "last_used": 19641
   },
   {
-    "text": "What is your favourite day of the week and why?"
+    "text": "What is your favourite day of the week and why?",
+    "history": [
+      {
+        "day": 19642,
+        "message": "1162057091087863869"
+      }
+    ],
+    "last_used": 19642
   },
   {
     "text": "What is your biggest fear?"
