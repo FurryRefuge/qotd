@@ -1645,13 +1645,24 @@
     "history": [
       {
         "day": 19642,
-        "message": "1162057091087863869"
+        "message": "1162057091087863869",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19642
   },
   {
-    "text": "What is your biggest fear?"
+    "text": "What is your biggest fear?",
+    "history": [
+      {
+        "day": 19643,
+        "message": "1162419479024763031"
+      }
+    ],
+    "last_used": 19643
   },
   {
     "text": "What's the most tasty thing you've every cooked?"
