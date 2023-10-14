@@ -1659,13 +1659,24 @@
     "history": [
       {
         "day": 19643,
-        "message": "1162419479024763031"
+        "message": "1162419479024763031",
+        "stats": {
+          "total": 13,
+          "users": 12
+        }
       }
     ],
     "last_used": 19643
   },
   {
-    "text": "What's the most tasty thing you've every cooked?"
+    "text": "What's the most tasty thing you've every cooked?",
+    "history": [
+      {
+        "day": 19644,
+        "message": "1162781867129446551"
+      }
+    ],
+    "last_used": 19644
   },
   {
     "text": "If you could get the traits of any animal, what animal and what traits would you get?"
