@@ -1687,13 +1687,24 @@
     "history": [
       {
         "day": 19645,
-        "message": "1163144253887762483"
+        "message": "1163144253887762483",
+        "stats": {
+          "total": 47,
+          "users": 11
+        }
       }
     ],
     "last_used": 19645
   },
   {
-    "text": "What are you eating for dinner tomorrow?"
+    "text": "What are you eating for dinner tomorrow?",
+    "history": [
+      {
+        "day": 19646,
+        "message": "1163506643577884723"
+      }
+    ],
+    "last_used": 19646
   },
   {
     "text": "What do you do to stay in shape?"
