@@ -1701,13 +1701,24 @@
     "history": [
       {
         "day": 19646,
-        "message": "1163506643577884723"
+        "message": "1163506643577884723",
+        "stats": {
+          "total": 19,
+          "users": 18
+        }
       }
     ],
     "last_used": 19646
   },
   {
-    "text": "What do you do to stay in shape?"
+    "text": "What do you do to stay in shape?",
+    "history": [
+      {
+        "day": 19647,
+        "message": "1163869030793355445"
+      }
+    ],
+    "last_used": 19647
   },
   {
     "text": "What's the longest you've gone without showering?"
