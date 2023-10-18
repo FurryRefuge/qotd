@@ -1715,13 +1715,24 @@
     "history": [
       {
         "day": 19647,
-        "message": "1163869030793355445"
+        "message": "1163869030793355445",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ],
     "last_used": 19647
   },
   {
-    "text": "What's the longest you've gone without showering?"
+    "text": "What's the longest you've gone without showering?",
+    "history": [
+      {
+        "day": 19648,
+        "message": "1164231418428280932"
+      }
+    ],
+    "last_used": 19648
   },
   {
     "text": "If you were stuck on an island, who or what would you want to have with you?"
