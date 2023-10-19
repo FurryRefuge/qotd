@@ -1729,13 +1729,24 @@
     "history": [
       {
         "day": 19648,
-        "message": "1164231418428280932"
+        "message": "1164231418428280932",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19648
   },
   {
-    "text": "If you were stuck on an island, who or what would you want to have with you?"
+    "text": "If you were stuck on an island, who or what would you want to have with you?",
+    "history": [
+      {
+        "day": 19649,
+        "message": "1164593805681500292"
+      }
+    ],
+    "last_used": 19649
   },
   {
     "text": "What is the longest that you've stayed awake for?"
