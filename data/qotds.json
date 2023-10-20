@@ -1743,13 +1743,24 @@
     "history": [
       {
         "day": 19649,
-        "message": "1164593805681500292"
+        "message": "1164593805681500292",
+        "stats": {
+          "total": 21,
+          "users": 16
+        }
       }
     ],
     "last_used": 19649
   },
   {
-    "text": "What is the longest that you've stayed awake for?"
+    "text": "What is the longest that you've stayed awake for?",
+    "history": [
+      {
+        "day": 19650,
+        "message": "1164956193798754405"
+      }
+    ],
+    "last_used": 19650
   },
   {
     "text": "If you could consume any person and gain their skills, who would you eat and what skills would you gain?"
