@@ -1757,13 +1757,24 @@
     "history": [
       {
         "day": 19650,
-        "message": "1164956193798754405"
+        "message": "1164956193798754405",
+        "stats": {
+          "total": 31,
+          "users": 15
+        }
       }
     ],
     "last_used": 19650
   },
   {
-    "text": "If you could consume any person and gain their skills, who would you eat and what skills would you gain?"
+    "text": "If you could consume any person and gain their skills, who would you eat and what skills would you gain?",
+    "history": [
+      {
+        "day": 19651,
+        "message": "1165318582020870184"
+      }
+    ],
+    "last_used": 19651
   },
   {
     "text": "If you could be any celebrity, who would it be?"
