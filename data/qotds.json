@@ -1771,13 +1771,24 @@
     "history": [
       {
         "day": 19651,
-        "message": "1165318582020870184"
+        "message": "1165318582020870184",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 19651
   },
   {
-    "text": "If you could be any celebrity, who would it be?"
+    "text": "If you could be any celebrity, who would it be?",
+    "history": [
+      {
+        "day": 19652,
+        "message": "1165680969928429629"
+      }
+    ],
+    "last_used": 19652
   },
   {
     "text": "If you had to give yourself a new name, what name would you pick?"
