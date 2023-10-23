@@ -1785,13 +1785,24 @@
     "history": [
       {
         "day": 19652,
-        "message": "1165680969928429629"
+        "message": "1165680969928429629",
+        "stats": {
+          "total": 14,
+          "users": 11
+        }
       }
     ],
     "last_used": 19652
   },
   {
-    "text": "If you had to give yourself a new name, what name would you pick?"
+    "text": "If you had to give yourself a new name, what name would you pick?",
+    "history": [
+      {
+        "day": 19653,
+        "message": "1166043358360244314"
+      }
+    ],
+    "last_used": 19653
   },
   {
     "text": "Who is the most famous person you have ever met?"
