@@ -1799,13 +1799,24 @@
     "history": [
       {
         "day": 19653,
-        "message": "1166043358360244314"
+        "message": "1166043358360244314",
+        "stats": {
+          "total": 15,
+          "users": 10
+        }
       }
     ],
     "last_used": 19653
   },
   {
-    "text": "Who is the most famous person you have ever met?"
+    "text": "Who is the most famous person you have ever met?",
+    "history": [
+      {
+        "day": 19654,
+        "message": "1166406445475053759"
+      }
+    ],
+    "last_used": 19654
   },
   {
     "text": "Who is your favourite person?"
