@@ -1813,13 +1813,24 @@
     "history": [
       {
         "day": 19654,
-        "message": "1166406445475053759"
+        "message": "1166406445475053759",
+        "stats": {
+          "total": 13,
+          "users": 11
+        }
       }
     ],
     "last_used": 19654
   },
   {
-    "text": "Who is your favourite person?"
+    "text": "Who is your favourite person?",
+    "history": [
+      {
+        "day": 19655,
+        "message": "1166768132606660739"
+      }
+    ],
+    "last_used": 19655
   },
   {
     "text": "If you could have any real-life person as one of your family members, who would you chose?"
