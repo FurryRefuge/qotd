@@ -1827,13 +1827,24 @@
     "history": [
       {
         "day": 19655,
-        "message": "1166768132606660739"
+        "message": "1166768132606660739",
+        "stats": {
+          "total": 17,
+          "users": 13
+        }
       }
     ],
     "last_used": 19655
   },
   {
-    "text": "If you could have any real-life person as one of your family members, who would you chose?"
+    "text": "If you could have any real-life person as one of your family members, who would you chose?",
+    "history": [
+      {
+        "day": 19656,
+        "message": "1167130521558585364"
+      }
+    ],
+    "last_used": 19656
   },
   {
     "text": "What's the worst decision you've ever made?"
