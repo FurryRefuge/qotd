@@ -1841,13 +1841,24 @@
     "history": [
       {
         "day": 19656,
-        "message": "1167130521558585364"
+        "message": "1167130521558585364",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 19656
   },
   {
-    "text": "What's the worst decision you've ever made?"
+    "text": "What's the worst decision you've ever made?",
+    "history": [
+      {
+        "day": 19657,
+        "message": "1167492908912496662"
+      }
+    ],
+    "last_used": 19657
   },
   {
     "text": "what is the weirdest thing that happened to you in real life?"
