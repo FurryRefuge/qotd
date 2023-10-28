@@ -1855,13 +1855,24 @@
     "history": [
       {
         "day": 19657,
-        "message": "1167492908912496662"
+        "message": "1167492908912496662",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19657
   },
   {
-    "text": "what is the weirdest thing that happened to you in real life?"
+    "text": "what is the weirdest thing that happened to you in real life?",
+    "history": [
+      {
+        "day": 19658,
+        "message": "1167855297277198417"
+      }
+    ],
+    "last_used": 19658
   },
   {
     "text": "What's the worst thing that you've done during a sleepover?"
