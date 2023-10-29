@@ -1869,13 +1869,24 @@
     "history": [
       {
         "day": 19658,
-        "message": "1167855297277198417"
+        "message": "1167855297277198417",
+        "stats": {
+          "total": 11,
+          "users": 11
+        }
       }
     ],
     "last_used": 19658
   },
   {
-    "text": "What's the worst thing that you've done during a sleepover?"
+    "text": "What's the worst thing that you've done during a sleepover?",
+    "history": [
+      {
+        "day": 19659,
+        "message": "1168217684949872851"
+      }
+    ],
+    "last_used": 19659
   },
   {
     "text": "What is the worst in-app purchase you've ever made?"
