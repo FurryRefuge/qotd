@@ -1883,13 +1883,24 @@
     "history": [
       {
         "day": 19659,
-        "message": "1168217684949872851"
+        "message": "1168217684949872851",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19659
   },
   {
-    "text": "What is the worst in-app purchase you've ever made?"
+    "text": "What is the worst in-app purchase you've ever made?",
+    "history": [
+      {
+        "day": 19660,
+        "message": "1168580072983248957"
+      }
+    ],
+    "last_used": 19660
   },
   {
     "text": "Who do you aspire to become?"
