@@ -1897,13 +1897,24 @@
     "history": [
       {
         "day": 19660,
-        "message": "1168580072983248957"
+        "message": "1168580072983248957",
+        "stats": {
+          "total": 19,
+          "users": 15
+        }
       }
     ],
     "last_used": 19660
   },
   {
-    "text": "Who do you aspire to become?"
+    "text": "Who do you aspire to become?",
+    "history": [
+      {
+        "day": 19661,
+        "message": "1168942462794989669"
+      }
+    ],
+    "last_used": 19661
   },
   {
     "text": "Who is your favourite TV character and why?"
