@@ -1911,13 +1911,24 @@
     "history": [
       {
         "day": 19661,
-        "message": "1168942462794989669"
+        "message": "1168942462794989669",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 19661
   },
   {
-    "text": "Who is your favourite TV character and why?"
+    "text": "Who is your favourite TV character and why?",
+    "history": [
+      {
+        "day": 19662,
+        "message": "1169304848911577160"
+      }
+    ],
+    "last_used": 19662
   },
   {
     "text": "What's your favourite ice cream flavour?"
