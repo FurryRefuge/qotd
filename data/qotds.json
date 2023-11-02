@@ -1925,13 +1925,24 @@
     "history": [
       {
         "day": 19662,
-        "message": "1169304848911577160"
+        "message": "1169304848911577160",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19662
   },
   {
-    "text": "What's your favourite ice cream flavour?"
+    "text": "What's your favourite ice cream flavour?",
+    "history": [
+      {
+        "day": 19663,
+        "message": "1169667236512931900"
+      }
+    ],
+    "last_used": 19663
   },
   {
     "text": "What is your favourite country and why?"
