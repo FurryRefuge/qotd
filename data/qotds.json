@@ -1939,13 +1939,24 @@
     "history": [
       {
         "day": 19663,
-        "message": "1169667236512931900"
+        "message": "1169667236512931900",
+        "stats": {
+          "total": 17,
+          "users": 16
+        }
       }
     ],
     "last_used": 19663
   },
   {
-    "text": "What is your favourite country and why?"
+    "text": "What is your favourite country and why?",
+    "history": [
+      {
+        "day": 19664,
+        "message": "1170029623623569560"
+      }
+    ],
+    "last_used": 19664
   },
   {
     "text": "What is one weird fact about you?"
