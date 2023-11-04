@@ -1953,13 +1953,24 @@
     "history": [
       {
         "day": 19664,
-        "message": "1170029623623569560"
+        "message": "1170029623623569560",
+        "stats": {
+          "total": 18,
+          "users": 15
+        }
       }
     ],
     "last_used": 19664
   },
   {
-    "text": "What is one weird fact about you?"
+    "text": "What is one weird fact about you?",
+    "history": [
+      {
+        "day": 19665,
+        "message": "1170392012034424842"
+      }
+    ],
+    "last_used": 19665
   },
   {
     "text": "What is your favourite game?"
