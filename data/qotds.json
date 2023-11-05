@@ -1967,13 +1967,24 @@
     "history": [
       {
         "day": 19665,
-        "message": "1170392012034424842"
+        "message": "1170392012034424842",
+        "stats": {
+          "total": 19,
+          "users": 12
+        }
       }
     ],
     "last_used": 19665
   },
   {
-    "text": "What is your favourite game?"
+    "text": "What is your favourite game?",
+    "history": [
+      {
+        "day": 19666,
+        "message": "1170754399837093988"
+      }
+    ],
+    "last_used": 19666
   },
   {
     "text": "What is your favourite sweet?"
