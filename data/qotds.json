@@ -1981,13 +1981,24 @@
     "history": [
       {
         "day": 19666,
-        "message": "1170754399837093988"
+        "message": "1170754399837093988",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19666
   },
   {
-    "text": "What is your favourite sweet?"
+    "text": "What is your favourite sweet?",
+    "history": [
+      {
+        "day": 19667,
+        "message": "1171116788025671741"
+      }
+    ],
+    "last_used": 19667
   },
   {
     "text": "What's your favourite TV show?"
