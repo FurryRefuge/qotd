@@ -1995,13 +1995,24 @@
     "history": [
       {
         "day": 19667,
-        "message": "1171116788025671741"
+        "message": "1171116788025671741",
+        "stats": {
+          "total": 15,
+          "users": 11
+        }
       }
     ],
     "last_used": 19667
   },
   {
-    "text": "What's your favourite TV show?"
+    "text": "What's your favourite TV show?",
+    "history": [
+      {
+        "day": 19668,
+        "message": "1171479175304069121"
+      }
+    ],
+    "last_used": 19668
   },
   {
     "text": "What do you think the best invention is?"
