@@ -2009,13 +2009,24 @@
     "history": [
       {
         "day": 19668,
-        "message": "1171479175304069121"
+        "message": "1171479175304069121",
+        "stats": {
+          "total": 14,
+          "users": 11
+        }
       }
     ],
     "last_used": 19668
   },
   {
-    "text": "What do you think the best invention is?"
+    "text": "What do you think the best invention is?",
+    "history": [
+      {
+        "day": 19669,
+        "message": "1171841563312275486"
+      }
+    ],
+    "last_used": 19669
   },
   {
     "text": "What are your hobbies?"
