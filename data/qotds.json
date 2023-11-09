@@ -2023,13 +2023,24 @@
     "history": [
       {
         "day": 19669,
-        "message": "1171841563312275486"
+        "message": "1171841563312275486",
+        "stats": {
+          "total": 13,
+          "users": 13
+        }
       }
     ],
     "last_used": 19669
   },
   {
-    "text": "What are your hobbies?"
+    "text": "What are your hobbies?",
+    "history": [
+      {
+        "day": 19670,
+        "message": "1172203951488249946"
+      }
+    ],
+    "last_used": 19670
   },
   {
     "text": "What is your favourite date and why?"
