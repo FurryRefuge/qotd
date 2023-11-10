@@ -2037,13 +2037,24 @@
     "history": [
       {
         "day": 19670,
-        "message": "1172203951488249946"
+        "message": "1172203951488249946",
+        "stats": {
+          "total": 12,
+          "users": 10
+        }
       }
     ],
     "last_used": 19670
   },
   {
-    "text": "What is your favourite date and why?"
+    "text": "What is your favourite date and why?",
+    "history": [
+      {
+        "day": 19671,
+        "message": "1172566340159164509"
+      }
+    ],
+    "last_used": 19671
   },
   {
     "text": "What do you do when you're bored?"
