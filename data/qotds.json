@@ -2051,13 +2051,24 @@
     "history": [
       {
         "day": 19671,
-        "message": "1172566340159164509"
+        "message": "1172566340159164509",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 19671
   },
   {
-    "text": "What do you do when you're bored?"
+    "text": "What do you do when you're bored?",
+    "history": [
+      {
+        "day": 19672,
+        "message": "1172928727290744985"
+      }
+    ],
+    "last_used": 19672
   },
   {
     "text": "If you were on death row, what would you chose as your last meal?"
