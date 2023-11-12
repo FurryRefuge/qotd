@@ -2065,13 +2065,24 @@
     "history": [
       {
         "day": 19672,
-        "message": "1172928727290744985"
+        "message": "1172928727290744985",
+        "stats": {
+          "total": 13,
+          "users": 12
+        }
       }
     ],
     "last_used": 19672
   },
   {
-    "text": "If you were on death row, what would you chose as your last meal?"
+    "text": "If you were on death row, what would you chose as your last meal?",
+    "history": [
+      {
+        "day": 19673,
+        "message": "1173291115026321620"
+      }
+    ],
+    "last_used": 19673
   },
   {
     "text": "If you were on death row, what crime would you have committed?"
