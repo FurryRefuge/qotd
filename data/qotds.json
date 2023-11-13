@@ -2079,13 +2079,24 @@
     "history": [
       {
         "day": 19673,
-        "message": "1173291115026321620"
+        "message": "1173291115026321620",
+        "stats": {
+          "total": 13,
+          "users": 11
+        }
       }
     ],
     "last_used": 19673
   },
   {
-    "text": "If you were on death row, what crime would you have committed?"
+    "text": "If you were on death row, what crime would you have committed?",
+    "history": [
+      {
+        "day": 19674,
+        "message": "1173653502787063838"
+      }
+    ],
+    "last_used": 19674
   },
   {
     "text": "What is your most desired job?"
