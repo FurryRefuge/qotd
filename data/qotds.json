@@ -2093,13 +2093,24 @@
     "history": [
       {
         "day": 19674,
-        "message": "1173653502787063838"
+        "message": "1173653502787063838",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ],
     "last_used": 19674
   },
   {
-    "text": "What is your most desired job?"
+    "text": "What is your most desired job?",
+    "history": [
+      {
+        "day": 19675,
+        "message": "1174015890006745130"
+      }
+    ],
+    "last_used": 19675
   },
   {
     "text": "If you could have anything magically built out of chocolate, what would you build?"
