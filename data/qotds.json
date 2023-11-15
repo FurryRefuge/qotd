@@ -2107,13 +2107,24 @@
     "history": [
       {
         "day": 19675,
-        "message": "1174015890006745130"
+        "message": "1174015890006745130",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19675
   },
   {
-    "text": "If you could have anything magically built out of chocolate, what would you build?"
+    "text": "If you could have anything magically built out of chocolate, what would you build?",
+    "history": [
+      {
+        "day": 19676,
+        "message": "1174378279101280257"
+      }
+    ],
+    "last_used": 19676
   },
   {
     "text": "What's the worst thing about your gender?"
