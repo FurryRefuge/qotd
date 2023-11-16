@@ -2121,13 +2121,24 @@
     "history": [
       {
         "day": 19676,
-        "message": "1174378279101280257"
+        "message": "1174378279101280257",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 19676
   },
   {
-    "text": "What's the worst thing about your gender?"
+    "text": "What's the worst thing about your gender?",
+    "history": [
+      {
+        "day": 19677,
+        "message": "1174740666434211870"
+      }
+    ],
+    "last_used": 19677
   },
   {
     "text": "If you could have any one-time purchase 100% discounted, what would you buy?"
