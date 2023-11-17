@@ -2135,13 +2135,24 @@
     "history": [
       {
         "day": 19677,
-        "message": "1174740666434211870"
+        "message": "1174740666434211870",
+        "stats": {
+          "total": 21,
+          "users": 15
+        }
       }
     ],
     "last_used": 19677
   },
   {
-    "text": "If you could have any one-time purchase 100% discounted, what would you buy?"
+    "text": "If you could have any one-time purchase 100% discounted, what would you buy?",
+    "history": [
+      {
+        "day": 19678,
+        "message": "1175103054165577800"
+      }
+    ],
+    "last_used": 19678
   },
   {
     "text": "What is something that makes you smile?"
