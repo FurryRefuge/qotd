@@ -2149,13 +2149,24 @@
     "history": [
       {
         "day": 19678,
-        "message": "1175103054165577800"
+        "message": "1175103054165577800",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ],
     "last_used": 19678
   },
   {
-    "text": "What is something that makes you smile?"
+    "text": "What is something that makes you smile?",
+    "history": [
+      {
+        "day": 19679,
+        "message": "1175465442500939876"
+      }
+    ],
+    "last_used": 19679
   },
   {
     "text": "What is your favourite drink?"
