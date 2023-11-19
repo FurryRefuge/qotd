@@ -2163,13 +2163,24 @@
     "history": [
       {
         "day": 19679,
-        "message": "1175465442500939876"
+        "message": "1175465442500939876",
+        "stats": {
+          "total": 16,
+          "users": 13
+        }
       }
     ],
     "last_used": 19679
   },
   {
-    "text": "What is your favourite drink?"
+    "text": "What is your favourite drink?",
+    "history": [
+      {
+        "day": 19680,
+        "message": "1175827829976469535"
+      }
+    ],
+    "last_used": 19680
   },
   {
     "text": "How many pictures of The Queen do you have in your house right now?"
