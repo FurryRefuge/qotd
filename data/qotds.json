@@ -2177,13 +2177,24 @@
     "history": [
       {
         "day": 19680,
-        "message": "1175827829976469535"
+        "message": "1175827829976469535",
+        "stats": {
+          "total": 17,
+          "users": 13
+        }
       }
     ],
     "last_used": 19680
   },
   {
-    "text": "How many pictures of The Queen do you have in your house right now?"
+    "text": "How many pictures of The Queen do you have in your house right now?",
+    "history": [
+      {
+        "day": 19681,
+        "message": "1176190217607188581"
+      }
+    ],
+    "last_used": 19681
   },
   {
     "text": "Do you sing in the shower?"
