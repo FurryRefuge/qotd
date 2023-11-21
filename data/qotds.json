@@ -2191,13 +2191,24 @@
     "history": [
       {
         "day": 19681,
-        "message": "1176190217607188581"
+        "message": "1176190217607188581",
+        "stats": {
+          "total": 23,
+          "users": 17
+        }
       }
     ],
     "last_used": 19681
   },
   {
-    "text": "Do you sing in the shower?"
+    "text": "Do you sing in the shower?",
+    "history": [
+      {
+        "day": 19682,
+        "message": "1176552605065953300"
+      }
+    ],
+    "last_used": 19682
   },
   {
     "text": "What was the last gift that you received?"
