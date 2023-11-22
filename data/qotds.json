@@ -2205,13 +2205,24 @@
     "history": [
       {
         "day": 19682,
-        "message": "1176552605065953300"
+        "message": "1176552605065953300",
+        "stats": {
+          "total": 16,
+          "users": 16
+        }
       }
     ],
     "last_used": 19682
   },
   {
-    "text": "What was the last gift that you received?"
+    "text": "What was the last gift that you received?",
+    "history": [
+      {
+        "day": 19683,
+        "message": "1176914993380327494"
+      }
+    ],
+    "last_used": 19683
   },
   {
     "text": "If you only had one day to live, what would you do and why?"
