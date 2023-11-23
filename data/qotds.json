@@ -2219,13 +2219,24 @@
     "history": [
       {
         "day": 19683,
-        "message": "1176914993380327494"
+        "message": "1176914993380327494",
+        "stats": {
+          "total": 20,
+          "users": 16
+        }
       }
     ],
     "last_used": 19683
   },
   {
-    "text": "If you only had one day to live, what would you do and why?"
+    "text": "If you only had one day to live, what would you do and why?",
+    "history": [
+      {
+        "day": 19684,
+        "message": "1177277381103337522"
+      }
+    ],
+    "last_used": 19684
   },
   {
     "text": "What is your favorite dessert?"
