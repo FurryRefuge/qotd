@@ -2233,13 +2233,24 @@
     "history": [
       {
         "day": 19684,
-        "message": "1177277381103337522"
+        "message": "1177277381103337522",
+        "stats": {
+          "total": 20,
+          "users": 15
+        }
       }
     ],
     "last_used": 19684
   },
   {
-    "text": "What is your favorite dessert?"
+    "text": "What is your favorite dessert?",
+    "history": [
+      {
+        "day": 19685,
+        "message": "1177639769178652833"
+      }
+    ],
+    "last_used": 19685
   },
   {
     "text": "If you were stuck on a desert island, what would you chose to have with you?"
