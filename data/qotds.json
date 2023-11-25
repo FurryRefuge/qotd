@@ -2247,13 +2247,24 @@
     "history": [
       {
         "day": 19685,
-        "message": "1177639769178652833"
+        "message": "1177639769178652833",
+        "stats": {
+          "total": 22,
+          "users": 17
+        }
       }
     ],
     "last_used": 19685
   },
   {
-    "text": "If you were stuck on a desert island, what would you chose to have with you?"
+    "text": "If you were stuck on a desert island, what would you chose to have with you?",
+    "history": [
+      {
+        "day": 19686,
+        "message": "1178002156666761378"
+      }
+    ],
+    "last_used": 19686
   },
   {
     "text": "What happened in the last dream that you remember?"
