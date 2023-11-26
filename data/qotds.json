@@ -2261,13 +2261,24 @@
     "history": [
       {
         "day": 19686,
-        "message": "1178002156666761378"
+        "message": "1178002156666761378",
+        "stats": {
+          "total": 19,
+          "users": 12
+        }
       }
     ],
     "last_used": 19686
   },
   {
-    "text": "What happened in the last dream that you remember?"
+    "text": "What happened in the last dream that you remember?",
+    "history": [
+      {
+        "day": 19687,
+        "message": "1178364544565911692"
+      }
+    ],
+    "last_used": 19687
   },
   {
     "text": "What things shouldn't be said during a marriage proposal?"
