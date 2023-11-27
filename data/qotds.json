@@ -2275,13 +2275,24 @@
     "history": [
       {
         "day": 19687,
-        "message": "1178364544565911692"
+        "message": "1178364544565911692",
+        "stats": {
+          "total": 16,
+          "users": 13
+        }
       }
     ],
     "last_used": 19687
   },
   {
-    "text": "What things shouldn't be said during a marriage proposal?"
+    "text": "What things shouldn't be said during a marriage proposal?",
+    "history": [
+      {
+        "day": 19688,
+        "message": "1178726933387812905"
+      }
+    ],
+    "last_used": 19688
   },
   {
     "text": "What is your all-time favourite video game?"
