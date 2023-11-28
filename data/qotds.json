@@ -2289,13 +2289,24 @@
     "history": [
       {
         "day": 19688,
-        "message": "1178726933387812905"
+        "message": "1178726933387812905",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ],
     "last_used": 19688
   },
   {
-    "text": "What is your all-time favourite video game?"
+    "text": "What is your all-time favourite video game?",
+    "history": [
+      {
+        "day": 19689,
+        "message": "1179089321492480020"
+      }
+    ],
+    "last_used": 19689
   },
   {
     "text": "If you could become any animal, which animal would you choose?"
