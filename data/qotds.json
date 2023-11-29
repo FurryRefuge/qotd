@@ -2303,13 +2303,24 @@
     "history": [
       {
         "day": 19689,
-        "message": "1179089321492480020"
+        "message": "1179089321492480020",
+        "stats": {
+          "total": 22,
+          "users": 18
+        }
       }
     ],
     "last_used": 19689
   },
   {
-    "text": "If you could become any animal, which animal would you choose?"
+    "text": "If you could become any animal, which animal would you choose?",
+    "history": [
+      {
+        "day": 19690,
+        "message": "1179451708468904026"
+      }
+    ],
+    "last_used": 19690
   },
   {
     "text": "If you could only eat one thing for the rest of your life, what would it be?"
