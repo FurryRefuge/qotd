@@ -2317,13 +2317,24 @@
     "history": [
       {
         "day": 19690,
-        "message": "1179451708468904026"
+        "message": "1179451708468904026",
+        "stats": {
+          "total": 19,
+          "users": 18
+        }
       }
     ],
     "last_used": 19690
   },
   {
-    "text": "If you could only eat one thing for the rest of your life, what would it be?"
+    "text": "If you could only eat one thing for the rest of your life, what would it be?",
+    "history": [
+      {
+        "day": 19691,
+        "message": "1179814096670035978"
+      }
+    ],
+    "last_used": 19691
   },
   {
     "text": "If you could visit any country for a day with all expenses paid, which country would you choose and why?"
