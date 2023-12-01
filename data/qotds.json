@@ -2331,13 +2331,24 @@
     "history": [
       {
         "day": 19691,
-        "message": "1179814096670035978"
+        "message": "1179814096670035978",
+        "stats": {
+          "total": 20,
+          "users": 17
+        }
       }
     ],
     "last_used": 19691
   },
   {
-    "text": "If you could visit any country for a day with all expenses paid, which country would you choose and why?"
+    "text": "If you could visit any country for a day with all expenses paid, which country would you choose and why?",
+    "history": [
+      {
+        "day": 19692,
+        "message": "1180176484606935192"
+      }
+    ],
+    "last_used": 19692
   },
   {
     "text": "What is your favourite kind of pie?"
