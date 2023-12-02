@@ -2345,13 +2345,24 @@
     "history": [
       {
         "day": 19692,
-        "message": "1180176484606935192"
+        "message": "1180176484606935192",
+        "stats": {
+          "total": 18,
+          "users": 18
+        }
       }
     ],
     "last_used": 19692
   },
   {
-    "text": "What is your favourite kind of pie?"
+    "text": "What is your favourite kind of pie?",
+    "history": [
+      {
+        "day": 19693,
+        "message": "1180538871931482206"
+      }
+    ],
+    "last_used": 19693
   },
   {
     "text": "Describe yourself in one sentence."
