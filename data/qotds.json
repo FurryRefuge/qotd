@@ -141,10 +141,6 @@
     "last_used": 19517
   },
   {
-    "text": "If you could travel anywhere for free, where would you go?",
-    "last_used": 19518
-  },
-  {
     "text": "If you won the lottery, what would you buy?",
     "last_used": 19519
   },
@@ -255,7 +251,7 @@
     "last_used": 19533
   },
   {
-    "text": "If you could have a wild animal as a pet, what would it be and why?",
+    "text": "If you could have any wild animal as a pet, what would it be and why?",
     "history": [
       {
         "day": 19534,
@@ -1235,20 +1231,6 @@
     "last_used": 19615
   },
   {
-    "text": "What was the last movie you saw?",
-    "history": [
-      {
-        "day": 19616,
-        "message": "1152635006318035124",
-        "stats": {
-          "total": 14,
-          "users": 13
-        }
-      }
-    ],
-    "last_used": 19616
-  },
-  {
     "text": "If you could have one super power, what would it be?",
     "history": [
       {
@@ -1879,20 +1861,6 @@
     "last_used": 19665
   },
   {
-    "text": "What is your favourite game?",
-    "history": [
-      {
-        "day": 19666,
-        "message": "1170754399837093988",
-        "stats": {
-          "total": 17,
-          "users": 14
-        }
-      }
-    ],
-    "last_used": 19666
-  },
-  {
     "text": "What is your favourite sweet?",
     "history": [
       {
@@ -2256,9 +2224,6 @@
     "text": "Describe yourself in one sentence."
   },
   {
-    "text": "What is the worst movie that you've seen?"
-  },
-  {
     "text": "What's the worst thing you can say on a first date?"
   },
   {
@@ -2298,9 +2263,6 @@
     "text": "What is your favourite article of clothing?"
   },
   {
-    "text": "What is your favourite movie of all-time?"
-  },
-  {
     "text": "What is your weirdest fantasy?"
   },
   {
@@ -2317,12 +2279,6 @@
   },
   {
     "text": "You have £1,000,000's worth of your currency. What do you spend it on?"
-  },
-  {
-    "text": "What is your all-time favourite game? What makes it so special?"
-  },
-  {
-    "text": "If you could have any wild animal as a pet, what would it be?"
   },
   {
     "text": "What is the one thing that makes you dislike someone?"
