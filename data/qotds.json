@@ -2215,7 +2215,11 @@
     "history": [
       {
         "day": 19693,
-        "message": "1180538871931482206"
+        "message": "1180538871931482206",
+        "stats": {
+          "total": 17,
+          "users": 16
+        }
       }
     ],
     "last_used": 19693
@@ -2432,6 +2436,13 @@
   },
   {
     "author": "999869668682637352",
-    "text": "You get to \"cartoonify\" an action of yours (such as when you tiptoe it plays the piano sound effect). What action would it be?"
+    "text": "You get to \"cartoonify\" an action of yours (such as when you tiptoe it plays the piano sound effect). What action would it be?",
+    "history": [
+      {
+        "day": 19694,
+        "message": "1180901259570593834"
+      }
+    ],
+    "last_used": 19694
   }
 ]
