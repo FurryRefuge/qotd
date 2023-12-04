@@ -2225,7 +2225,14 @@
     "last_used": 19693
   },
   {
-    "text": "Describe yourself in one sentence."
+    "text": "Describe yourself in one sentence.",
+    "history": [
+      {
+        "day": 19695,
+        "message": "1181263650095370290"
+      }
+    ],
+    "last_used": 19695
   },
   {
     "text": "What's the worst thing you can say on a first date?"
@@ -2440,7 +2447,11 @@
     "history": [
       {
         "day": 19694,
-        "message": "1180901259570593834"
+        "message": "1180901259570593834",
+        "stats": {
+          "total": 15,
+          "users": 15
+        }
       }
     ],
     "last_used": 19694
