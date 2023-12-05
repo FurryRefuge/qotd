@@ -2229,13 +2229,24 @@
     "history": [
       {
         "day": 19695,
-        "message": "1181263650095370290"
+        "message": "1181263650095370290",
+        "stats": {
+          "total": 21,
+          "users": 21
+        }
       }
     ],
     "last_used": 19695
   },
   {
-    "text": "What's the worst thing you can say on a first date?"
+    "text": "What's the worst thing you can say on a first date?",
+    "history": [
+      {
+        "day": 19696,
+        "message": "1181626035821875240"
+      }
+    ],
+    "last_used": 19696
   },
   {
     "text": "What costume would you wear to a Halloween party?"
