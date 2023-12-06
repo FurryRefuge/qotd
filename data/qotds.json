@@ -2243,13 +2243,24 @@
     "history": [
       {
         "day": 19696,
-        "message": "1181626035821875240"
+        "message": "1181626035821875240",
+        "stats": {
+          "total": 19,
+          "users": 19
+        }
       }
     ],
     "last_used": 19696
   },
   {
-    "text": "What costume would you wear to a Halloween party?"
+    "text": "What costume would you wear to a Halloween party?",
+    "history": [
+      {
+        "day": 19697,
+        "message": "1181988423989465229"
+      }
+    ],
+    "last_used": 19697
   },
   {
     "text": "What are your favourite sports?"
