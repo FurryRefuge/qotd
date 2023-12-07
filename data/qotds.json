@@ -2257,13 +2257,24 @@
     "history": [
       {
         "day": 19697,
-        "message": "1181988423989465229"
+        "message": "1181988423989465229",
+        "stats": {
+          "total": 20,
+          "users": 16
+        }
       }
     ],
     "last_used": 19697
   },
   {
-    "text": "What are your favourite sports?"
+    "text": "What are your favourite sports?",
+    "history": [
+      {
+        "day": 19698,
+        "message": "1182350812098343023"
+      }
+    ],
+    "last_used": 19698
   },
   {
     "text": "How do you think the world will end?"
