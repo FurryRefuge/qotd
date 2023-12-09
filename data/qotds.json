@@ -2285,13 +2285,24 @@
     "history": [
       {
         "day": 19699,
-        "message": "1182713199305433128"
+        "message": "1182713199305433128",
+        "stats": {
+          "total": 28,
+          "users": 21
+        }
       }
     ],
     "last_used": 19699
   },
   {
-    "text": "What are some things that you shouldn't say at a funeral?"
+    "text": "What are some things that you shouldn't say at a funeral?",
+    "history": [
+      {
+        "day": 19700,
+        "message": "1183075587103924306"
+      }
+    ],
+    "last_used": 19700
   },
   {
     "text": "What is the biggest priority in your life right now?"
