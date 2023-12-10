@@ -2299,13 +2299,24 @@
     "history": [
       {
         "day": 19700,
-        "message": "1183075587103924306"
+        "message": "1183075587103924306",
+        "stats": {
+          "total": 21,
+          "users": 19
+        }
       }
     ],
     "last_used": 19700
   },
   {
-    "text": "What is the biggest priority in your life right now?"
+    "text": "What is the biggest priority in your life right now?",
+    "history": [
+      {
+        "day": 19701,
+        "message": "1183437975086968872"
+      }
+    ],
+    "last_used": 19701
   },
   {
     "text": "What restaurant do you order most from?"
