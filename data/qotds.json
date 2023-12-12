@@ -2327,13 +2327,24 @@
     "history": [
       {
         "day": 19702,
-        "message": "1183800362499588177"
+        "message": "1183800362499588177",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 19702
   },
   {
-    "text": "What is your favourite flavour of soup?"
+    "text": "What is your favourite flavour of soup?",
+    "history": [
+      {
+        "day": 19703,
+        "message": "1184162750545530932"
+      }
+    ],
+    "last_used": 19703
   },
   {
     "text": "What do you wear to sleep?"
