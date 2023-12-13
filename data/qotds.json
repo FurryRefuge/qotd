@@ -2341,13 +2341,24 @@
     "history": [
       {
         "day": 19703,
-        "message": "1184162750545530932"
+        "message": "1184162750545530932",
+        "stats": {
+          "total": 20,
+          "users": 19
+        }
       }
     ],
     "last_used": 19703
   },
   {
-    "text": "What do you wear to sleep?"
+    "text": "What do you wear to sleep?",
+    "history": [
+      {
+        "day": 19704,
+        "message": "1184525139484889189"
+      }
+    ],
+    "last_used": 19704
   },
   {
     "text": "If you could meet any celebrity, who would you meet and why?"
