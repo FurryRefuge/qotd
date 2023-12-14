@@ -2355,13 +2355,24 @@
     "history": [
       {
         "day": 19704,
-        "message": "1184525139484889189"
+        "message": "1184525139484889189",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ],
     "last_used": 19704
   },
   {
-    "text": "If you could meet any celebrity, who would you meet and why?"
+    "text": "If you could meet any celebrity, who would you meet and why?",
+    "history": [
+      {
+        "day": 19705,
+        "message": "1184887527140757504"
+      }
+    ],
+    "last_used": 19705
   },
   {
     "text": "What is your favourite drinks brand?"
