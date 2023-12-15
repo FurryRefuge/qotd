@@ -2369,13 +2369,24 @@
     "history": [
       {
         "day": 19705,
-        "message": "1184887527140757504"
+        "message": "1184887527140757504",
+        "stats": {
+          "total": 17,
+          "users": 11
+        }
       }
     ],
     "last_used": 19705
   },
   {
-    "text": "What is your favourite drinks brand?"
+    "text": "What is your favourite drinks brand?",
+    "history": [
+      {
+        "day": 19706,
+        "message": "1185249914276544552"
+      }
+    ],
+    "last_used": 19706
   },
   {
     "text": "If you were given three wishes, what would you wish for?"
