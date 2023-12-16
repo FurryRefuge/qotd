@@ -2383,13 +2383,24 @@
     "history": [
       {
         "day": 19706,
-        "message": "1185249914276544552"
+        "message": "1185249914276544552",
+        "stats": {
+          "total": 11,
+          "users": 10
+        }
       }
     ],
     "last_used": 19706
   },
   {
-    "text": "If you were given three wishes, what would you wish for?"
+    "text": "If you were given three wishes, what would you wish for?",
+    "history": [
+      {
+        "day": 19707,
+        "message": "1185612302876151818"
+      }
+    ],
+    "last_used": 19707
   },
   {
     "text": "What is your favourite article of clothing?"
