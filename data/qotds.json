@@ -2397,13 +2397,24 @@
     "history": [
       {
         "day": 19707,
-        "message": "1185612302876151818"
+        "message": "1185612302876151818",
+        "stats": {
+          "total": 13,
+          "users": 10
+        }
       }
     ],
     "last_used": 19707
   },
   {
-    "text": "What is your favourite article of clothing?"
+    "text": "What is your favourite article of clothing?",
+    "history": [
+      {
+        "day": 19708,
+        "message": "1185974689940656219"
+      }
+    ],
+    "last_used": 19708
   },
   {
     "text": "What is your weirdest fantasy?"
