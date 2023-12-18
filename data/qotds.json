@@ -2411,13 +2411,24 @@
     "history": [
       {
         "day": 19708,
-        "message": "1185974689940656219"
+        "message": "1185974689940656219",
+        "stats": {
+          "total": 25,
+          "users": 19
+        }
       }
     ],
     "last_used": 19708
   },
   {
-    "text": "What is your weirdest fantasy?"
+    "text": "What is your weirdest fantasy?",
+    "history": [
+      {
+        "day": 19709,
+        "message": "1186337077672022156"
+      }
+    ],
+    "last_used": 19709
   },
   {
     "text": "What is your most and least favourite sport?"
