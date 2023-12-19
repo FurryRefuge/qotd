@@ -2425,13 +2425,24 @@
     "history": [
       {
         "day": 19709,
-        "message": "1186337077672022156"
+        "message": "1186337077672022156",
+        "stats": {
+          "total": 22,
+          "users": 16
+        }
       }
     ],
     "last_used": 19709
   },
   {
-    "text": "What is your most and least favourite sport?"
+    "text": "What is your most and least favourite sport?",
+    "history": [
+      {
+        "day": 19710,
+        "message": "1186699466011590676"
+      }
+    ],
+    "last_used": 19710
   },
   {
     "text": "What is your worst fear?"
