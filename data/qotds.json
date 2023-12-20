@@ -2439,13 +2439,24 @@
     "history": [
       {
         "day": 19710,
-        "message": "1186699466011590676"
+        "message": "1186699466011590676",
+        "stats": {
+          "total": 21,
+          "users": 16
+        }
       }
     ],
     "last_used": 19710
   },
   {
-    "text": "What is your worst fear?"
+    "text": "What is your worst fear?",
+    "history": [
+      {
+        "day": 19711,
+        "message": "1187061853734580344"
+      }
+    ],
+    "last_used": 19711
   },
   {
     "text": "What was the name and species of you first pet?"
