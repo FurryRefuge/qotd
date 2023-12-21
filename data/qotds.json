@@ -2453,13 +2453,24 @@
     "history": [
       {
         "day": 19711,
-        "message": "1187061853734580344"
+        "message": "1187061853734580344",
+        "stats": {
+          "total": 16,
+          "users": 11
+        }
       }
     ],
     "last_used": 19711
   },
   {
-    "text": "What was the name and species of you first pet?"
+    "text": "What was the name and species of you first pet?",
+    "history": [
+      {
+        "day": 19712,
+        "message": "1187424242069934121"
+      }
+    ],
+    "last_used": 19712
   },
   {
     "text": "What is *your* favourite cereal brand? Why?"
