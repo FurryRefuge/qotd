@@ -2467,13 +2467,24 @@
     "history": [
       {
         "day": 19712,
-        "message": "1187424242069934121"
+        "message": "1187424242069934121",
+        "stats": {
+          "total": 27,
+          "users": 21
+        }
       }
     ],
     "last_used": 19712
   },
   {
-    "text": "What is *your* favourite cereal brand? Why?"
+    "text": "What is *your* favourite cereal brand? Why?",
+    "history": [
+      {
+        "day": 19713,
+        "message": "1187786630006845460"
+      }
+    ],
+    "last_used": 19713
   },
   {
     "text": "You have £1,000,000's worth of your currency. What do you spend it on?"
