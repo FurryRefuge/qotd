@@ -2481,13 +2481,24 @@
     "history": [
       {
         "day": 19713,
-        "message": "1187786630006845460"
+        "message": "1187786630006845460",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 19713
   },
   {
-    "text": "You have £1,000,000's worth of your currency. What do you spend it on?"
+    "text": "You have £1,000,000's worth of your currency. What do you spend it on?",
+    "history": [
+      {
+        "day": 19714,
+        "message": "1188149017566253178"
+      }
+    ],
+    "last_used": 19714
   },
   {
     "text": "What is the one thing that makes you dislike someone?"
