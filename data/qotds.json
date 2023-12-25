@@ -2509,13 +2509,24 @@
     "history": [
       {
         "day": 19715,
-        "message": "1188511405322813612"
+        "message": "1188511405322813612",
+        "stats": {
+          "total": 17,
+          "users": 17
+        }
       }
     ],
     "last_used": 19715
   },
   {
-    "text": "What is the funniest name you have ever heard?"
+    "text": "What is the funniest name you have ever heard?",
+    "history": [
+      {
+        "day": 19716,
+        "message": "1188873793221972009"
+      }
+    ],
+    "last_used": 19716
   },
   {
     "text": "What is *your* favourite life hack and why?"
