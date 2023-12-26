@@ -2523,13 +2523,24 @@
     "history": [
       {
         "day": 19716,
-        "message": "1188873793221972009"
+        "message": "1188873793221972009",
+        "stats": {
+          "total": 14,
+          "users": 9
+        }
       }
     ],
     "last_used": 19716
   },
   {
-    "text": "What is *your* favourite life hack and why?"
+    "text": "What is *your* favourite life hack and why?",
+    "history": [
+      {
+        "day": 19717,
+        "message": "1189236182798831648"
+      }
+    ],
+    "last_used": 19717
   },
   {
     "text": "What is your favourite song right now?"
