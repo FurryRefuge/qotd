@@ -2537,13 +2537,24 @@
     "history": [
       {
         "day": 19717,
-        "message": "1189236182798831648"
+        "message": "1189236182798831648",
+        "stats": {
+          "total": 12,
+          "users": 9
+        }
       }
     ],
     "last_used": 19717
   },
   {
-    "text": "What is your favourite song right now?"
+    "text": "What is your favourite song right now?",
+    "history": [
+      {
+        "day": 19718,
+        "message": "1189598569511010304"
+      }
+    ],
+    "last_used": 19718
   },
   {
     "text": "What's adorable and unique about your pet(s)? (Please provide photo evidence)"
