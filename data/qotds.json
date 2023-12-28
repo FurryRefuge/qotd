@@ -2551,13 +2551,24 @@
     "history": [
       {
         "day": 19718,
-        "message": "1189598569511010304"
+        "message": "1189598569511010304",
+        "stats": {
+          "total": 15,
+          "users": 15
+        }
       }
     ],
     "last_used": 19718
   },
   {
-    "text": "What's adorable and unique about your pet(s)? (Please provide photo evidence)"
+    "text": "What's adorable and unique about your pet(s)? (Please provide photo evidence)",
+    "history": [
+      {
+        "day": 19719,
+        "message": "1189960957099782254"
+      }
+    ],
+    "last_used": 19719
   },
   {
     "text": "What's the strangest place you've ever travelled to?"
