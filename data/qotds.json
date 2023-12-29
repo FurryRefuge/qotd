@@ -2565,13 +2565,24 @@
     "history": [
       {
         "day": 19719,
-        "message": "1189960957099782254"
+        "message": "1189960957099782254",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19719
   },
   {
-    "text": "What's the strangest place you've ever travelled to?"
+    "text": "What's the strangest place you've ever travelled to?",
+    "history": [
+      {
+        "day": 19720,
+        "message": "1190323344613060699"
+      }
+    ],
+    "last_used": 19720
   },
   {
     "text": "What was the best birthday you ever had?"
