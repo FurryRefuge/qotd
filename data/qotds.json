@@ -2579,13 +2579,24 @@
     "history": [
       {
         "day": 19720,
-        "message": "1190323344613060699"
+        "message": "1190323344613060699",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 19720
   },
   {
-    "text": "What was the best birthday you ever had?"
+    "text": "What was the best birthday you ever had?",
+    "history": [
+      {
+        "day": 19721,
+        "message": "1190685731677552730"
+      }
+    ],
+    "last_used": 19721
   },
   {
     "text": "What is your spirit animal and why this animal?"
