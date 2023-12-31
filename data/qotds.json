@@ -2593,13 +2593,24 @@
     "history": [
       {
         "day": 19721,
-        "message": "1190685731677552730"
+        "message": "1190685731677552730",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 19721
   },
   {
-    "text": "What is your spirit animal and why this animal?"
+    "text": "What is your spirit animal and why this animal?",
+    "history": [
+      {
+        "day": 19722,
+        "message": "1191048120369422458"
+      }
+    ],
+    "last_used": 19722
   },
   {
     "text": "If you had to be trapped in a TV show for a month, which show would you choose?"
