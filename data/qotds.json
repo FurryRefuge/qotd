@@ -2621,13 +2621,24 @@
     "history": [
       {
         "day": 19723,
-        "message": "1191410508268580884"
+        "message": "1191410508268580884",
+        "stats": {
+          "total": 23,
+          "users": 13
+        }
       }
     ],
     "last_used": 19723
   },
   {
-    "text": "If you could pick a new first name, what would it be? Why?"
+    "text": "If you could pick a new first name, what would it be? Why?",
+    "history": [
+      {
+        "day": 19724,
+        "message": "1191772895526010890"
+      }
+    ],
+    "last_used": 19724
   },
   {
     "text": "What's your favorite smell?"
