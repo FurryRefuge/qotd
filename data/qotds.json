@@ -2635,13 +2635,24 @@
     "history": [
       {
         "day": 19724,
-        "message": "1191772895526010890"
+        "message": "1191772895526010890",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19724
   },
   {
-    "text": "What's your favorite smell?"
+    "text": "What's your favorite smell?",
+    "history": [
+      {
+        "day": 19725,
+        "message": "1192135283584552991"
+      }
+    ],
+    "last_used": 19725
   },
   {
     "text": "What is the scariest thing you've ever done, and would you do it again given the chance?"
