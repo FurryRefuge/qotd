@@ -2649,13 +2649,24 @@
     "history": [
       {
         "day": 19725,
-        "message": "1192135283584552991"
+        "message": "1192135283584552991",
+        "stats": {
+          "total": 19,
+          "users": 17
+        }
       }
     ],
     "last_used": 19725
   },
   {
-    "text": "What is the scariest thing you've ever done, and would you do it again given the chance?"
+    "text": "What is the scariest thing you've ever done, and would you do it again given the chance?",
+    "history": [
+      {
+        "day": 19726,
+        "message": "1192497672024752219"
+      }
+    ],
+    "last_used": 19726
   },
   {
     "text": "What's in your fridge?"
