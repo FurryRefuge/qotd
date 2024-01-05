@@ -2663,13 +2663,24 @@
     "history": [
       {
         "day": 19726,
-        "message": "1192497672024752219"
+        "message": "1192497672024752219",
+        "stats": {
+          "total": 12,
+          "users": 7
+        }
       }
     ],
     "last_used": 19726
   },
   {
-    "text": "What's in your fridge?"
+    "text": "What's in your fridge?",
+    "history": [
+      {
+        "day": 19727,
+        "message": "1192860059739365537"
+      }
+    ],
+    "last_used": 19727
   },
   {
     "text": "If you could change your name to something else, what would you change it to?"
