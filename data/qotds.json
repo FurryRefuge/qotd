@@ -2677,13 +2677,24 @@
     "history": [
       {
         "day": 19727,
-        "message": "1192860059739365537"
+        "message": "1192860059739365537",
+        "stats": {
+          "total": 24,
+          "users": 21
+        }
       }
     ],
     "last_used": 19727
   },
   {
-    "text": "If you could change your name to something else, what would you change it to?"
+    "text": "If you could change your name to something else, what would you change it to?",
+    "history": [
+      {
+        "day": 19728,
+        "message": "1193222447558819960"
+      }
+    ],
+    "last_used": 19728
   },
   {
     "text": "If you could live anywhere on earth, where would you live?"
