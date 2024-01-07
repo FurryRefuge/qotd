@@ -2691,13 +2691,24 @@
     "history": [
       {
         "day": 19728,
-        "message": "1193222447558819960"
+        "message": "1193222447558819960",
+        "stats": {
+          "total": 22,
+          "users": 17
+        }
       }
     ],
     "last_used": 19728
   },
   {
-    "text": "If you could live anywhere on earth, where would you live?"
+    "text": "If you could live anywhere on earth, where would you live?",
+    "history": [
+      {
+        "day": 19729,
+        "message": "1193584835340537938"
+      }
+    ],
+    "last_used": 19729
   },
   {
     "text": "If you became president, what is the first thing you would do?"
