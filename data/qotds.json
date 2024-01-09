@@ -2719,13 +2719,24 @@
     "history": [
       {
         "day": 19730,
-        "message": "1193947225492033587"
+        "message": "1193947225492033587",
+        "stats": {
+          "total": 29,
+          "users": 19
+        }
       }
     ],
     "last_used": 19730
   },
   {
-    "text": "If you could ask your pet 3 questions, what would they be?"
+    "text": "If you could ask your pet 3 questions, what would they be?",
+    "history": [
+      {
+        "day": 19731,
+        "message": "1194309611520528387"
+      }
+    ],
+    "last_used": 19731
   },
   {
     "text": "The earth is doomed to destruction by a big-ass meteor, scheduled to arrive tomorrow. What do you do with today?"
