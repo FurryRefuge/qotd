@@ -2733,13 +2733,24 @@
     "history": [
       {
         "day": 19731,
-        "message": "1194309611520528387"
+        "message": "1194309611520528387",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 19731
   },
   {
-    "text": "The earth is doomed to destruction by a big-ass meteor, scheduled to arrive tomorrow. What do you do with today?"
+    "text": "The earth is doomed to destruction by a big-ass meteor, scheduled to arrive tomorrow. What do you do with today?",
+    "history": [
+      {
+        "day": 19732,
+        "message": "1194671999184818216"
+      }
+    ],
+    "last_used": 19732
   },
   {
     "text": "What is the funniest thing that has ever happened to you?"
