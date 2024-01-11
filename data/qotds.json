@@ -2747,13 +2747,24 @@
     "history": [
       {
         "day": 19732,
-        "message": "1194671999184818216"
+        "message": "1194671999184818216",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 19732
   },
   {
-    "text": "What is the funniest thing that has ever happened to you?"
+    "text": "What is the funniest thing that has ever happened to you?",
+    "history": [
+      {
+        "day": 19733,
+        "message": "1195034387771834400"
+      }
+    ],
+    "last_used": 19733
   },
   {
     "text": "What is the first thing that you think of in the morning?"
