@@ -2761,13 +2761,24 @@
     "history": [
       {
         "day": 19733,
-        "message": "1195034387771834400"
+        "message": "1195034387771834400",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19733
   },
   {
-    "text": "What is the first thing that you think of in the morning?"
+    "text": "What is the first thing that you think of in the morning?",
+    "history": [
+      {
+        "day": 19734,
+        "message": "1195396774106513450"
+      }
+    ],
+    "last_used": 19734
   },
   {
     "text": "If you could switch two movie characters, what switch would lead to the most inappropriate movies?"
