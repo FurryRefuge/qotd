@@ -2775,13 +2775,24 @@
     "history": [
       {
         "day": 19734,
-        "message": "1195396774106513450"
+        "message": "1195396774106513450",
+        "stats": {
+          "total": 21,
+          "users": 19
+        }
       }
     ],
     "last_used": 19734
   },
   {
-    "text": "If you could switch two movie characters, what switch would lead to the most inappropriate movies?"
+    "text": "If you could switch two movie characters, what switch would lead to the most inappropriate movies?",
+    "history": [
+      {
+        "day": 19735,
+        "message": "1195759162844524605"
+      }
+    ],
+    "last_used": 19735
   },
   {
     "text": "If you were transported 400 years into the past, how would you prove that you were from the future?"
