@@ -2789,13 +2789,24 @@
     "history": [
       {
         "day": 19735,
-        "message": "1195759162844524605"
+        "message": "1195759162844524605",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 19735
   },
   {
-    "text": "If you were transported 400 years into the past, how would you prove that you were from the future?"
+    "text": "If you were transported 400 years into the past, how would you prove that you were from the future?",
+    "history": [
+      {
+        "day": 19736,
+        "message": "1196121552329125899"
+      }
+    ],
+    "last_used": 19736
   },
   {
     "text": "If someone asked to be your apprentice and learn all that you know, what would you teach them?"
