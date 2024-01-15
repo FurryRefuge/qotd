@@ -2803,13 +2803,24 @@
     "history": [
       {
         "day": 19736,
-        "message": "1196121552329125899"
+        "message": "1196121552329125899",
+        "stats": {
+          "total": 16,
+          "users": 12
+        }
       }
     ],
     "last_used": 19736
   },
   {
-    "text": "If someone asked to be your apprentice and learn all that you know, what would you teach them?"
+    "text": "If someone asked to be your apprentice and learn all that you know, what would you teach them?",
+    "history": [
+      {
+        "day": 19737,
+        "message": "1196483938663800972"
+      }
+    ],
+    "last_used": 19737
   },
   {
     "text": "If animals could talk, which would be the rudest?"
