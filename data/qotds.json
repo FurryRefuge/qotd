@@ -2817,13 +2817,24 @@
     "history": [
       {
         "day": 19737,
-        "message": "1196483938663800972"
+        "message": "1196483938663800972",
+        "stats": {
+          "total": 11,
+          "users": 11
+        }
       }
     ],
     "last_used": 19737
   },
   {
-    "text": "If animals could talk, which would be the rudest?"
+    "text": "If animals could talk, which would be the rudest?",
+    "history": [
+      {
+        "day": 19738,
+        "message": "1196846325917040701"
+      }
+    ],
+    "last_used": 19738
   },
   {
     "author": "292959447444226048",
