@@ -2831,7 +2831,11 @@
     "history": [
       {
         "day": 19738,
-        "message": "1196846325917040701"
+        "message": "1196846325917040701",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19738
@@ -2852,7 +2856,14 @@
     "last_used": 19558
   },
   {
-    "text": "What's a treat you can't live without?"
+    "text": "What's a treat you can't live without?",
+    "history": [
+      {
+        "day": 19739,
+        "message": "1197208714629894337"
+      }
+    ],
+    "last_used": 19739
   },
   {
     "author": "884625785913221121",
