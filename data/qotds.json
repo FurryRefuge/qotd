@@ -58,7 +58,13 @@
   },
   {
     "text": "What's the biggest time waster in your day-to-day life?",
-    "last_used": 19497
+    "last_used": 19740,
+    "history": [
+      {
+        "day": 19740,
+        "message": "1197571101543374889"
+      }
+    ]
   },
   {
     "text": "What fictional item do you wish you owned in real life?",
@@ -2860,7 +2866,11 @@
     "history": [
       {
         "day": 19739,
-        "message": "1197208714629894337"
+        "message": "1197208714629894337",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ],
     "last_used": 19739
