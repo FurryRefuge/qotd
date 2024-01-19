@@ -62,13 +62,23 @@
     "history": [
       {
         "day": 19740,
-        "message": "1197571101543374889"
+        "message": "1197571101543374889",
+        "stats": {
+          "total": 25,
+          "users": 19
+        }
       }
     ]
   },
   {
     "text": "What fictional item do you wish you owned in real life?",
-    "last_used": 19498
+    "last_used": 19741,
+    "history": [
+      {
+        "day": 19741,
+        "message": "1197933489257992212"
+      }
+    ]
   },
   {
     "text": "What upcoming media (movie, show, game, etc.) are you most looking forward to?",
