@@ -76,13 +76,23 @@
     "history": [
       {
         "day": 19741,
-        "message": "1197933489257992212"
+        "message": "1197933489257992212",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What upcoming media (movie, show, game, etc.) are you most looking forward to?",
-    "last_used": 19499
+    "last_used": 19742,
+    "history": [
+      {
+        "day": 19742,
+        "message": "1198295877001945148"
+      }
+    ]
   },
   {
     "text": "What's the longest line you've ever waited in? Was it worth it?",
