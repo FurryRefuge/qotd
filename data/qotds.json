@@ -90,13 +90,23 @@
     "history": [
       {
         "day": 19742,
-        "message": "1198295877001945148"
+        "message": "1198295877001945148",
+        "stats": {
+          "total": 17,
+          "users": 15
+        }
       }
     ]
   },
   {
     "text": "What's the longest line you've ever waited in? Was it worth it?",
-    "last_used": 19500
+    "last_used": 19743,
+    "history": [
+      {
+        "day": 19743,
+        "message": "1198658265597362267"
+      }
+    ]
   },
   {
     "text": "What is your favourite meal to have for dinner?",
