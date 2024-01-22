@@ -104,13 +104,23 @@
     "history": [
       {
         "day": 19743,
-        "message": "1198658265597362267"
+        "message": "1198658265597362267",
+        "stats": {
+          "total": 13,
+          "users": 10
+        }
       }
     ]
   },
   {
     "text": "What is your favourite meal to have for dinner?",
-    "last_used": 19501
+    "last_used": 19744,
+    "history": [
+      {
+        "day": 19744,
+        "message": "1199020653479727105"
+      }
+    ]
   },
   {
     "text": "What is your favourite Discord feature?",
