@@ -118,13 +118,23 @@
     "history": [
       {
         "day": 19744,
-        "message": "1199020653479727105"
+        "message": "1199020653479727105",
+        "stats": {
+          "total": 34,
+          "users": 17
+        }
       }
     ]
   },
   {
     "text": "What is your favourite Discord feature?",
-    "last_used": 19502
+    "last_used": 19745,
+    "history": [
+      {
+        "day": 19745,
+        "message": "1199383041995440160"
+      }
+    ]
   },
   {
     "text": "What recent trend are you totally on board with?",
