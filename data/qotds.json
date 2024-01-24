@@ -132,13 +132,23 @@
     "history": [
       {
         "day": 19745,
-        "message": "1199383041995440160"
+        "message": "1199383041995440160",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ]
   },
   {
     "text": "What recent trend are you totally on board with?",
-    "last_used": 19503
+    "last_used": 19746,
+    "history": [
+      {
+        "day": 19746,
+        "message": "1199745429299011695"
+      }
+    ]
   },
   {
     "text": "What silly or funny thing are you afraid of?",
