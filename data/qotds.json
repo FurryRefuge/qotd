@@ -146,13 +146,23 @@
     "history": [
       {
         "day": 19746,
-        "message": "1199745429299011695"
+        "message": "1199745429299011695",
+        "stats": {
+          "total": 16,
+          "users": 10
+        }
       }
     ]
   },
   {
     "text": "What silly or funny thing are you afraid of?",
-    "last_used": 19504
+    "last_used": 19747,
+    "history": [
+      {
+        "day": 19747,
+        "message": "1200107817101709363"
+      }
+    ]
   },
   {
     "text": "If you were given 500 acres of land, what would you use it for?",
