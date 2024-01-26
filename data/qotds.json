@@ -160,13 +160,23 @@
     "history": [
       {
         "day": 19747,
-        "message": "1200107817101709363"
+        "message": "1200107817101709363",
+        "stats": {
+          "total": 23,
+          "users": 17
+        }
       }
     ]
   },
   {
     "text": "If you were given 500 acres of land, what would you use it for?",
-    "last_used": 19505
+    "last_used": 19748,
+    "history": [
+      {
+        "day": 19748,
+        "message": "1200470204321382450"
+      }
+    ]
   },
   {
     "text": "What's the most useless talent you have?",
