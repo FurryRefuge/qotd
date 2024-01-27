@@ -174,13 +174,23 @@
     "history": [
       {
         "day": 19748,
-        "message": "1200470204321382450"
+        "message": "1200470204321382450",
+        "stats": {
+          "total": 20,
+          "users": 18
+        }
       }
     ]
   },
   {
     "text": "What's the most useless talent you have?",
-    "last_used": 19506
+    "last_used": 19749,
+    "history": [
+      {
+        "day": 19749,
+        "message": "1200832592417669181"
+      }
+    ]
   },
   {
     "text": "What would you do for a day without the internet?",
