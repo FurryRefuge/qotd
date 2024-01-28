@@ -188,13 +188,23 @@
     "history": [
       {
         "day": 19749,
-        "message": "1200832592417669181"
+        "message": "1200832592417669181",
+        "stats": {
+          "total": 36,
+          "users": 20
+        }
       }
     ]
   },
   {
     "text": "What would you do for a day without the internet?",
-    "last_used": 19507
+    "last_used": 19750,
+    "history": [
+      {
+        "day": 19750,
+        "message": "1201194980455223396"
+      }
+    ]
   },
   {
     "text": "What movies do you dislike and why?",
