@@ -202,13 +202,23 @@
     "history": [
       {
         "day": 19750,
-        "message": "1201194980455223396"
+        "message": "1201194980455223396",
+        "stats": {
+          "total": 27,
+          "users": 23
+        }
       }
     ]
   },
   {
     "text": "What movies do you dislike and why?",
-    "last_used": 19508
+    "last_used": 19751,
+    "history": [
+      {
+        "day": 19751,
+        "message": "1201557368044015796"
+      }
+    ]
   },
   {
     "text": "What is your favourite breakfast meal?",
