@@ -216,13 +216,23 @@
     "history": [
       {
         "day": 19751,
-        "message": "1201557368044015796"
+        "message": "1201557368044015796",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What is your favourite breakfast meal?",
-    "last_used": 19509
+    "last_used": 19752,
+    "history": [
+      {
+        "day": 19752,
+        "message": "1201919755997675590"
+      }
+    ]
   },
   {
     "text": "What is your favourite type of pasta?",
