@@ -230,13 +230,23 @@
     "history": [
       {
         "day": 19752,
-        "message": "1201919755997675590"
+        "message": "1201919755997675590",
+        "stats": {
+          "total": 24,
+          "users": 17
+        }
       }
     ]
   },
   {
     "text": "What is your favourite type of pasta?",
-    "last_used": 19510
+    "last_used": 19753,
+    "history": [
+      {
+        "day": 19753,
+        "message": "1202282143896571914"
+      }
+    ]
   },
   {
     "text": "What is the nicest thing you've ever done for a friend?",
