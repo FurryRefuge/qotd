@@ -258,13 +258,23 @@
     "history": [
       {
         "day": 19754,
-        "message": "1202644531972153414"
+        "message": "1202644531972153414",
+        "stats": {
+          "total": 24,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What is your favourite meal and why?",
-    "last_used": 19512
+    "last_used": 19755,
+    "history": [
+      {
+        "day": 19755,
+        "message": "1203006920320090112"
+      }
+    ]
   },
   {
     "text": "What is the most embarrassing thing you've ever done?",
