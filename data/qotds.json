@@ -272,13 +272,23 @@
     "history": [
       {
         "day": 19755,
-        "message": "1203006920320090112"
+        "message": "1203006920320090112",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ]
   },
   {
     "text": "What is the most embarrassing thing you've ever done?",
-    "last_used": 19513
+    "last_used": 19756,
+    "history": [
+      {
+        "day": 19756,
+        "message": "1203369307980173402"
+      }
+    ]
   },
   {
     "text": "What's the tastiest thing in your cupboard right now?",
