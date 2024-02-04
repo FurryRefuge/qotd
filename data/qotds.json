@@ -286,13 +286,23 @@
     "history": [
       {
         "day": 19756,
-        "message": "1203369307980173402"
+        "message": "1203369307980173402",
+        "stats": {
+          "total": 24,
+          "users": 12
+        }
       }
     ]
   },
   {
     "text": "What's the tastiest thing in your cupboard right now?",
-    "last_used": 19514
+    "last_used": 19757,
+    "history": [
+      {
+        "day": 19757,
+        "message": "1203731696231391342"
+      }
+    ]
   },
   {
     "text": "What holiday celebration do you hate attending?",
