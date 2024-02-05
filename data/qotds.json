@@ -300,13 +300,23 @@
     "history": [
       {
         "day": 19757,
-        "message": "1203731696231391342"
+        "message": "1203731696231391342",
+        "stats": {
+          "total": 10,
+          "users": 10
+        }
       }
     ]
   },
   {
     "text": "What holiday celebration do you hate attending?",
-    "last_used": 19515
+    "last_used": 19758,
+    "history": [
+      {
+        "day": 19758,
+        "message": "1204094083652526081"
+      }
+    ]
   },
   {
     "text": "What is your favourite donut topping?",
