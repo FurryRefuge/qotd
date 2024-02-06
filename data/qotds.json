@@ -314,13 +314,23 @@
     "history": [
       {
         "day": 19758,
-        "message": "1204094083652526081"
+        "message": "1204094083652526081",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ]
   },
   {
     "text": "What is your favourite donut topping?",
-    "last_used": 19516
+    "last_used": 19759,
+    "history": [
+      {
+        "day": 19759,
+        "message": "1204456470884786177"
+      }
+    ]
   },
   {
     "text": "What is the worst movie you've every watched?",
