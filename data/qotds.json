@@ -328,13 +328,23 @@
     "history": [
       {
         "day": 19759,
-        "message": "1204456470884786177"
+        "message": "1204456470884786177",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ]
   },
   {
     "text": "What is the worst movie you've every watched?",
-    "last_used": 19517
+    "last_used": 19760,
+    "history": [
+      {
+        "day": 19760,
+        "message": "1204818859257761853"
+      }
+    ]
   },
   {
     "text": "If you won the lottery, what would you buy?",
