@@ -342,13 +342,23 @@
     "history": [
       {
         "day": 19760,
-        "message": "1204818859257761853"
+        "message": "1204818859257761853",
+        "stats": {
+          "total": 13,
+          "users": 8
+        }
       }
     ]
   },
   {
     "text": "If you won the lottery, what would you buy?",
-    "last_used": 19519
+    "last_used": 19761,
+    "history": [
+      {
+        "day": 19761,
+        "message": "1205181247643717733"
+      }
+    ]
   },
   {
     "text": "What is your favourite ice cream flavour and why?",
