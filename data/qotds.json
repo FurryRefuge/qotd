@@ -356,13 +356,23 @@
     "history": [
       {
         "day": 19761,
-        "message": "1205181247643717733"
+        "message": "1205181247643717733",
+        "stats": {
+          "total": 26,
+          "users": 21
+        }
       }
     ]
   },
   {
     "text": "What is your favourite ice cream flavour and why?",
-    "last_used": 19520
+    "last_used": 19762,
+    "history": [
+      {
+        "day": 19762,
+        "message": "1205543634221535275"
+      }
+    ]
   },
   {
     "text": "What is your favourite TV show and why?",
