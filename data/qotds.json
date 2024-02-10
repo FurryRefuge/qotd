@@ -370,13 +370,23 @@
     "history": [
       {
         "day": 19762,
-        "message": "1205543634221535275"
+        "message": "1205543634221535275",
+        "stats": {
+          "total": 18,
+          "users": 13
+        }
       }
     ]
   },
   {
     "text": "What is your favourite TV show and why?",
-    "last_used": 19521
+    "last_used": 19763,
+    "history": [
+      {
+        "day": 19763,
+        "message": "1205906022527664230"
+      }
+    ]
   },
   {
     "text": "What's your favourite candy?",
