@@ -384,13 +384,23 @@
     "history": [
       {
         "day": 19763,
-        "message": "1205906022527664230"
+        "message": "1205906022527664230",
+        "stats": {
+          "total": 13,
+          "users": 10
+        }
       }
     ]
   },
   {
     "text": "What's your favourite candy?",
-    "last_used": 19522
+    "last_used": 19764,
+    "history": [
+      {
+        "day": 19764,
+        "message": "1206268410418434098"
+      }
+    ]
   },
   {
     "text": "What is your favourite milkshake flavour?",
