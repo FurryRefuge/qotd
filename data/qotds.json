@@ -398,13 +398,23 @@
     "history": [
       {
         "day": 19764,
-        "message": "1206268410418434098"
+        "message": "1206268410418434098",
+        "stats": {
+          "total": 21,
+          "users": 16
+        }
       }
     ]
   },
   {
     "text": "What is your favourite milkshake flavour?",
-    "last_used": 19523
+    "last_used": 19765,
+    "history": [
+      {
+        "day": 19765,
+        "message": "1206630798153879593"
+      }
+    ]
   },
   {
     "text": "What is your favourite thing about the city or town you live?",
