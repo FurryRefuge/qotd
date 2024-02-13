@@ -412,13 +412,23 @@
     "history": [
       {
         "day": 19765,
-        "message": "1206630798153879593"
+        "message": "1206630798153879593",
+        "stats": {
+          "total": 14,
+          "users": 12
+        }
       }
     ]
   },
   {
     "text": "What is your favourite thing about the city or town you live?",
-    "last_used": 19524
+    "last_used": 19766,
+    "history": [
+      {
+        "day": 19766,
+        "message": "1206993185981595698"
+      }
+    ]
   },
   {
     "text": "If reincarnated, which type of creature do you hope to live as in your next life?",
