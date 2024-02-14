@@ -426,13 +426,23 @@
     "history": [
       {
         "day": 19766,
-        "message": "1206993185981595698"
+        "message": "1206993185981595698",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ]
   },
   {
     "text": "If reincarnated, which type of creature do you hope to live as in your next life?",
-    "last_used": 19525
+    "last_used": 19767,
+    "history": [
+      {
+        "day": 19767,
+        "message": "1207355573759381534"
+      }
+    ]
   },
   {
     "text": "What are two truths and one lie about you?",
