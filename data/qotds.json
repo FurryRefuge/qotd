@@ -440,13 +440,23 @@
     "history": [
       {
         "day": 19767,
-        "message": "1207355573759381534"
+        "message": "1207355573759381534",
+        "stats": {
+          "total": 14,
+          "users": 14
+        }
       }
     ]
   },
   {
     "text": "What are two truths and one lie about you?",
-    "last_used": 19526
+    "last_used": 19768,
+    "history": [
+      {
+        "day": 19768,
+        "message": "1207717962778284112"
+      }
+    ]
   },
   {
     "text": "What's the simplest thing you can't do?",
