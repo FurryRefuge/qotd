@@ -454,13 +454,23 @@
     "history": [
       {
         "day": 19768,
-        "message": "1207717962778284112"
+        "message": "1207717962778284112",
+        "stats": {
+          "total": 15,
+          "users": 10
+        }
       }
     ]
   },
   {
     "text": "What's the simplest thing you can't do?",
-    "last_used": 19527
+    "last_used": 19769,
+    "history": [
+      {
+        "day": 19769,
+        "message": "1208080349884841994"
+      }
+    ]
   },
   {
     "text": "What's your favorite type of tree?",
