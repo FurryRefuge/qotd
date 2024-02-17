@@ -468,13 +468,23 @@
     "history": [
       {
         "day": 19769,
-        "message": "1208080349884841994"
+        "message": "1208080349884841994",
+        "stats": {
+          "total": 25,
+          "users": 16
+        }
       }
     ]
   },
   {
     "text": "What's your favorite type of tree?",
-    "last_used": 19528
+    "last_used": 19770,
+    "history": [
+      {
+        "day": 19770,
+        "message": "1208442737779679373"
+      }
+    ]
   },
   {
     "text": "Home is where ________",
