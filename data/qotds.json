@@ -482,7 +482,11 @@
     "history": [
       {
         "day": 19770,
-        "message": "1208442737779679373"
+        "message": "1208442737779679373",
+        "stats": {
+          "total": 19,
+          "users": 14
+        }
       }
     ]
   },
@@ -496,9 +500,13 @@
           "total": 15,
           "users": 12
         }
+      },
+      {
+        "day": 19771,
+        "message": "1208805125636886600"
       }
     ],
-    "last_used": 19529
+    "last_used": 19771
   },
   {
     "text": "What animal do you most identify with and why?",
