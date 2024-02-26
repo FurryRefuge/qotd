@@ -657,7 +657,11 @@
       },
       {
         "day": 19778,
-        "message": "1211341841593671730"
+        "message": "1211341841593671730",
+        "stats": {
+          "total": 23,
+          "users": 17
+        }
       }
     ],
     "last_used": 19778
@@ -672,9 +676,13 @@
           "total": 18,
           "users": 16
         }
+      },
+      {
+        "day": 19779,
+        "message": "1211704229685895188"
       }
     ],
-    "last_used": 19537
+    "last_used": 19779
   },
   {
     "text": "If you were a pie, what kind of pie would you be?",
