@@ -701,7 +701,11 @@
       },
       {
         "day": 19780,
-        "message": "1212066616788000848"
+        "message": "1212066616788000848",
+        "stats": {
+          "total": 15,
+          "users": 8
+        }
       }
     ],
     "last_used": 19780
@@ -716,9 +720,13 @@
           "total": 23,
           "users": 19
         }
+      },
+      {
+        "day": 19781,
+        "message": "1212429004313731144"
       }
     ],
-    "last_used": 19539
+    "last_used": 19781
   },
   {
     "text": "What is the best movie you've ever watched?",
