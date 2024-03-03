@@ -789,7 +789,11 @@
       },
       {
         "day": 19784,
-        "message": "1213516168615301213"
+        "message": "1213516168615301213",
+        "stats": {
+          "total": 23,
+          "users": 13
+        }
       }
     ],
     "last_used": 19784
@@ -804,9 +808,13 @@
           "total": 19,
           "users": 19
         }
+      },
+      {
+        "day": 19785,
+        "message": "1213878562914828359"
       }
     ],
-    "last_used": 19543
+    "last_used": 19785
   },
   {
     "text": "What is your worst phobia/fear?",
