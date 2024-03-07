@@ -877,7 +877,11 @@
       },
       {
         "day": 19788,
-        "message": "1214965721420005377"
+        "message": "1214965721420005377",
+        "stats": {
+          "total": 21,
+          "users": 17
+        }
       }
     ],
     "last_used": 19788
@@ -3396,7 +3400,14 @@
   },
   {
     "author": "426768409955663882",
-    "text": "If you could gain the ability to cook one dish perfectly every time, what would it be?"
+    "text": "If you could gain the ability to cook one dish perfectly every time, what would it be?",
+    "history": [
+      {
+        "day": 19789,
+        "message": "1215328107225944144"
+      }
+    ],
+    "last_used": 19789
   },
   {
     "author": "922306256381833226",
