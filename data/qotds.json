@@ -3404,14 +3404,25 @@
     "history": [
       {
         "day": 19789,
-        "message": "1215328107225944144"
+        "message": "1215328107225944144",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 19789
   },
   {
     "author": "922306256381833226",
-    "text": "If you could be any pokemon, which one would you be?"
+    "text": "If you could be any pokemon, which one would you be?",
+    "history": [
+      {
+        "day": 19790,
+        "message": "1215690494978555995"
+      }
+    ],
+    "last_used": 19790
   },
   {
     "author": "884625785913221121",
