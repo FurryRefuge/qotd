@@ -3434,13 +3434,24 @@
     "history": [
       {
         "day": 19791,
-        "message": "1216052882785439835"
+        "message": "1216052882785439835",
+        "stats": {
+          "total": 16,
+          "users": 10
+        }
       }
     ],
     "last_used": 19791
   },
   {
     "author": "332972502357770240",
-    "text": "What is your favourite and least favourite anime?"
+    "text": "What is your favourite and least favourite anime?",
+    "history": [
+      {
+        "day": 19792,
+        "message": "1216415271166935100"
+      }
+    ],
+    "last_used": 19792
   }
 ]
