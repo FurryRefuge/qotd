@@ -896,9 +896,13 @@
           "total": 42,
           "users": 16
         }
+      },
+      {
+        "day": 19793,
+        "message": "1216777658944196638"
       }
     ],
-    "last_used": 19547
+    "last_used": 19793
   },
   {
     "text": "What would be your ideal morning breakfast?",
@@ -3449,7 +3453,11 @@
     "history": [
       {
         "day": 19792,
-        "message": "1216415271166935100"
+        "message": "1216415271166935100",
+        "stats": {
+          "total": 26,
+          "users": 8
+        }
       }
     ],
     "last_used": 19792
