@@ -965,7 +965,11 @@
       },
       {
         "day": 19796,
-        "message": "1217864823405019209"
+        "message": "1217864823405019209",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 19796
@@ -980,9 +984,13 @@
           "total": 23,
           "users": 11
         }
+      },
+      {
+        "day": 19797,
+        "message": "1218227211518083235"
       }
     ],
-    "last_used": 19551
+    "last_used": 19797
   },
   {
     "text": "What is your favourite made-up ice cream flavour?",
