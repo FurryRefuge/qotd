@@ -987,7 +987,11 @@
       },
       {
         "day": 19797,
-        "message": "1218227211518083235"
+        "message": "1218227211518083235",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 19797
@@ -1002,9 +1006,13 @@
           "total": 34,
           "users": 19
         }
+      },
+      {
+        "day": 19798,
+        "message": "1218589598213476463"
       }
     ],
-    "last_used": 19552
+    "last_used": 19798
   },
   {
     "text": "What is something you are utterly obsessed with at the moment?",
