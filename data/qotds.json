@@ -1031,7 +1031,11 @@
       },
       {
         "day": 19799,
-        "message": "1218951985496330351"
+        "message": "1218951985496330351",
+        "stats": {
+          "total": 17,
+          "users": 17
+        }
       }
     ],
     "last_used": 19799
@@ -1046,9 +1050,13 @@
           "total": 27,
           "users": 18
         }
+      },
+      {
+        "day": 19800,
+        "message": "1219314373407932488"
       }
     ],
-    "last_used": 19554
+    "last_used": 19800
   },
   {
     "text": "What wastes the most time in your day to day life?",
