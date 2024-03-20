@@ -1075,7 +1075,11 @@
       },
       {
         "day": 19801,
-        "message": "1219676761059754055"
+        "message": "1219676761059754055",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 19801
@@ -1090,9 +1094,13 @@
           "total": 17,
           "users": 14
         }
+      },
+      {
+        "day": 19802,
+        "message": "1220039149080543243"
       }
     ],
-    "last_used": 19557
+    "last_used": 19802
   },
   {
     "text": "What is your favorite meal to have for dinner?",
