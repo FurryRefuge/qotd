@@ -1097,7 +1097,11 @@
       },
       {
         "day": 19802,
-        "message": "1220039149080543243"
+        "message": "1220039149080543243",
+        "stats": {
+          "total": 19,
+          "users": 11
+        }
       }
     ],
     "last_used": 19802
@@ -3381,9 +3385,13 @@
           "total": 33,
           "users": 17
         }
+      },
+      {
+        "day": 19803,
+        "message": "1220401542734286989"
       }
     ],
-    "last_used": 19558
+    "last_used": 19803
   },
   {
     "text": "What's a treat you can't live without?",
