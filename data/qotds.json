@@ -58,13 +58,17 @@
       },
       {
         "day": 19808,
-        "message": "1222213475695067249"
+        "message": "1222213475695067249",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ]
   },
   {
     "text": "What do you greatly enjoy doing but wish you could do more?",
-    "last_used": 19564,
+    "last_used": 19809,
     "history": [
       {
         "day": 19564,
@@ -73,6 +77,10 @@
           "total": 20,
           "users": 16
         }
+      },
+      {
+        "day": 19809,
+        "message": "1222575864206852178"
       }
     ]
   },
