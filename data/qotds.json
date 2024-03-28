@@ -80,7 +80,11 @@
       },
       {
         "day": 19809,
-        "message": "1222575864206852178"
+        "message": "1222575864206852178",
+        "stats": {
+          "total": 14,
+          "users": 13
+        }
       }
     ]
   },
@@ -1144,9 +1148,13 @@
           "total": 16,
           "users": 15
         }
+      },
+      {
+        "day": 19810,
+        "message": "1222938268346355772"
       }
     ],
-    "last_used": 19565
+    "last_used": 19810
   },
   {
     "text": "What is your favorite Discord feature?",
