@@ -1151,7 +1151,11 @@
       },
       {
         "day": 19810,
-        "message": "1222938268346355772"
+        "message": "1222938268346355772",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19810
@@ -1166,9 +1170,13 @@
           "total": 26,
           "users": 15
         }
+      },
+      {
+        "day": 19811,
+        "message": "1223300639887462490"
       }
     ],
-    "last_used": 19566
+    "last_used": 19811
   },
   {
     "text": "What do you like to collect?",
