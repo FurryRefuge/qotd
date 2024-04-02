@@ -1239,7 +1239,11 @@
       },
       {
         "day": 19814,
-        "message": "1224387803534725200"
+        "message": "1224387803534725200",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 19814
@@ -1254,9 +1258,13 @@
           "total": 17,
           "users": 17
         }
+      },
+      {
+        "day": 19815,
+        "message": "1224750263298949171"
       }
     ],
-    "last_used": 19570
+    "last_used": 19815
   },
   {
     "text": "What is your favourite takeout?",
