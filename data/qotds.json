@@ -1261,7 +1261,11 @@
       },
       {
         "day": 19815,
-        "message": "1224750263298949171"
+        "message": "1224750263298949171",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 19815
@@ -1276,9 +1280,13 @@
           "total": 15,
           "users": 15
         }
+      },
+      {
+        "day": 19816,
+        "message": "1225112579526099078"
       }
     ],
-    "last_used": 19571
+    "last_used": 19816
   },
   {
     "text": "What is your favourite holiday (i.e. halloween, christmas, etc)?",
