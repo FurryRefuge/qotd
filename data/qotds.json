@@ -1349,7 +1349,11 @@
       },
       {
         "day": 19819,
-        "message": "1226199743319773275"
+        "message": "1226199743319773275",
+        "stats": {
+          "total": 13,
+          "users": 11
+        }
       }
     ],
     "last_used": 19819
@@ -1364,9 +1368,13 @@
           "total": 18,
           "users": 15
         }
+      },
+      {
+        "day": 19820,
+        "message": "1226562130917195847"
       }
     ],
-    "last_used": 19576
+    "last_used": 19820
   },
   {
     "text": "What is your favourite TV show?",
