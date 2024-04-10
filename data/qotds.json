@@ -1371,7 +1371,11 @@
       },
       {
         "day": 19820,
-        "message": "1226562130917195847"
+        "message": "1226562130917195847",
+        "stats": {
+          "total": 24,
+          "users": 16
+        }
       }
     ],
     "last_used": 19820
@@ -1386,9 +1390,13 @@
           "total": 14,
           "users": 14
         }
+      },
+      {
+        "day": 19823,
+        "message": "1227649294484504680"
       }
     ],
-    "last_used": 19577
+    "last_used": 19823
   },
   {
     "text": "What is your favourite dessert?",
