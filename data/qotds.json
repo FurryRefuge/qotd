@@ -1393,7 +1393,11 @@
       },
       {
         "day": 19823,
-        "message": "1227649294484504680"
+        "message": "1227649294484504680",
+        "stats": {
+          "total": 9,
+          "users": 6
+        }
       }
     ],
     "last_used": 19823
@@ -1408,9 +1412,13 @@
           "total": 41,
           "users": 24
         }
+      },
+      {
+        "day": 19824,
+        "message": "1228011682534658048"
       }
     ],
-    "last_used": 19578
+    "last_used": 19824
   },
   {
     "text": "What are three websites that you visit every day?",
