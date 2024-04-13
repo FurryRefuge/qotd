@@ -1437,7 +1437,11 @@
       },
       {
         "day": 19825,
-        "message": "1228374069997731881"
+        "message": "1228374069997731881",
+        "stats": {
+          "total": 18,
+          "users": 14
+        }
       }
     ],
     "last_used": 19825
@@ -1452,9 +1456,13 @@
           "total": 15,
           "users": 12
         }
+      },
+      {
+        "day": 19826,
+        "message": "1228736460677451816"
       }
     ],
-    "last_used": 19580
+    "last_used": 19826
   },
   {
     "text": "What is the best thing that happened to you this week?",
