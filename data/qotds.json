@@ -1459,7 +1459,11 @@
       },
       {
         "day": 19826,
-        "message": "1228736460677451816"
+        "message": "1228736460677451816",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 19826
@@ -1474,9 +1478,13 @@
           "total": 24,
           "users": 17
         }
+      },
+      {
+        "day": 19828,
+        "message": "1229461233716035726"
       }
     ],
-    "last_used": 19581
+    "last_used": 19828
   },
   {
     "text": "What is your favourite ice crean?",
