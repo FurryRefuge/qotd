@@ -1566,9 +1566,13 @@
           "total": 16,
           "users": 12
         }
+      },
+      {
+        "day": 19834,
+        "message": "1231635561589248083"
       }
     ],
-    "last_used": 19587
+    "last_used": 19834
   },
   {
     "text": "What is your favourite movie and why?",
@@ -3678,7 +3682,11 @@
       },
       {
         "day": 19833,
-        "message": "1231273174369308692"
+        "message": "1231273174369308692",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 19833
