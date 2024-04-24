@@ -1497,7 +1497,11 @@
       },
       {
         "day": 19836,
-        "message": "1232360336628256819"
+        "message": "1232360336628256819",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 19836
@@ -3556,7 +3560,14 @@
   },
   {
     "author": "884625785913221121",
-    "text": "What legacy do you wish to leave behind when you're no longer around?"
+    "text": "What legacy do you wish to leave behind when you're no longer around?",
+    "history": [
+      {
+        "day": 19837,
+        "message": "1232722725982699541"
+      }
+    ],
+    "last_used": 19837
   },
   {
     "author": "1195521658136580307",
