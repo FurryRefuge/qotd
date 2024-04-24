@@ -45,28 +45,6 @@
     ]
   },
   {
-    "text": "What is something you are utterly obsessed with at the moment",
-    "last_used": 19808,
-    "history": [
-      {
-        "day": 19563,
-        "message": "1133428449474785331",
-        "stats": {
-          "total": 24,
-          "users": 16
-        }
-      },
-      {
-        "day": 19808,
-        "message": "1222213475695067249",
-        "stats": {
-          "total": 7,
-          "users": 7
-        }
-      }
-    ]
-  },
-  {
     "text": "What do you greatly enjoy doing but wish you could do more?",
     "last_used": 19809,
     "history": [
@@ -369,20 +347,6 @@
     ]
   },
   {
-    "text": "What is the worst movie you've every watched?",
-    "last_used": 19760,
-    "history": [
-      {
-        "day": 19760,
-        "message": "1204818859257761853",
-        "stats": {
-          "total": 13,
-          "users": 8
-        }
-      }
-    ]
-  },
-  {
     "text": "If you won the lottery, what would you buy?",
     "last_used": 19761,
     "history": [
@@ -434,20 +398,6 @@
         "stats": {
           "total": 21,
           "users": 16
-        }
-      }
-    ]
-  },
-  {
-    "text": "What is your favourite milkshake flavour?",
-    "last_used": 19765,
-    "history": [
-      {
-        "day": 19765,
-        "message": "1206630798153879593",
-        "stats": {
-          "total": 14,
-          "users": 12
         }
       }
     ]
@@ -1139,50 +1089,6 @@
     "last_used": 19802
   },
   {
-    "text": "What is your favorite meal to have for dinner?",
-    "history": [
-      {
-        "day": 19565,
-        "message": "1134153225327624323",
-        "stats": {
-          "total": 16,
-          "users": 15
-        }
-      },
-      {
-        "day": 19810,
-        "message": "1222938268346355772",
-        "stats": {
-          "total": 12,
-          "users": 11
-        }
-      }
-    ],
-    "last_used": 19810
-  },
-  {
-    "text": "What is your favorite Discord feature?",
-    "history": [
-      {
-        "day": 19566,
-        "message": "1134515612878651423",
-        "stats": {
-          "total": 26,
-          "users": 15
-        }
-      },
-      {
-        "day": 19811,
-        "message": "1223300639887462490",
-        "stats": {
-          "total": 6,
-          "users": 6
-        }
-      }
-    ],
-    "last_used": 19811
-  },
-  {
     "text": "What do you like to collect?",
     "history": [
       {
@@ -1379,28 +1285,6 @@
       }
     ],
     "last_used": 19820
-  },
-  {
-    "text": "What is your favourite TV show?",
-    "history": [
-      {
-        "day": 19577,
-        "message": "1138501880000028702",
-        "stats": {
-          "total": 14,
-          "users": 14
-        }
-      },
-      {
-        "day": 19823,
-        "message": "1227649294484504680",
-        "stats": {
-          "total": 9,
-          "users": 6
-        }
-      }
-    ],
-    "last_used": 19823
   },
   {
     "text": "What is your favourite dessert?",
@@ -1619,20 +1503,6 @@
     "last_used": 19836
   },
   {
-    "text": "If you could only eat one food for the rest of your life, what would it be and why?",
-    "history": [
-      {
-        "day": 19590,
-        "message": "1143212922944880781",
-        "stats": {
-          "total": 15,
-          "users": 13
-        }
-      }
-    ],
-    "last_used": 19590
-  },
-  {
     "text": "What is the most luckiest thing that has ever happened to you?",
     "history": [
       {
@@ -1731,20 +1601,6 @@
     "last_used": 19597
   },
   {
-    "text": "What is your most favourite ice cream flavour?",
-    "history": [
-      {
-        "day": 19598,
-        "message": "1146112024967917761",
-        "stats": {
-          "total": 15,
-          "users": 15
-        }
-      }
-    ],
-    "last_used": 19598
-  },
-  {
     "text": "What is your most favourite fast food meal?",
     "history": [
       {
@@ -1785,20 +1641,6 @@
       }
     ],
     "last_used": 19602
-  },
-  {
-    "text": "If you could only eat one food for the rest of your life, what would it be?",
-    "history": [
-      {
-        "day": 19603,
-        "message": "1147923964279140422",
-        "stats": {
-          "total": 12,
-          "users": 11
-        }
-      }
-    ],
-    "last_used": 19603
   },
   {
     "text": "What is your favourite restaurant?",
@@ -1955,20 +1797,6 @@
     "last_used": 19614
   },
   {
-    "text": "What kind of music do you listen to?",
-    "history": [
-      {
-        "day": 19615,
-        "message": "1152272618729246840",
-        "stats": {
-          "total": 18,
-          "users": 17
-        }
-      }
-    ],
-    "last_used": 19615
-  },
-  {
     "text": "If you could have one super power, what would it be?",
     "history": [
       {
@@ -2093,34 +1921,6 @@
       }
     ],
     "last_used": 19627
-  },
-  {
-    "text": "What kind of music do you like to listen to?",
-    "history": [
-      {
-        "day": 19628,
-        "message": "1156983660956885042",
-        "stats": {
-          "total": 16,
-          "users": 15
-        }
-      }
-    ],
-    "last_used": 19628
-  },
-  {
-    "text": "What is your favourite ice cream flavour?",
-    "history": [
-      {
-        "day": 19629,
-        "message": "1157346049032192203",
-        "stats": {
-          "total": 14,
-          "users": 12
-        }
-      }
-    ],
-    "last_used": 19629
   },
   {
     "text": "If you could move to any country with all fees paid off, where would you go and why?",
@@ -2557,20 +2357,6 @@
     "last_used": 19661
   },
   {
-    "text": "What's your favourite ice cream flavour?",
-    "history": [
-      {
-        "day": 19663,
-        "message": "1169667236512931900",
-        "stats": {
-          "total": 17,
-          "users": 16
-        }
-      }
-    ],
-    "last_used": 19663
-  },
-  {
     "text": "What is your favourite country and why?",
     "history": [
       {
@@ -2611,20 +2397,6 @@
       }
     ],
     "last_used": 19667
-  },
-  {
-    "text": "What's your favourite TV show?",
-    "history": [
-      {
-        "day": 19668,
-        "message": "1171479175304069121",
-        "stats": {
-          "total": 14,
-          "users": 11
-        }
-      }
-    ],
-    "last_used": 19668
   },
   {
     "text": "What do you think the best invention is?",
