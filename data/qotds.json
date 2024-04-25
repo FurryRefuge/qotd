@@ -3564,14 +3564,25 @@
     "history": [
       {
         "day": 19837,
-        "message": "1232722725982699541"
+        "message": "1232722725982699541",
+        "stats": {
+          "total": 8,
+          "users": 4
+        }
       }
     ],
     "last_used": 19837
   },
   {
     "author": "1195521658136580307",
-    "text": "What is your favourite dipping sauce?"
+    "text": "What is your favourite dipping sauce?",
+    "history": [
+      {
+        "day": 19838,
+        "message": "1233085112741265563"
+      }
+    ],
+    "last_used": 19838
   },
   {
     "text": "What's the most interesting piece of trivia you know?"
