@@ -3579,13 +3579,24 @@
     "history": [
       {
         "day": 19838,
-        "message": "1233085112741265563"
+        "message": "1233085112741265563",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19838
   },
   {
-    "text": "What's the most interesting piece of trivia you know?"
+    "text": "What's the most interesting piece of trivia you know?",
+    "history": [
+      {
+        "day": 19839,
+        "message": "1233447500829167737"
+      }
+    ],
+    "last_used": 19839
   },
   {
     "text": "If you could have any fictional character as your best friend, who would it be and why?"
