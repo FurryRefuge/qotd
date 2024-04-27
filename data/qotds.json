@@ -3593,13 +3593,24 @@
     "history": [
       {
         "day": 19839,
-        "message": "1233447500829167737"
+        "message": "1233447500829167737",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 19839
   },
   {
-    "text": "If you could have any fictional character as your best friend, who would it be and why?"
+    "text": "If you could have any fictional character as your best friend, who would it be and why?",
+    "history": [
+      {
+        "day": 19840,
+        "message": "1233809888074006580"
+      }
+    ],
+    "last_used": 19840
   },
   {
     "text": "What's your favourite way to unwind after a long day?"
