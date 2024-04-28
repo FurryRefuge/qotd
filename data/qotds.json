@@ -3607,13 +3607,24 @@
     "history": [
       {
         "day": 19840,
-        "message": "1233809888074006580"
+        "message": "1233809888074006580",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 19840
   },
   {
-    "text": "What's your favourite way to unwind after a long day?"
+    "text": "What's your favourite way to unwind after a long day?",
+    "history": [
+      {
+        "day": 19841,
+        "message": "1234172276593791157"
+      }
+    ],
+    "last_used": 19841
   },
   {
     "text": "If you could have any superpower for just one day, what would you choose and how would you use it?"
