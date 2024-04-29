@@ -3621,13 +3621,24 @@
     "history": [
       {
         "day": 19841,
-        "message": "1234172276593791157"
+        "message": "1234172276593791157",
+        "stats": {
+          "total": 13,
+          "users": 12
+        }
       }
     ],
     "last_used": 19841
   },
   {
-    "text": "If you could have any superpower for just one day, what would you choose and how would you use it?"
+    "text": "If you could have any superpower for just one day, what would you choose and how would you use it?",
+    "history": [
+      {
+        "day": 19842,
+        "message": "1234534664128168097"
+      }
+    ],
+    "last_used": 19842
   },
   {
     "text": "What's the most memorable dream you've ever had?"
