@@ -3635,13 +3635,24 @@
     "history": [
       {
         "day": 19842,
-        "message": "1234534664128168097"
+        "message": "1234534664128168097",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 19842
   },
   {
-    "text": "What's the most memorable dream you've ever had?"
+    "text": "What's the most memorable dream you've ever had?",
+    "history": [
+      {
+        "day": 19843,
+        "message": "1234897051695972383"
+      }
+    ],
+    "last_used": 19843
   },
   {
     "text": "If you could speak any language fluently, which would you choose and why?"
