@@ -3649,13 +3649,24 @@
     "history": [
       {
         "day": 19843,
-        "message": "1234897051695972383"
+        "message": "1234897051695972383",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 19843
   },
   {
-    "text": "If you could speak any language fluently, which would you choose and why?"
+    "text": "If you could speak any language fluently, which would you choose and why?",
+    "history": [
+      {
+        "day": 19844,
+        "message": "1235259440018493451"
+      }
+    ],
+    "last_used": 19844
   },
   {
     "text": "What's the most adventurous thing you've ever done?"
