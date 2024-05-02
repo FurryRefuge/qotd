@@ -3663,13 +3663,24 @@
     "history": [
       {
         "day": 19844,
-        "message": "1235259440018493451"
+        "message": "1235259440018493451",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 19844
   },
   {
-    "text": "What's the most adventurous thing you've ever done?"
+    "text": "What's the most adventurous thing you've ever done?",
+    "history": [
+      {
+        "day": 19845,
+        "message": "1235621846271922236"
+      }
+    ],
+    "last_used": 19845
   },
   {
     "text": "If you could have dinner with any historical figure, who would you choose and why?"
