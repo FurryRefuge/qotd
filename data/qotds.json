@@ -3677,13 +3677,24 @@
     "history": [
       {
         "day": 19845,
-        "message": "1235621846271922236"
+        "message": "1235621846271922236",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 19845
   },
   {
-    "text": "If you could have dinner with any historical figure, who would you choose and why?"
+    "text": "If you could have dinner with any historical figure, who would you choose and why?",
+    "history": [
+      {
+        "day": 19846,
+        "message": "1235984215057629255"
+      }
+    ],
+    "last_used": 19846
   },
   {
     "text": "What's the most beautiful place you've ever visited?"
