@@ -3691,13 +3691,24 @@
     "history": [
       {
         "day": 19846,
-        "message": "1235984215057629255"
+        "message": "1235984215057629255",
+        "stats": {
+          "total": 8,
+          "users": 6
+        }
       }
     ],
     "last_used": 19846
   },
   {
-    "text": "What's the most beautiful place you've ever visited?"
+    "text": "What's the most beautiful place you've ever visited?",
+    "history": [
+      {
+        "day": 19847,
+        "message": "1236346603506503721"
+      }
+    ],
+    "last_used": 19847
   },
   {
     "text": "If you could time travel to any era, past or future, where would you go and what would you do?"
