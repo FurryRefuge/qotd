@@ -3705,13 +3705,24 @@
     "history": [
       {
         "day": 19847,
-        "message": "1236346603506503721"
+        "message": "1236346603506503721",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19847
   },
   {
-    "text": "If you could time travel to any era, past or future, where would you go and what would you do?"
+    "text": "If you could time travel to any era, past or future, where would you go and what would you do?",
+    "history": [
+      {
+        "day": 19848,
+        "message": "1236708992332333147"
+      }
+    ],
+    "last_used": 19848
   },
   {
     "text": "What's your favorite childhood memory?"
