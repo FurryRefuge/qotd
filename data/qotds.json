@@ -3719,13 +3719,24 @@
     "history": [
       {
         "day": 19848,
-        "message": "1236708992332333147"
+        "message": "1236708992332333147",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 19848
   },
   {
-    "text": "What's your favorite childhood memory?"
+    "text": "What's your favorite childhood memory?",
+    "history": [
+      {
+        "day": 19849,
+        "message": "1237071378725867721"
+      }
+    ],
+    "last_used": 19849
   },
   {
     "text": "If you could learn any new skill or hobby instantly, what would it be?"
