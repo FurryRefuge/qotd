@@ -3733,13 +3733,24 @@
     "history": [
       {
         "day": 19849,
-        "message": "1237071378725867721"
+        "message": "1237071378725867721",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 19849
   },
   {
-    "text": "If you could learn any new skill or hobby instantly, what would it be?"
+    "text": "If you could learn any new skill or hobby instantly, what would it be?",
+    "history": [
+      {
+        "day": 19850,
+        "message": "1237433766990057553"
+      }
+    ],
+    "last_used": 19850
   },
   {
     "text": "What's the most inspiring book you've ever read?"
