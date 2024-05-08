@@ -3747,13 +3747,24 @@
     "history": [
       {
         "day": 19850,
-        "message": "1237433766990057553"
+        "message": "1237433766990057553",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 19850
   },
   {
-    "text": "What's the most inspiring book you've ever read?"
+    "text": "What's the most inspiring book you've ever read?",
+    "history": [
+      {
+        "day": 19851,
+        "message": "1237796154457198592"
+      }
+    ],
+    "last_used": 19851
   },
   {
     "text": "If you could live in any fictional universe, which one would you choose and why?"
