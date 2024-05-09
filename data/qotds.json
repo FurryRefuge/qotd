@@ -3761,13 +3761,24 @@
     "history": [
       {
         "day": 19851,
-        "message": "1237796154457198592"
+        "message": "1237796154457198592",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 19851
   },
   {
-    "text": "If you could live in any fictional universe, which one would you choose and why?"
+    "text": "If you could live in any fictional universe, which one would you choose and why?",
+    "history": [
+      {
+        "day": 19852,
+        "message": "1238158600988393514"
+      }
+    ],
+    "last_used": 19852
   },
   {
     "text": "What's your favourite way to spend a rainy day?"
