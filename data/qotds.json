@@ -3775,13 +3775,24 @@
     "history": [
       {
         "day": 19852,
-        "message": "1238158600988393514"
+        "message": "1238158600988393514",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 19852
   },
   {
-    "text": "What's your favourite way to spend a rainy day?"
+    "text": "What's your favourite way to spend a rainy day?",
+    "history": [
+      {
+        "day": 19853,
+        "message": "1238520930796572713"
+      }
+    ],
+    "last_used": 19853
   },
   {
     "text": "If you could witness any event in history, what would it be?"
