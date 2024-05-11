@@ -3789,13 +3789,24 @@
     "history": [
       {
         "day": 19853,
-        "message": "1238520930796572713"
+        "message": "1238520930796572713",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 19853
   },
   {
-    "text": "If you could witness any event in history, what would it be?"
+    "text": "If you could witness any event in history, what would it be?",
+    "history": [
+      {
+        "day": 19854,
+        "message": "1238883317986758767"
+      }
+    ],
+    "last_used": 19854
   },
   {
     "text": "What's the best piece of advice you've ever received?"
