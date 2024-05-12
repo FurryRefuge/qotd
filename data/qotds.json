@@ -3803,13 +3803,24 @@
     "history": [
       {
         "day": 19854,
-        "message": "1238883317986758767"
+        "message": "1238883317986758767",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 19854
   },
   {
-    "text": "What's the best piece of advice you've ever received?"
+    "text": "What's the best piece of advice you've ever received?",
+    "history": [
+      {
+        "day": 19855,
+        "message": "1239245705667809351"
+      }
+    ],
+    "last_used": 19855
   },
   {
     "text": "If you could have any job in the world for one week, what would you choose and why?"
