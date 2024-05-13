@@ -3817,13 +3817,24 @@
     "history": [
       {
         "day": 19855,
-        "message": "1239245705667809351"
+        "message": "1239245705667809351",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19855
   },
   {
-    "text": "If you could have any job in the world for one week, what would you choose and why?"
+    "text": "If you could have any job in the world for one week, what would you choose and why?",
+    "history": [
+      {
+        "day": 19856,
+        "message": "1239608094275928204"
+      }
+    ],
+    "last_used": 19856
   },
   {
     "text": "What's your favourite thing about yourself?"
