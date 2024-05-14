@@ -3831,13 +3831,24 @@
     "history": [
       {
         "day": 19856,
-        "message": "1239608094275928204"
+        "message": "1239608094275928204",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 19856
   },
   {
-    "text": "What's your favourite thing about yourself?"
+    "text": "What's your favourite thing about yourself?",
+    "history": [
+      {
+        "day": 19857,
+        "message": "1239970482434871457"
+      }
+    ],
+    "last_used": 19857
   },
   {
     "text": "If you could create your own holiday, what would it be and how would you celebrate it?"
