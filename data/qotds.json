@@ -3845,12 +3845,23 @@
     "history": [
       {
         "day": 19857,
-        "message": "1239970482434871457"
+        "message": "1239970482434871457",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19857
   },
   {
-    "text": "If you could create your own holiday, what would it be and how would you celebrate it?"
+    "text": "If you could create your own holiday, what would it be and how would you celebrate it?",
+    "history": [
+      {
+        "day": 19858,
+        "message": "1240332870564970516"
+      }
+    ],
+    "last_used": 19858
   }
 ]
