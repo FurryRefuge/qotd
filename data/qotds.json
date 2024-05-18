@@ -1541,7 +1541,11 @@
       },
       {
         "day": 19860,
-        "message": "1241057645914493052"
+        "message": "1241057645914493052",
+        "stats": {
+          "total": 13,
+          "users": 13
+        }
       }
     ],
     "last_used": 19860
@@ -1556,9 +1560,13 @@
           "total": 13,
           "users": 13
         }
+      },
+      {
+        "day": 19861,
+        "message": "1241420033263931464"
       }
     ],
-    "last_used": 19593
+    "last_used": 19861
   },
   {
     "text": "What website can you not live without?",
