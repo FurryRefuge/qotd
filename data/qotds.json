@@ -1695,7 +1695,11 @@
       },
       {
         "day": 19867,
-        "message": "1243594360931745956"
+        "message": "1243594360931745956",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 19867
@@ -1710,9 +1714,13 @@
           "total": 11,
           "users": 11
         }
+      },
+      {
+        "day": 19868,
+        "message": "1243956748222468097"
       }
     ],
-    "last_used": 19602
+    "last_used": 19868
   },
   {
     "text": "What is your favourite restaurant?",
