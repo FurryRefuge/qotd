@@ -1783,7 +1783,11 @@
       },
       {
         "day": 19871,
-        "message": "1245043911760805890"
+        "message": "1245043911760805890",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19871
@@ -1798,9 +1802,13 @@
           "total": 15,
           "users": 14
         }
+      },
+      {
+        "day": 19872,
+        "message": "1245406299429011498"
       }
     ],
-    "last_used": 19607
+    "last_used": 19872
   },
   {
     "text": "What's the tastiest thing in your fridge right now?",
