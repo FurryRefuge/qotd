@@ -1827,7 +1827,11 @@
       },
       {
         "day": 19873,
-        "message": "1245768688091791491"
+        "message": "1245768688091791491",
+        "stats": {
+          "total": 33,
+          "users": 12
+        }
       }
     ],
     "last_used": 19873
@@ -1842,9 +1846,13 @@
           "total": 18,
           "users": 15
         }
+      },
+      {
+        "day": 19874,
+        "message": "1246131075365867686"
       }
     ],
-    "last_used": 19609
+    "last_used": 19874
   },
   {
     "text": "Have you ever peed in the shower?",
