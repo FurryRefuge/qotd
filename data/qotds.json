@@ -1849,7 +1849,11 @@
       },
       {
         "day": 19874,
-        "message": "1246131075365867686"
+        "message": "1246131075365867686",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 19874
@@ -1864,9 +1868,13 @@
           "total": 20,
           "users": 13
         }
+      },
+      {
+        "day": 19875,
+        "message": "1246493463281668261"
       }
     ],
-    "last_used": 19610
+    "last_used": 19875
   },
   {
     "text": "What is your favourite snack?",
