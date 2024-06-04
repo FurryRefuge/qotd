@@ -1915,7 +1915,11 @@
       },
       {
         "day": 19877,
-        "message": "1247218239218647043"
+        "message": "1247218239218647043",
+        "stats": {
+          "total": 29,
+          "users": 13
+        }
       }
     ],
     "last_used": 19877
@@ -1930,9 +1934,13 @@
           "total": 18,
           "users": 15
         }
+      },
+      {
+        "day": 19878,
+        "message": "1247580627612598354"
       }
     ],
-    "last_used": 19613
+    "last_used": 19878
   },
   {
     "text": "What is one thing that you can not live without?",
