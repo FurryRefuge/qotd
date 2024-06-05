@@ -1937,7 +1937,11 @@
       },
       {
         "day": 19878,
-        "message": "1247580627612598354"
+        "message": "1247580627612598354",
+        "stats": {
+          "total": 23,
+          "users": 10
+        }
       }
     ],
     "last_used": 19878
@@ -1952,9 +1956,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 19879,
+        "message": "1247943015306231862"
       }
     ],
-    "last_used": 19614
+    "last_used": 19879
   },
   {
     "text": "If you could have one super power, what would it be?",
