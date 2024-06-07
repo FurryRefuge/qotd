@@ -1981,7 +1981,11 @@
       },
       {
         "day": 19880,
-        "message": "1248305402760925337"
+        "message": "1248305402760925337",
+        "stats": {
+          "total": 20,
+          "users": 13
+        }
       }
     ],
     "last_used": 19880
@@ -1996,9 +2000,13 @@
           "total": 19,
           "users": 17
         }
+      },
+      {
+        "day": 19881,
+        "message": "1248667791670775831"
       }
     ],
-    "last_used": 19618
+    "last_used": 19881
   },
   {
     "text": "What's your favourite song?",
