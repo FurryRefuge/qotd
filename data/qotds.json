@@ -2003,7 +2003,11 @@
       },
       {
         "day": 19881,
-        "message": "1248667791670775831"
+        "message": "1248667791670775831",
+        "stats": {
+          "total": 15,
+          "users": 11
+        }
       }
     ],
     "last_used": 19881
@@ -2018,9 +2022,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 19882,
+        "message": "1249030178148188324"
       }
     ],
-    "last_used": 19619
+    "last_used": 19882
   },
   {
     "text": "What is your most favourite foreign cuisine and why?",
