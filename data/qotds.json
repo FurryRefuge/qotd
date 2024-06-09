@@ -2025,7 +2025,11 @@
       },
       {
         "day": 19882,
-        "message": "1249030178148188324"
+        "message": "1249030178148188324",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19882
@@ -2040,9 +2044,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 19883,
+        "message": "1249392565820854416"
       }
     ],
-    "last_used": 19621
+    "last_used": 19883
   },
   {
     "text": "If you could go to any monument for free, what would you visit?",
