@@ -2047,7 +2047,11 @@
       },
       {
         "day": 19883,
-        "message": "1249392565820854416"
+        "message": "1249392565820854416",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19883
@@ -2062,9 +2066,13 @@
           "total": 12,
           "users": 10
         }
+      },
+      {
+        "day": 19884,
+        "message": "1249754953585659928"
       }
     ],
-    "last_used": 19623
+    "last_used": 19884
   },
   {
     "text": "What's the most important characteristic of a friend?",
