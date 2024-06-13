@@ -2113,7 +2113,11 @@
       },
       {
         "day": 19886,
-        "message": "1250479730512101478"
+        "message": "1250479730512101478",
+        "stats": {
+          "total": 27,
+          "users": 17
+        }
       }
     ],
     "last_used": 19886
@@ -2128,9 +2132,13 @@
           "total": 21,
           "users": 16
         }
+      },
+      {
+        "day": 19887,
+        "message": "1250842117689970732"
       }
     ],
-    "last_used": 19626
+    "last_used": 19887
   },
   {
     "text": "What movie do you like that you're embarrassed to watch with a friend?",
