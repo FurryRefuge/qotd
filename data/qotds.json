@@ -2135,7 +2135,11 @@
       },
       {
         "day": 19887,
-        "message": "1250842117689970732"
+        "message": "1250842117689970732",
+        "stats": {
+          "total": 20,
+          "users": 11
+        }
       }
     ],
     "last_used": 19887
@@ -2150,9 +2154,13 @@
           "total": 12,
           "users": 11
         }
+      },
+      {
+        "day": 19888,
+        "message": "1251204505840648226"
       }
     ],
-    "last_used": 19627
+    "last_used": 19888
   },
   {
     "text": "If you could move to any country with all fees paid off, where would you go and why?",
