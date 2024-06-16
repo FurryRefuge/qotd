@@ -2179,7 +2179,11 @@
       },
       {
         "day": 19889,
-        "message": "1251566893194547294"
+        "message": "1251566893194547294",
+        "stats": {
+          "total": 20,
+          "users": 13
+        }
       }
     ],
     "last_used": 19889
@@ -2194,9 +2198,13 @@
           "total": 25,
           "users": 16
         }
+      },
+      {
+        "day": 19890,
+        "message": "1251929281018462253"
       }
     ],
-    "last_used": 19631
+    "last_used": 19890
   },
   {
     "text": "What is your exercise routine?",
