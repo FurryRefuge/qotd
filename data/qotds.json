@@ -2201,7 +2201,11 @@
       },
       {
         "day": 19890,
-        "message": "1251929281018462253"
+        "message": "1251929281018462253",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 19890
@@ -2216,9 +2220,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 19891,
+        "message": "1252291674541916201"
       }
     ],
-    "last_used": 19632
+    "last_used": 19891
   },
   {
     "text": "What battery percentage does your phone have to get before you put it on charge?",
