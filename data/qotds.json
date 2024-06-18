@@ -2223,7 +2223,11 @@
       },
       {
         "day": 19891,
-        "message": "1252291674541916201"
+        "message": "1252291674541916201",
+        "stats": {
+          "total": 16,
+          "users": 9
+        }
       }
     ],
     "last_used": 19891
@@ -2238,9 +2242,13 @@
           "total": 23,
           "users": 17
         }
+      },
+      {
+        "day": 19892,
+        "message": "1252654062860767436"
       }
     ],
-    "last_used": 19633
+    "last_used": 19892
   },
   {
     "text": "What's the best thing about your gender?",
