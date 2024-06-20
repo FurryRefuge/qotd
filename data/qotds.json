@@ -2267,7 +2267,11 @@
       },
       {
         "day": 19893,
-        "message": "1253016444833366089"
+        "message": "1253016444833366089",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 19893
@@ -2282,9 +2286,13 @@
           "total": 12,
           "users": 12
         }
+      },
+      {
+        "day": 19894,
+        "message": "1253378832761622548"
       }
     ],
-    "last_used": 19635
+    "last_used": 19894
   },
   {
     "text": "Describe your current hairstyle.",
