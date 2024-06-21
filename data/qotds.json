@@ -2289,7 +2289,11 @@
       },
       {
         "day": 19894,
-        "message": "1253378832761622548"
+        "message": "1253378832761622548",
+        "stats": {
+          "total": 12,
+          "users": 8
+        }
       }
     ],
     "last_used": 19894
@@ -2304,9 +2308,13 @@
           "total": 21,
           "users": 14
         }
+      },
+      {
+        "day": 19895,
+        "message": "1253741220505718927"
       }
     ],
-    "last_used": 19636
+    "last_used": 19895
   },
   {
     "text": "What position do you usually sleep in?",
