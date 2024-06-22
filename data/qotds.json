@@ -2311,7 +2311,11 @@
       },
       {
         "day": 19895,
-        "message": "1253741220505718927"
+        "message": "1253741220505718927",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19895
@@ -2326,9 +2330,13 @@
           "total": 13,
           "users": 12
         }
+      },
+      {
+        "day": 19896,
+        "message": "1254103609206112306"
       }
     ],
-    "last_used": 19637
+    "last_used": 19896
   },
   {
     "text": "What is the nicest thing you've ever done for a stranger?",
