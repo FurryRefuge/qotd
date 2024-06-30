@@ -2487,7 +2487,11 @@
       },
       {
         "day": 19903,
-        "message": "1256640323904606259"
+        "message": "1256640323904606259",
+        "stats": {
+          "total": 14,
+          "users": 8
+        }
       }
     ],
     "last_used": 19903
@@ -2502,9 +2506,13 @@
           "total": 47,
           "users": 11
         }
+      },
+      {
+        "day": 19904,
+        "message": "1257002711464022157"
       }
     ],
-    "last_used": 19645
+    "last_used": 19904
   },
   {
     "text": "What are you eating for dinner tomorrow?",
