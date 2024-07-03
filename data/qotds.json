@@ -2553,7 +2553,11 @@
       },
       {
         "day": 19906,
-        "message": "1257727487534956544"
+        "message": "1257727487534956544",
+        "stats": {
+          "total": 19,
+          "users": 13
+        }
       }
     ],
     "last_used": 19906
@@ -2568,9 +2572,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 19907,
+        "message": "1258089875006165107"
       }
     ],
-    "last_used": 19648
+    "last_used": 19907
   },
   {
     "text": "If you were stuck on an island, who or what would you want to have with you?",
