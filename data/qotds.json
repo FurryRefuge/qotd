@@ -2641,7 +2641,11 @@
       },
       {
         "day": 19910,
-        "message": "1259177039127253074"
+        "message": "1259177039127253074",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 19910
@@ -2656,9 +2660,13 @@
           "total": 14,
           "users": 11
         }
+      },
+      {
+        "day": 19911,
+        "message": "1259539426648784978"
       }
     ],
-    "last_used": 19652
+    "last_used": 19911
   },
   {
     "text": "If you had to give yourself a new name, what name would you pick?",
