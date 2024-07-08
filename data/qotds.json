@@ -2663,7 +2663,11 @@
       },
       {
         "day": 19911,
-        "message": "1259539426648784978"
+        "message": "1259539426648784978",
+        "stats": {
+          "total": 12,
+          "users": 8
+        }
       }
     ],
     "last_used": 19911
@@ -2678,9 +2682,13 @@
           "total": 15,
           "users": 10
         }
+      },
+      {
+        "day": 19912,
+        "message": "1259901814120382595"
       }
     ],
-    "last_used": 19653
+    "last_used": 19912
   },
   {
     "text": "Who is the most famous person you have ever met?",
