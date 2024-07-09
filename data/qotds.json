@@ -2685,7 +2685,11 @@
       },
       {
         "day": 19912,
-        "message": "1259901814120382595"
+        "message": "1259901814120382595",
+        "stats": {
+          "total": 16,
+          "users": 12
+        }
       }
     ],
     "last_used": 19912
@@ -2700,9 +2704,13 @@
           "total": 13,
           "users": 11
         }
+      },
+      {
+        "day": 19913,
+        "message": "1260264207526658080"
       }
     ],
-    "last_used": 19654
+    "last_used": 19913
   },
   {
     "text": "Who is your favourite person?",
