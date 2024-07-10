@@ -2707,7 +2707,11 @@
       },
       {
         "day": 19913,
-        "message": "1260264207526658080"
+        "message": "1260264207526658080",
+        "stats": {
+          "total": 15,
+          "users": 10
+        }
       }
     ],
     "last_used": 19913
@@ -2722,9 +2726,13 @@
           "total": 17,
           "users": 13
         }
+      },
+      {
+        "day": 19914,
+        "message": "1260626591986483277"
       }
     ],
-    "last_used": 19655
+    "last_used": 19914
   },
   {
     "text": "What's the worst decision you've ever made?",
