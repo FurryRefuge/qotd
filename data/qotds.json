@@ -2795,7 +2795,11 @@
       },
       {
         "day": 19917,
-        "message": "1261713754496696440"
+        "message": "1261713754496696440",
+        "stats": {
+          "total": 31,
+          "users": 17
+        }
       }
     ],
     "last_used": 19917
@@ -2810,9 +2814,13 @@
           "total": 19,
           "users": 15
         }
+      },
+      {
+        "day": 19918,
+        "message": "1262076262160011324"
       }
     ],
-    "last_used": 19660
+    "last_used": 19918
   },
   {
     "text": "Who do you aspire to become?",
