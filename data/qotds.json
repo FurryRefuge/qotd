@@ -2817,7 +2817,11 @@
       },
       {
         "day": 19918,
-        "message": "1262076262160011324"
+        "message": "1262076262160011324",
+        "stats": {
+          "total": 14,
+          "users": 8
+        }
       }
     ],
     "last_used": 19918
@@ -2832,9 +2836,13 @@
           "total": 15,
           "users": 13
         }
+      },
+      {
+        "day": 19919,
+        "message": "1262438529414205490"
       }
     ],
-    "last_used": 19661
+    "last_used": 19919
   },
   {
     "text": "What is your favourite country and why?",
