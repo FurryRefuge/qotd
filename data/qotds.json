@@ -2905,7 +2905,11 @@
       },
       {
         "day": 19922,
-        "message": "1263525693661384704"
+        "message": "1263525693661384704",
+        "stats": {
+          "total": 11,
+          "users": 10
+        }
       }
     ],
     "last_used": 19922
@@ -2920,9 +2924,13 @@
           "total": 13,
           "users": 13
         }
+      },
+      {
+        "day": 19923,
+        "message": "1263888081136779345"
       }
     ],
-    "last_used": 19669
+    "last_used": 19923
   },
   {
     "text": "What are your hobbies?",
