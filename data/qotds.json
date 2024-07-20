@@ -2927,7 +2927,11 @@
       },
       {
         "day": 19923,
-        "message": "1263888081136779345"
+        "message": "1263888081136779345",
+        "stats": {
+          "total": 21,
+          "users": 17
+        }
       }
     ],
     "last_used": 19923
@@ -2942,9 +2946,13 @@
           "total": 12,
           "users": 10
         }
+      },
+      {
+        "day": 19924,
+        "message": "1264250469241589811"
       }
     ],
-    "last_used": 19670
+    "last_used": 19924
   },
   {
     "text": "What do you do when you're bored?",
