@@ -2971,7 +2971,11 @@
       },
       {
         "day": 19925,
-        "message": "1264612856817647667"
+        "message": "1264612856817647667",
+        "stats": {
+          "total": 22,
+          "users": 18
+        }
       }
     ],
     "last_used": 19925
@@ -2986,9 +2990,13 @@
           "total": 13,
           "users": 11
         }
+      },
+      {
+        "day": 19926,
+        "message": "1264975243970084938"
       }
     ],
-    "last_used": 19673
+    "last_used": 19926
   },
   {
     "text": "If you were on death row, what crime would you have committed?",
