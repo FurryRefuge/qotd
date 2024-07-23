@@ -2993,7 +2993,11 @@
       },
       {
         "day": 19926,
-        "message": "1264975243970084938"
+        "message": "1264975243970084938",
+        "stats": {
+          "total": 13,
+          "users": 13
+        }
       }
     ],
     "last_used": 19926
@@ -3008,9 +3012,13 @@
           "total": 14,
           "users": 12
         }
+      },
+      {
+        "day": 19927,
+        "message": "1265337632288800831"
       }
     ],
-    "last_used": 19674
+    "last_used": 19927
   },
   {
     "text": "What is your most desired job?",
