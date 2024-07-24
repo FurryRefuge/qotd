@@ -3015,7 +3015,11 @@
       },
       {
         "day": 19927,
-        "message": "1265337632288800831"
+        "message": "1265337632288800831",
+        "stats": {
+          "total": 21,
+          "users": 15
+        }
       }
     ],
     "last_used": 19927
@@ -3030,9 +3034,13 @@
           "total": 15,
           "users": 12
         }
+      },
+      {
+        "day": 19928,
+        "message": "1265700019856609281"
       }
     ],
-    "last_used": 19675
+    "last_used": 19928
   },
   {
     "text": "If you could have anything magically built out of chocolate, what would you build?",
