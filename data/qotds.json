@@ -3147,7 +3147,11 @@
       },
       {
         "day": 19933,
-        "message": "1267511976330924034"
+        "message": "1267511976330924034",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ],
     "last_used": 19933
@@ -3162,9 +3166,13 @@
           "total": 23,
           "users": 17
         }
+      },
+      {
+        "day": 19934,
+        "message": "1267874347813437510"
       }
     ],
-    "last_used": 19681
+    "last_used": 19934
   },
   {
     "text": "Do you sing in the shower?",
