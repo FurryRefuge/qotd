@@ -3169,7 +3169,11 @@
       },
       {
         "day": 19934,
-        "message": "1267874347813437510"
+        "message": "1267874347813437510",
+        "stats": {
+          "total": 13,
+          "users": 12
+        }
       }
     ],
     "last_used": 19934
@@ -3184,9 +3188,13 @@
           "total": 16,
           "users": 16
         }
+      },
+      {
+        "day": 19935,
+        "message": "1268236735070994525"
       }
     ],
-    "last_used": 19682
+    "last_used": 19935
   },
   {
     "text": "What was the last gift that you received?",
