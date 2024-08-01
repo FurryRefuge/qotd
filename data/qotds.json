@@ -3191,7 +3191,11 @@
       },
       {
         "day": 19935,
-        "message": "1268236735070994525"
+        "message": "1268236735070994525",
+        "stats": {
+          "total": 21,
+          "users": 12
+        }
       }
     ],
     "last_used": 19935
@@ -3206,9 +3210,13 @@
           "total": 20,
           "users": 16
         }
+      },
+      {
+        "day": 19936,
+        "message": "1268599123573997598"
       }
     ],
-    "last_used": 19683
+    "last_used": 19936
   },
   {
     "text": "If you only had one day to live, what would you do and why?",
