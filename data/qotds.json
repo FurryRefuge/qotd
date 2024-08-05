@@ -3279,7 +3279,11 @@
       },
       {
         "day": 19939,
-        "message": "1269686287322054667"
+        "message": "1269686287322054667",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19939
@@ -3294,9 +3298,13 @@
           "total": 16,
           "users": 13
         }
+      },
+      {
+        "day": 19940,
+        "message": "1270048675447570453"
       }
     ],
-    "last_used": 19687
+    "last_used": 19940
   },
   {
     "text": "What things shouldn't be said during a marriage proposal?",
