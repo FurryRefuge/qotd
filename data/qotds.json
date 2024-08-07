@@ -3323,7 +3323,11 @@
       },
       {
         "day": 19941,
-        "message": "1270411062470119495"
+        "message": "1270411062470119495",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 19941
@@ -3338,9 +3342,13 @@
           "total": 22,
           "users": 18
         }
+      },
+      {
+        "day": 19942,
+        "message": "1270773450490908672"
       }
     ],
-    "last_used": 19689
+    "last_used": 19942
   },
   {
     "text": "If you could become any animal, which animal would you choose?",
