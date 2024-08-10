@@ -3389,7 +3389,11 @@
       },
       {
         "day": 19944,
-        "message": "1271498227396509776"
+        "message": "1271498227396509776",
+        "stats": {
+          "total": 28,
+          "users": 11
+        }
       }
     ],
     "last_used": 19944
@@ -3404,9 +3408,13 @@
           "total": 18,
           "users": 18
         }
+      },
+      {
+        "day": 19945,
+        "message": "1271860614012338427"
       }
     ],
-    "last_used": 19692
+    "last_used": 19945
   },
   {
     "text": "What is your favourite kind of pie?",
