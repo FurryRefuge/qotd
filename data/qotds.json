@@ -3452,9 +3452,13 @@
           "total": 21,
           "users": 21
         }
+      },
+      {
+        "day": 19948,
+        "message": "1272947777281986622"
       }
     ],
-    "last_used": 19695
+    "last_used": 19948
   },
   {
     "text": "What's the worst thing you can say on a first date?",
@@ -4201,7 +4205,11 @@
       },
       {
         "day": 19947,
-        "message": "1272585390095728681"
+        "message": "1272585390095728681",
+        "stats": {
+          "total": 18,
+          "users": 13
+        }
       }
     ],
     "last_used": 19947
