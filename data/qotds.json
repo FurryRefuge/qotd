@@ -3499,7 +3499,11 @@
       },
       {
         "day": 19950,
-        "message": "1273672553315045408"
+        "message": "1273672553315045408",
+        "stats": {
+          "total": 21,
+          "users": 11
+        }
       }
     ],
     "last_used": 19950
@@ -3514,9 +3518,13 @@
           "total": 19,
           "users": 15
         }
+      },
+      {
+        "day": 19951,
+        "message": "1274034940731723838"
       }
     ],
-    "last_used": 19698
+    "last_used": 19951
   },
   {
     "text": "How do you think the world will end?",
