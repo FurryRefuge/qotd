@@ -3521,7 +3521,11 @@
       },
       {
         "day": 19951,
-        "message": "1274034940731723838"
+        "message": "1274034940731723838",
+        "stats": {
+          "total": 34,
+          "users": 19
+        }
       }
     ],
     "last_used": 19951
@@ -3536,9 +3540,13 @@
           "total": 28,
           "users": 21
         }
+      },
+      {
+        "day": 19952,
+        "message": "1274397328584867973"
       }
     ],
-    "last_used": 19699
+    "last_used": 19952
   },
   {
     "text": "What are some things that you shouldn't say at a funeral?",
