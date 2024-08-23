@@ -3653,7 +3653,11 @@
       },
       {
         "day": 19957,
-        "message": "1276209269749842001"
+        "message": "1276209269749842001",
+        "stats": {
+          "total": 37,
+          "users": 17
+        }
       }
     ],
     "last_used": 19957
@@ -3668,9 +3672,13 @@
           "total": 17,
           "users": 11
         }
+      },
+      {
+        "day": 19958,
+        "message": "1276571656399224963"
       }
     ],
-    "last_used": 19705
+    "last_used": 19958
   },
   {
     "text": "What is your favourite drinks brand?",
