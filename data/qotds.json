@@ -3697,7 +3697,11 @@
       },
       {
         "day": 19959,
-        "message": "1276934044092858500"
+        "message": "1276934044092858500",
+        "stats": {
+          "total": 17,
+          "users": 14
+        }
       }
     ],
     "last_used": 19959
@@ -3712,9 +3716,13 @@
           "total": 13,
           "users": 10
         }
+      },
+      {
+        "day": 19960,
+        "message": "1277296432235155510"
       }
     ],
-    "last_used": 19707
+    "last_used": 19960
   },
   {
     "text": "What is your favourite article of clothing?",
