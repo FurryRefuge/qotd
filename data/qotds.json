@@ -3763,7 +3763,11 @@
       },
       {
         "day": 19962,
-        "message": "1278021207865950332"
+        "message": "1278021207865950332",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 19962
@@ -3778,9 +3782,13 @@
           "total": 21,
           "users": 16
         }
+      },
+      {
+        "day": 19963,
+        "message": "1278383608780029973"
       }
     ],
-    "last_used": 19710
+    "last_used": 19963
   },
   {
     "text": "What is your worst fear?",
