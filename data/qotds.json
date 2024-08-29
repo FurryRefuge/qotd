@@ -3785,7 +3785,11 @@
       },
       {
         "day": 19963,
-        "message": "1278383608780029973"
+        "message": "1278383608780029973",
+        "stats": {
+          "total": 21,
+          "users": 14
+        }
       }
     ],
     "last_used": 19963
@@ -3800,9 +3804,13 @@
           "total": 16,
           "users": 11
         }
+      },
+      {
+        "day": 19964,
+        "message": "1278745982875598944"
       }
     ],
-    "last_used": 19711
+    "last_used": 19964
   },
   {
     "text": "What was the name and species of you first pet?",
