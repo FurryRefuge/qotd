@@ -3829,7 +3829,11 @@
       },
       {
         "day": 19965,
-        "message": "1279108371773001895"
+        "message": "1279108371773001895",
+        "stats": {
+          "total": 12,
+          "users": 8
+        }
       }
     ],
     "last_used": 19965
@@ -3844,9 +3848,13 @@
           "total": 6,
           "users": 5
         }
+      },
+      {
+        "day": 19966,
+        "message": "1279470759227424948"
       }
     ],
-    "last_used": 19713
+    "last_used": 19966
   },
   {
     "text": "You have £1,000,000's worth of your currency. What do you spend it on?",
