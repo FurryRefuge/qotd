@@ -3873,7 +3873,11 @@
       },
       {
         "day": 19967,
-        "message": "1279833146740707490"
+        "message": "1279833146740707490",
+        "stats": {
+          "total": 22,
+          "users": 14
+        }
       }
     ],
     "last_used": 19967
@@ -3888,9 +3892,13 @@
           "total": 17,
           "users": 17
         }
+      },
+      {
+        "day": 19968,
+        "message": "1280195539857575937"
       }
     ],
-    "last_used": 19715
+    "last_used": 19968
   },
   {
     "text": "What is the funniest name you have ever heard?",
