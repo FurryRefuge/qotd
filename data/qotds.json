@@ -3895,7 +3895,11 @@
       },
       {
         "day": 19968,
-        "message": "1280195539857575937"
+        "message": "1280195539857575937",
+        "stats": {
+          "total": 17,
+          "users": 12
+        }
       }
     ],
     "last_used": 19968
@@ -3910,9 +3914,13 @@
           "total": 14,
           "users": 9
         }
+      },
+      {
+        "day": 19969,
+        "message": "1280557923604500511"
       }
     ],
-    "last_used": 19716
+    "last_used": 19969
   },
   {
     "text": "What is your favourite life hack and why?",
