@@ -3917,7 +3917,11 @@
       },
       {
         "day": 19969,
-        "message": "1280557923604500511"
+        "message": "1280557923604500511",
+        "stats": {
+          "total": 15,
+          "users": 14
+        }
       }
     ],
     "last_used": 19969
@@ -3932,9 +3936,13 @@
           "total": 12,
           "users": 9
         }
+      },
+      {
+        "day": 19970,
+        "message": "1280920311235346614"
       }
     ],
-    "last_used": 19717
+    "last_used": 19970
   },
   {
     "text": "What is your favourite song right now?",
