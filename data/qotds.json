@@ -4005,7 +4005,11 @@
       },
       {
         "day": 19973,
-        "message": "1282007474123182111"
+        "message": "1282007474123182111",
+        "stats": {
+          "total": 20,
+          "users": 12
+        }
       }
     ],
     "last_used": 19973
@@ -4020,9 +4024,13 @@
           "total": 6,
           "users": 5
         }
+      },
+      {
+        "day": 19974,
+        "message": "1282369861728731293"
       }
     ],
-    "last_used": 19721
+    "last_used": 19974
   },
   {
     "text": "What is your spirit animal and why this animal?",
