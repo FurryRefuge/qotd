@@ -4049,7 +4049,11 @@
       },
       {
         "day": 19975,
-        "message": "1282732249653055551"
+        "message": "1282732249653055551",
+        "stats": {
+          "total": 12,
+          "users": 10
+        }
       }
     ],
     "last_used": 19975
@@ -4064,9 +4068,13 @@
           "total": 23,
           "users": 13
         }
+      },
+      {
+        "day": 19976,
+        "message": "1283094638210715711"
       }
     ],
-    "last_used": 19723
+    "last_used": 19976
   },
   {
     "text": "If you could pick a new first name, what would it be? Why?",
