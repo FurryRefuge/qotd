@@ -4093,7 +4093,11 @@
       },
       {
         "day": 19977,
-        "message": "1283457026114191454"
+        "message": "1283457026114191454",
+        "stats": {
+          "total": 20,
+          "users": 12
+        }
       }
     ],
     "last_used": 19977
@@ -4108,9 +4112,13 @@
           "total": 19,
           "users": 17
         }
+      },
+      {
+        "day": 19978,
+        "message": "1283819413677670504"
       }
     ],
-    "last_used": 19725
+    "last_used": 19978
   },
   {
     "text": "What is the scariest thing you've ever done, and would you do it again given the chance?",
