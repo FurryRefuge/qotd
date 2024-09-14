@@ -4137,7 +4137,11 @@
       },
       {
         "day": 19979,
-        "message": "1284181801492807721"
+        "message": "1284181801492807721",
+        "stats": {
+          "total": 17,
+          "users": 13
+        }
       }
     ],
     "last_used": 19979
@@ -4152,9 +4156,13 @@
           "total": 24,
           "users": 21
         }
+      },
+      {
+        "day": 19980,
+        "message": "1284544189530374284"
       }
     ],
-    "last_used": 19727
+    "last_used": 19980
   },
   {
     "text": "If you could change your name to something else, what would you change it to?",
