@@ -4159,7 +4159,11 @@
       },
       {
         "day": 19980,
-        "message": "1284544189530374284"
+        "message": "1284544189530374284",
+        "stats": {
+          "total": 18,
+          "users": 14
+        }
       }
     ],
     "last_used": 19980
@@ -4174,9 +4178,13 @@
           "total": 22,
           "users": 17
         }
+      },
+      {
+        "day": 19981,
+        "message": "1284906576452255775"
       }
     ],
-    "last_used": 19728
+    "last_used": 19981
   },
   {
     "text": "If you could live anywhere on earth, where would you live?",
