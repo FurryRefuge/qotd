@@ -4203,7 +4203,11 @@
       },
       {
         "day": 19982,
-        "message": "1285268964829691924"
+        "message": "1285268964829691924",
+        "stats": {
+          "total": 12,
+          "users": 11
+        }
       }
     ],
     "last_used": 19982
@@ -4218,9 +4222,13 @@
           "total": 29,
           "users": 19
         }
+      },
+      {
+        "day": 19983,
+        "message": "1285631352971984981"
       }
     ],
-    "last_used": 19730
+    "last_used": 19983
   },
   {
     "text": "If you could ask your pet 3 questions, what would they be?",
