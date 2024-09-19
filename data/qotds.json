@@ -4247,7 +4247,11 @@
       },
       {
         "day": 19984,
-        "message": "1285993740820807743"
+        "message": "1285993740820807743",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ],
     "last_used": 19984
@@ -4262,9 +4266,13 @@
           "total": 15,
           "users": 13
         }
+      },
+      {
+        "day": 19985,
+        "message": "1286356128074039330"
       }
     ],
-    "last_used": 19732
+    "last_used": 19985
   },
   {
     "text": "What is the funniest thing that has ever happened to you?",
