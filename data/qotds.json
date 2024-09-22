@@ -4313,7 +4313,11 @@
       },
       {
         "day": 19987,
-        "message": "1287080904715534508"
+        "message": "1287080904715534508",
+        "stats": {
+          "total": 10,
+          "users": 10
+        }
       }
     ],
     "last_used": 19987
@@ -4328,9 +4332,13 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 19988,
+        "message": "1287443292123824270"
       }
     ],
-    "last_used": 19735
+    "last_used": 19988
   },
   {
     "text": "If you were transported 400 years into the past, how would you prove that you were from the future?",
