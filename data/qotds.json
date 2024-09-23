@@ -4335,7 +4335,11 @@
       },
       {
         "day": 19988,
-        "message": "1287443292123824270"
+        "message": "1287443292123824270",
+        "stats": {
+          "total": 10,
+          "users": 6
+        }
       }
     ],
     "last_used": 19988
@@ -4350,9 +4354,13 @@
           "total": 16,
           "users": 12
         }
+      },
+      {
+        "day": 19989,
+        "message": "1287805679981039680"
       }
     ],
-    "last_used": 19736
+    "last_used": 19989
   },
   {
     "text": "If someone asked to be your apprentice and learn all that you know, what would you teach them?",
