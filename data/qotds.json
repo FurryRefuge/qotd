@@ -68,7 +68,7 @@
   },
   {
     "text": "What's the biggest time waster in your day-to-day life?",
-    "last_used": 19740,
+    "last_used": 19993,
     "history": [
       {
         "day": 19740,
@@ -77,6 +77,10 @@
           "total": 25,
           "users": 19
         }
+      },
+      {
+        "day": 19993,
+        "message": "1289255233473609883"
       }
     ]
   },
@@ -4446,7 +4450,11 @@
       },
       {
         "day": 19992,
-        "message": "1288892843242557471"
+        "message": "1288892843242557471",
+        "stats": {
+          "total": 18,
+          "users": 12
+        }
       }
     ],
     "last_used": 19992
