@@ -168,13 +168,17 @@
       },
       {
         "day": 19997,
-        "message": "1290704783031926827"
+        "message": "1290704783031926827",
+        "stats": {
+          "total": 13,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What is your favourite Discord feature?",
-    "last_used": 19745,
+    "last_used": 19998,
     "history": [
       {
         "day": 19745,
@@ -183,6 +187,10 @@
           "total": 14,
           "users": 14
         }
+      },
+      {
+        "day": 19998,
+        "message": "1291067170951794768"
       }
     ]
   },
