@@ -256,13 +256,17 @@
       },
       {
         "day": 20001,
-        "message": "1292154334955442258"
+        "message": "1292154334955442258",
+        "stats": {
+          "total": 10,
+          "users": 7
+        }
       }
     ]
   },
   {
     "text": "What's the most useless talent you have?",
-    "last_used": 19749,
+    "last_used": 20002,
     "history": [
       {
         "day": 19749,
@@ -271,6 +275,10 @@
           "total": 36,
           "users": 20
         }
+      },
+      {
+        "day": 20002,
+        "message": "1292516722636488715"
       }
     ]
   },
