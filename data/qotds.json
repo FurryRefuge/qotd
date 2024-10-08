@@ -300,13 +300,17 @@
       },
       {
         "day": 20003,
-        "message": "1292879109877272658"
+        "message": "1292879109877272658",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What movies do you dislike and why?",
-    "last_used": 19751,
+    "last_used": 20004,
     "history": [
       {
         "day": 19751,
@@ -315,6 +319,10 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 20004,
+        "message": "1293241497981812737"
       }
     ]
   },
