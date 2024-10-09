@@ -322,13 +322,17 @@
       },
       {
         "day": 20004,
-        "message": "1293241497981812737"
+        "message": "1293241497981812737",
+        "stats": {
+          "total": 19,
+          "users": 11
+        }
       }
     ]
   },
   {
     "text": "What is your favourite breakfast meal?",
-    "last_used": 19752,
+    "last_used": 20005,
     "history": [
       {
         "day": 19752,
@@ -337,6 +341,10 @@
           "total": 24,
           "users": 17
         }
+      },
+      {
+        "day": 20005,
+        "message": "1293603885918715945"
       }
     ]
   },
