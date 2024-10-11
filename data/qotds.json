@@ -366,13 +366,17 @@
       },
       {
         "day": 20006,
-        "message": "1293966274178715649"
+        "message": "1293966274178715649",
+        "stats": {
+          "total": 34,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What is the nicest thing you've ever done for a friend?",
-    "last_used": 19754,
+    "last_used": 20007,
     "history": [
       {
         "day": 19754,
@@ -381,6 +385,10 @@
           "total": 24,
           "users": 9
         }
+      },
+      {
+        "day": 20007,
+        "message": "1294328670604886119"
       }
     ]
   },
