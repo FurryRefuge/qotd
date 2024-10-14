@@ -432,13 +432,17 @@
       },
       {
         "day": 20009,
-        "message": "1295053438153130097"
+        "message": "1295053438153130097",
+        "stats": {
+          "total": 15,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What's the tastiest thing in your cupboard right now?",
-    "last_used": 19757,
+    "last_used": 20010,
     "history": [
       {
         "day": 19757,
@@ -447,6 +451,10 @@
           "total": 10,
           "users": 10
         }
+      },
+      {
+        "day": 20010,
+        "message": "1295415825028747408"
       }
     ]
   },
