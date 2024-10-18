@@ -520,13 +520,17 @@
       },
       {
         "day": 20013,
-        "message": "1296502990437486685"
+        "message": "1296502990437486685",
+        "stats": {
+          "total": 37,
+          "users": 13
+        }
       }
     ]
   },
   {
     "text": "What is your favourite ice cream flavour and why?",
-    "last_used": 19762,
+    "last_used": 20014,
     "history": [
       {
         "day": 19762,
@@ -535,6 +539,10 @@
           "total": 18,
           "users": 13
         }
+      },
+      {
+        "day": 20014,
+        "message": "1296865376960909362"
       }
     ]
   },
