@@ -586,13 +586,17 @@
       },
       {
         "day": 20016,
-        "message": "1297590152234795161"
+        "message": "1297590152234795161",
+        "stats": {
+          "total": 13,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "What is your favourite thing about the city or town you live?",
-    "last_used": 19766,
+    "last_used": 20017,
     "history": [
       {
         "day": 19766,
@@ -601,6 +605,10 @@
           "total": 15,
           "users": 12
         }
+      },
+      {
+        "day": 20017,
+        "message": "1297952540880535692"
       }
     ]
   },
