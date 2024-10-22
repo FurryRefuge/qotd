@@ -608,13 +608,17 @@
       },
       {
         "day": 20017,
-        "message": "1297952540880535692"
+        "message": "1297952540880535692",
+        "stats": {
+          "total": 19,
+          "users": 11
+        }
       }
     ]
   },
   {
     "text": "If reincarnated, which type of creature do you hope to live as in your next life?",
-    "last_used": 19767,
+    "last_used": 20018,
     "history": [
       {
         "day": 19767,
@@ -623,6 +627,10 @@
           "total": 14,
           "users": 14
         }
+      },
+      {
+        "day": 20018,
+        "message": "1298314928893202614"
       }
     ]
   },
