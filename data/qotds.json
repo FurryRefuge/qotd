@@ -630,13 +630,17 @@
       },
       {
         "day": 20018,
-        "message": "1298314928893202614"
+        "message": "1298314928893202614",
+        "stats": {
+          "total": 16,
+          "users": 15
+        }
       }
     ]
   },
   {
     "text": "What are two truths and one lie about you?",
-    "last_used": 19768,
+    "last_used": 20019,
     "history": [
       {
         "day": 19768,
@@ -645,6 +649,10 @@
           "total": 15,
           "users": 10
         }
+      },
+      {
+        "day": 20019,
+        "message": "1298677316456546306"
       }
     ]
   },
