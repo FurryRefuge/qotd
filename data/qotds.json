@@ -674,13 +674,17 @@
       },
       {
         "day": 20020,
-        "message": "1299039705035444316"
+        "message": "1299039705035444316",
+        "stats": {
+          "total": 40,
+          "users": 11
+        }
       }
     ]
   },
   {
     "text": "What's your favorite type of tree?",
-    "last_used": 19770,
+    "last_used": 20021,
     "history": [
       {
         "day": 19770,
@@ -689,6 +693,10 @@
           "total": 19,
           "users": 14
         }
+      },
+      {
+        "day": 20021,
+        "message": "1299402091864916008"
       }
     ]
   },
