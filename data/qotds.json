@@ -725,7 +725,11 @@
       },
       {
         "day": 20022,
-        "message": "1299764479558553650"
+        "message": "1299764479558553650",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 20022
@@ -748,9 +752,13 @@
           "total": 20,
           "users": 14
         }
+      },
+      {
+        "day": 20023,
+        "message": "1300126867617222707"
       }
     ],
-    "last_used": 19772
+    "last_used": 20023
   },
   {
     "text": "What book, movie, album, etc. always makes you feel better when you're having a bad day?",
