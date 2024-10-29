@@ -785,7 +785,11 @@
       },
       {
         "day": 20024,
-        "message": "1300489256212369550"
+        "message": "1300489256212369550",
+        "stats": {
+          "total": 11,
+          "users": 10
+        }
       }
     ],
     "last_used": 20024
@@ -808,9 +812,13 @@
           "total": 23,
           "users": 15
         }
+      },
+      {
+        "day": 20025,
+        "message": "1300851643373326347"
       }
     ],
-    "last_used": 19774
+    "last_used": 20025
   },
   {
     "text": "Which one recipe are you most proud of being able to cook?",
