@@ -815,7 +815,11 @@
       },
       {
         "day": 20025,
-        "message": "1300851643373326347"
+        "message": "1300851643373326347",
+        "stats": {
+          "total": 16,
+          "users": 10
+        }
       }
     ],
     "last_used": 20025
@@ -838,9 +842,13 @@
           "total": 23,
           "users": 15
         }
+      },
+      {
+        "day": 20026,
+        "message": "1301214031272607847"
       }
     ],
-    "last_used": 19775
+    "last_used": 20026
   },
   {
     "text": "If you could have any wild animal as a pet, what would it be and why?",
