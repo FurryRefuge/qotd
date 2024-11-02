@@ -905,7 +905,11 @@
       },
       {
         "day": 20028,
-        "message": "1301938806802354246"
+        "message": "1301938806802354246",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 20028
@@ -928,9 +932,13 @@
           "total": 23,
           "users": 17
         }
+      },
+      {
+        "day": 20029,
+        "message": "1302301194479341638"
       }
     ],
-    "last_used": 19778
+    "last_used": 20029
   },
   {
     "text": "When you become all-powerful Imperial Ruler of the World, what's the first law that you'll implement?",
