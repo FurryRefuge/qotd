@@ -1025,7 +1025,11 @@
       },
       {
         "day": 20032,
-        "message": "1303388358722064517"
+        "message": "1303388358722064517",
+        "stats": {
+          "total": 15,
+          "users": 12
+        }
       }
     ],
     "last_used": 20032
@@ -1048,9 +1052,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20033,
+        "message": "1303750746583470233"
       }
     ],
-    "last_used": 19782
+    "last_used": 20033
   },
   {
     "text": "What is the worst thing you've ever done to a friend?",
