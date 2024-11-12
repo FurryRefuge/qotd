@@ -1205,7 +1205,11 @@
       },
       {
         "day": 20038,
-        "message": "1305562685361881223"
+        "message": "1305562685361881223",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 20038
@@ -1228,9 +1232,13 @@
           "total": 21,
           "users": 17
         }
+      },
+      {
+        "day": 20039,
+        "message": "1305925073131016202"
       }
     ],
-    "last_used": 19788
+    "last_used": 20039
   },
   {
     "text": "What is the craziest thing you have ever done?",
