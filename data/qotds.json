@@ -1265,7 +1265,11 @@
       },
       {
         "day": 20044,
-        "message": "1307737013453066311"
+        "message": "1307737013453066311",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20044
@@ -1288,9 +1292,13 @@
           "total": 16,
           "users": 14
         }
+      },
+      {
+        "day": 20045,
+        "message": "1308099400203243570"
       }
     ],
-    "last_used": 19794
+    "last_used": 20045
   },
   {
     "text": "What is your favourite Easter tradition?",
