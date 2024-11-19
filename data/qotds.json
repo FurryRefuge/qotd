@@ -1295,7 +1295,11 @@
       },
       {
         "day": 20045,
-        "message": "1308099400203243570"
+        "message": "1308099400203243570",
+        "stats": {
+          "total": 15,
+          "users": 13
+        }
       }
     ],
     "last_used": 20045
@@ -1318,9 +1322,13 @@
           "total": 15,
           "users": 9
         }
+      },
+      {
+        "day": 20046,
+        "message": "1308461788538601634"
       }
     ],
-    "last_used": 19795
+    "last_used": 20046
   },
   {
     "text": "What would you do for a day without using the internet?",
