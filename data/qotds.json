@@ -1415,7 +1415,11 @@
       },
       {
         "day": 20049,
-        "message": "1309548952235933798"
+        "message": "1309548952235933798",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20049
@@ -1438,9 +1442,13 @@
           "total": 17,
           "users": 17
         }
+      },
+      {
+        "day": 20050,
+        "message": "1309911473341857794"
       }
     ],
-    "last_used": 19799
+    "last_used": 20050
   },
   {
     "text": "If you could slow down time, what would you do with that power?",
