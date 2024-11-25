@@ -1475,7 +1475,11 @@
       },
       {
         "day": 20051,
-        "message": "1310273727606427678"
+        "message": "1310273727606427678",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20051
@@ -1498,9 +1502,13 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 20052,
+        "message": "1310636115711229992"
       }
     ],
-    "last_used": 19801
+    "last_used": 20052
   },
   {
     "text": "What is the best thing out of everything in existence? (Must be a real thing and not a person)",
