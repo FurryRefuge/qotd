@@ -2,7 +2,7 @@
   {
     "text": "What is your favourite homemade meal?",
     "author": "692389214909759648",
-    "last_used": 19806,
+    "last_used": 20057,
     "history": [
       {
         "day": 19561,
@@ -19,6 +19,10 @@
           "total": 9,
           "users": 8
         }
+      },
+      {
+        "day": 20057,
+        "message": "1312448054313353280"
       }
     ]
   },
@@ -4972,7 +4976,11 @@
       },
       {
         "day": 20056,
-        "message": "1312085667165114438"
+        "message": "1312085667165114438",
+        "stats": {
+          "total": 15,
+          "users": 11
+        }
       }
     ],
     "last_used": 20056
