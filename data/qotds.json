@@ -22,13 +22,17 @@
       },
       {
         "day": 20057,
-        "message": "1312448054313353280"
+        "message": "1312448054313353280",
+        "stats": {
+          "total": 17,
+          "users": 9
+        }
       }
     ]
   },
   {
     "text": "If you discovered a new island, what would you name it and why?",
-    "last_used": 19807,
+    "last_used": 20058,
     "history": [
       {
         "day": 19562,
@@ -45,6 +49,10 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20058,
+        "message": "1312810442833395763"
       }
     ]
   },
