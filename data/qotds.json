@@ -82,7 +82,11 @@
       },
       {
         "day": 20059,
-        "message": "1313172830590079130"
+        "message": "1313172830590079130",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ]
   },
@@ -1582,9 +1586,13 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20060,
+        "message": "1313535222331211787"
       }
     ],
-    "last_used": 19812
+    "last_used": 20060
   },
   {
     "text": "If you had a Get Out of Jail Free card, what perfect crime would you commit?",
