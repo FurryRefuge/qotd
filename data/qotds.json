@@ -1589,7 +1589,11 @@
       },
       {
         "day": 20060,
-        "message": "1313535222331211787"
+        "message": "1313535222331211787",
+        "stats": {
+          "total": 22,
+          "users": 12
+        }
       }
     ],
     "last_used": 20060
@@ -1612,9 +1616,13 @@
           "total": 20,
           "users": 13
         }
+      },
+      {
+        "day": 20062,
+        "message": "1314259994312572978"
       }
     ],
-    "last_used": 19813
+    "last_used": 20062
   },
   {
     "text": "What is the best birthday gift you ever got?",
