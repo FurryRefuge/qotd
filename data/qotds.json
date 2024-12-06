@@ -1619,7 +1619,11 @@
       },
       {
         "day": 20062,
-        "message": "1314259994312572978"
+        "message": "1314259994312572978",
+        "stats": {
+          "total": 27,
+          "users": 13
+        }
       }
     ],
     "last_used": 20062
@@ -1642,9 +1646,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20063,
+        "message": "1314622382413185085"
       }
     ],
-    "last_used": 19814
+    "last_used": 20063
   },
   {
     "text": "What is your favourite cake?",
