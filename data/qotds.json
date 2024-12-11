@@ -1769,7 +1769,11 @@
       },
       {
         "day": 20067,
-        "message": "1316071933653159987"
+        "message": "1316071933653159987",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 20067
@@ -1792,9 +1796,13 @@
           "total": 13,
           "users": 11
         }
+      },
+      {
+        "day": 20068,
+        "message": "1316434321376022618"
       }
     ],
-    "last_used": 19819
+    "last_used": 20068
   },
   {
     "text": "What is the worst movie that you've ever seen?",
