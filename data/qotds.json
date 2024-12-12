@@ -1799,7 +1799,11 @@
       },
       {
         "day": 20068,
-        "message": "1316434321376022618"
+        "message": "1316434321376022618",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20068
@@ -1822,9 +1826,13 @@
           "total": 24,
           "users": 16
         }
+      },
+      {
+        "day": 20069,
+        "message": "1316796710286135356"
       }
     ],
-    "last_used": 19820
+    "last_used": 20069
   },
   {
     "text": "What is your favourite dessert?",
