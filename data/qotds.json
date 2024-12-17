@@ -1949,7 +1949,11 @@
       },
       {
         "day": 20073,
-        "message": "1318246260913864764"
+        "message": "1318246260913864764",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20073
@@ -1972,9 +1976,13 @@
           "total": 16,
           "users": 13
         }
+      },
+      {
+        "day": 20074,
+        "message": "1318608648951566426"
       }
     ],
-    "last_used": 19829
+    "last_used": 20074
   },
   {
     "text": "What kind of music do you like to listen to and why?",
