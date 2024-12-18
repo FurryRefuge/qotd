@@ -1979,7 +1979,11 @@
       },
       {
         "day": 20074,
-        "message": "1318608648951566426"
+        "message": "1318608648951566426",
+        "stats": {
+          "total": 15,
+          "users": 11
+        }
       }
     ],
     "last_used": 20074
@@ -2002,9 +2006,13 @@
           "total": 10,
           "users": 10
         }
+      },
+      {
+        "day": 20075,
+        "message": "1318971038419255296"
       }
     ],
-    "last_used": 19830
+    "last_used": 20075
   },
   {
     "text": "What is your favourite type of cake?",
