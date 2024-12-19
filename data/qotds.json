@@ -2009,7 +2009,11 @@
       },
       {
         "day": 20075,
-        "message": "1318971038419255296"
+        "message": "1318971038419255296",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20075
@@ -2032,9 +2036,13 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20076,
+        "message": "1319333424711864350"
       }
     ],
-    "last_used": 19831
+    "last_used": 20076
   },
   {
     "text": "What is your favourite restaurant and why?",
