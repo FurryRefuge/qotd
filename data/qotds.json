@@ -2066,9 +2066,13 @@
           "total": 12,
           "users": 8
         }
+      },
+      {
+        "day": 20079,
+        "message": "1320420587490902037"
       }
     ],
-    "last_used": 19834
+    "last_used": 20079
   },
   {
     "text": "What is your favourite movie and why?",
@@ -5186,7 +5190,11 @@
       },
       {
         "day": 20078,
-        "message": "1320058199616782418"
+        "message": "1320058199616782418",
+        "stats": {
+          "total": 4,
+          "users": 3
+        }
       }
     ],
     "last_used": 20078
