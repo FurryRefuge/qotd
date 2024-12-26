@@ -5348,7 +5348,11 @@
       },
       {
         "day": 20082,
-        "message": "1321507751456931852"
+        "message": "1321507751456931852",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20082
@@ -5364,9 +5368,13 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20083,
+        "message": "1321870139511279647"
       }
     ],
-    "last_used": 19838
+    "last_used": 20083
   },
   {
     "text": "What's the most interesting piece of trivia you know?",
