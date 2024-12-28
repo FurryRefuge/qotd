@@ -5393,7 +5393,11 @@
       },
       {
         "day": 20084,
-        "message": "1322232527523418192"
+        "message": "1322232527523418192",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 20084
@@ -5408,9 +5412,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20085,
+        "message": "1322594914931839090"
       }
     ],
-    "last_used": 19840
+    "last_used": 20085
   },
   {
     "text": "What's your favourite way to unwind after a long day?",
