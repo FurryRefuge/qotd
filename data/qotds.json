@@ -5415,7 +5415,11 @@
       },
       {
         "day": 20085,
-        "message": "1322594914931839090"
+        "message": "1322594914931839090",
+        "stats": {
+          "total": 13,
+          "users": 8
+        }
       }
     ],
     "last_used": 20085
@@ -5430,9 +5434,13 @@
           "total": 13,
           "users": 12
         }
+      },
+      {
+        "day": 20086,
+        "message": "1322957302772273153"
       }
     ],
-    "last_used": 19841
+    "last_used": 20086
   },
   {
     "text": "If you could have any superpower for just one day, what would you choose and how would you use it?",
