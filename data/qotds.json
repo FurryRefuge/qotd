@@ -5437,7 +5437,11 @@
       },
       {
         "day": 20086,
-        "message": "1322957302772273153"
+        "message": "1322957302772273153",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 20086
@@ -5452,9 +5456,13 @@
           "total": 10,
           "users": 8
         }
+      },
+      {
+        "day": 20087,
+        "message": "1323319690818359357"
       }
     ],
-    "last_used": 19842
+    "last_used": 20087
   },
   {
     "text": "What's the most memorable dream you've ever had?",
