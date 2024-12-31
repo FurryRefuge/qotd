@@ -5459,7 +5459,11 @@
       },
       {
         "day": 20087,
-        "message": "1323319690818359357"
+        "message": "1323319690818359357",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20087
@@ -5474,9 +5478,13 @@
           "total": 8,
           "users": 7
         }
+      },
+      {
+        "day": 20088,
+        "message": "1323682078247751681"
       }
     ],
-    "last_used": 19843
+    "last_used": 20088
   },
   {
     "text": "If you could speak any language fluently, which would you choose and why?",
