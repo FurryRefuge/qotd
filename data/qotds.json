@@ -5481,7 +5481,11 @@
       },
       {
         "day": 20088,
-        "message": "1323682078247751681"
+        "message": "1323682078247751681",
+        "stats": {
+          "total": 11,
+          "users": 8
+        }
       }
     ],
     "last_used": 20088
@@ -5496,9 +5500,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20089,
+        "message": "1324044467191152640"
       }
     ],
-    "last_used": 19844
+    "last_used": 20089
   },
   {
     "text": "What's the most adventurous thing you've ever done?",
