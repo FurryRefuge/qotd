@@ -5503,7 +5503,11 @@
       },
       {
         "day": 20089,
-        "message": "1324044467191152640"
+        "message": "1324044467191152640",
+        "stats": {
+          "total": 13,
+          "users": 10
+        }
       }
     ],
     "last_used": 20089
@@ -5518,9 +5522,13 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20090,
+        "message": "1324406854293655663"
       }
     ],
-    "last_used": 19845
+    "last_used": 20090
   },
   {
     "text": "If you could have dinner with any historical figure, who would you choose and why?",
