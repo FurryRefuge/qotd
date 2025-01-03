@@ -5525,7 +5525,11 @@
       },
       {
         "day": 20090,
-        "message": "1324406854293655663"
+        "message": "1324406854293655663",
+        "stats": {
+          "total": 10,
+          "users": 7
+        }
       }
     ],
     "last_used": 20090
@@ -5540,9 +5544,13 @@
           "total": 8,
           "users": 6
         }
+      },
+      {
+        "day": 20091,
+        "message": "1324769242633080852"
       }
     ],
-    "last_used": 19846
+    "last_used": 20091
   },
   {
     "text": "What's the most beautiful place you've ever visited?",
