@@ -5569,7 +5569,11 @@
       },
       {
         "day": 20092,
-        "message": "1325131630586892473"
+        "message": "1325131630586892473",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20092
@@ -5584,9 +5588,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20093,
+        "message": "1325494018469007411"
       }
     ],
-    "last_used": 19848
+    "last_used": 20093
   },
   {
     "text": "What's your favorite childhood memory?",
