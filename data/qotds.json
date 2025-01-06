@@ -5591,7 +5591,11 @@
       },
       {
         "day": 20093,
-        "message": "1325494018469007411"
+        "message": "1325494018469007411",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20093
@@ -5606,9 +5610,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20094,
+        "message": "1325856406871609404"
       }
     ],
-    "last_used": 19849
+    "last_used": 20094
   },
   {
     "text": "If you could learn any new skill or hobby instantly, what would it be?",
