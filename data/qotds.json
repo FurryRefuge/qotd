@@ -5613,7 +5613,11 @@
       },
       {
         "day": 20094,
-        "message": "1325856406871609404"
+        "message": "1325856406871609404",
+        "stats": {
+          "total": 24,
+          "users": 8
+        }
       }
     ],
     "last_used": 20094
@@ -5628,9 +5632,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20095,
+        "message": "1326224960653365310"
       }
     ],
-    "last_used": 19850
+    "last_used": 20095
   },
   {
     "text": "What's the most inspiring book you've ever read?",
