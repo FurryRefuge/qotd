@@ -5635,7 +5635,11 @@
       },
       {
         "day": 20095,
-        "message": "1326224960653365310"
+        "message": "1326224960653365310",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20095
@@ -5650,9 +5654,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20096,
+        "message": "1326581181894103093"
       }
     ],
-    "last_used": 19851
+    "last_used": 20096
   },
   {
     "text": "If you could live in any fictional universe, which one would you choose and why?",
