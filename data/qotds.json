@@ -5679,7 +5679,11 @@
       },
       {
         "day": 20097,
-        "message": "1326943569440804987"
+        "message": "1326943569440804987",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20097
@@ -5694,9 +5698,13 @@
           "total": 10,
           "users": 8
         }
+      },
+      {
+        "day": 20098,
+        "message": "1327305958413832253"
       }
     ],
-    "last_used": 19853
+    "last_used": 20098
   },
   {
     "text": "If you could witness any event in history, what would it be?",
