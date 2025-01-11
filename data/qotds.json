@@ -5701,7 +5701,11 @@
       },
       {
         "day": 20098,
-        "message": "1327305958413832253"
+        "message": "1327305958413832253",
+        "stats": {
+          "total": 13,
+          "users": 8
+        }
       }
     ],
     "last_used": 20098
@@ -5716,9 +5720,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20099,
+        "message": "1327668345256022057"
       }
     ],
-    "last_used": 19854
+    "last_used": 20099
   },
   {
     "text": "What's the best piece of advice you've ever received?",
