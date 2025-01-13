@@ -5745,7 +5745,11 @@
       },
       {
         "day": 20100,
-        "message": "1328030732588810271"
+        "message": "1328030732588810271",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20100
@@ -5760,9 +5764,13 @@
           "total": 7,
           "users": 5
         }
+      },
+      {
+        "day": 20101,
+        "message": "1328393120924303360"
       }
     ],
-    "last_used": 19856
+    "last_used": 20101
   },
   {
     "text": "What's your favourite thing about yourself?",
