@@ -2189,7 +2189,11 @@
       },
       {
         "day": 20105,
-        "message": "1329842672869052433"
+        "message": "1329842672869052433",
+        "stats": {
+          "total": 12,
+          "users": 7
+        }
       }
     ],
     "last_used": 20105
@@ -2212,9 +2216,13 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20106,
+        "message": "1330205060059238411"
       }
     ],
-    "last_used": 19861
+    "last_used": 20106
   },
   {
     "text": "What website can you not live without?",
