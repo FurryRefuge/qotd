@@ -2219,7 +2219,11 @@
       },
       {
         "day": 20106,
-        "message": "1330205060059238411"
+        "message": "1330205060059238411",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20106
@@ -2242,9 +2246,13 @@
           "total": 17,
           "users": 11
         }
+      },
+      {
+        "day": 20107,
+        "message": "1330567447845146666"
       }
     ],
-    "last_used": 19862
+    "last_used": 20107
   },
   {
     "text": "What is the most disgusting food you have ever eaten?",
