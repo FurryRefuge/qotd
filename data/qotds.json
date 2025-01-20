@@ -2249,7 +2249,11 @@
       },
       {
         "day": 20107,
-        "message": "1330567447845146666"
+        "message": "1330567447845146666",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 20107
@@ -2272,9 +2276,13 @@
           "total": 17,
           "users": 15
         }
+      },
+      {
+        "day": 20108,
+        "message": "1330929836071321676"
       }
     ],
-    "last_used": 19863
+    "last_used": 20108
   },
   {
     "text": "What is the biggest risk you've ever taken that you regret?",
