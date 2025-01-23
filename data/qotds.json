@@ -2339,7 +2339,11 @@
       },
       {
         "day": 20110,
-        "message": "1331654611848790028"
+        "message": "1331654611848790028",
+        "stats": {
+          "total": 17,
+          "users": 9
+        }
       }
     ],
     "last_used": 20110
@@ -2362,9 +2366,13 @@
           "total": 19,
           "users": 14
         }
+      },
+      {
+        "day": 20111,
+        "message": "1332017000243003483"
       }
     ],
-    "last_used": 19866
+    "last_used": 20111
   },
   {
     "text": "Who's your favourite Marvel character and why?",
