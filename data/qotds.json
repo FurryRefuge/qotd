@@ -2369,7 +2369,11 @@
       },
       {
         "day": 20111,
-        "message": "1332017000243003483"
+        "message": "1332017000243003483",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20111
@@ -2392,9 +2396,13 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20112,
+        "message": "1332379387802423357"
       }
     ],
-    "last_used": 19867
+    "last_used": 20112
   },
   {
     "text": "What easter celebration do you hate attending?",
