@@ -2429,7 +2429,11 @@
       },
       {
         "day": 20113,
-        "message": "1332741775072169985"
+        "message": "1332741775072169985",
+        "stats": {
+          "total": 10,
+          "users": 5
+        }
       }
     ],
     "last_used": 20113
@@ -2452,9 +2456,13 @@
           "total": 12,
           "users": 8
         }
+      },
+      {
+        "day": 20114,
+        "message": "1333104163424309299"
       }
     ],
-    "last_used": 19869
+    "last_used": 20114
   },
   {
     "text": "What was the last movie you watched?",
