@@ -2489,7 +2489,11 @@
       },
       {
         "day": 20115,
-        "message": "1333466550900097136"
+        "message": "1333466550900097136",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 20115
@@ -2512,9 +2516,13 @@
           "total": 12,
           "users": 11
         }
+      },
+      {
+        "day": 20116,
+        "message": "1333828938694135838"
       }
     ],
-    "last_used": 19871
+    "last_used": 20116
   },
   {
     "text": "Who is your number one favourite YouTuber?",
