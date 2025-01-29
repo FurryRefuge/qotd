@@ -2519,7 +2519,11 @@
       },
       {
         "day": 20116,
-        "message": "1333828938694135838"
+        "message": "1333828938694135838",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20116
@@ -2542,9 +2546,13 @@
           "total": 21,
           "users": 8
         }
+      },
+      {
+        "day": 20117,
+        "message": "1334191326748741675"
       }
     ],
-    "last_used": 19872
+    "last_used": 20117
   },
   {
     "text": "What's the tastiest thing in your fridge right now?",
