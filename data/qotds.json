@@ -2549,7 +2549,11 @@
       },
       {
         "day": 20117,
-        "message": "1334191326748741675"
+        "message": "1334191326748741675",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20117
@@ -2572,9 +2576,13 @@
           "total": 33,
           "users": 12
         }
+      },
+      {
+        "day": 20118,
+        "message": "1334553869572903012"
       }
     ],
-    "last_used": 19873
+    "last_used": 20118
   },
   {
     "text": "What's your favourite chocolate and why?",
