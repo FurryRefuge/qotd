@@ -2639,7 +2639,11 @@
       },
       {
         "day": 20120,
-        "message": "1335278492874575902"
+        "message": "1335278492874575902",
+        "stats": {
+          "total": 14,
+          "users": 8
+        }
       }
     ],
     "last_used": 20120
@@ -2662,9 +2666,13 @@
           "total": 27,
           "users": 10
         }
+      },
+      {
+        "day": 20121,
+        "message": "1335640877825130528"
       }
     ],
-    "last_used": 19876
+    "last_used": 20121
   },
   {
     "text": "What is your favourite milkshake flavour and why?",
