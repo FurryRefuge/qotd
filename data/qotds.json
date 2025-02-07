@@ -2789,7 +2789,11 @@
       },
       {
         "day": 20125,
-        "message": "1337090429732126751"
+        "message": "1337090429732126751",
+        "stats": {
+          "total": 37,
+          "users": 10
+        }
       }
     ],
     "last_used": 20125
@@ -2812,9 +2816,13 @@
           "total": 15,
           "users": 11
         }
+      },
+      {
+        "day": 20126,
+        "message": "1337452818675531826"
       }
     ],
-    "last_used": 19881
+    "last_used": 20126
   },
   {
     "text": "What's your favourite song?",
