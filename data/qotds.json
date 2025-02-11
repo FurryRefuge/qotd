@@ -2909,7 +2909,11 @@
       },
       {
         "day": 20129,
-        "message": "1338539981634801767"
+        "message": "1338539981634801767",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ],
     "last_used": 20129
@@ -2932,9 +2936,13 @@
           "total": 19,
           "users": 13
         }
+      },
+      {
+        "day": 20130,
+        "message": "1338902369429356698"
       }
     ],
-    "last_used": 19885
+    "last_used": 20130
   },
   {
     "text": "How many tabs do you have open in your browser right now?",
