@@ -2939,7 +2939,11 @@
       },
       {
         "day": 20130,
-        "message": "1338902369429356698"
+        "message": "1338902369429356698",
+        "stats": {
+          "total": 21,
+          "users": 8
+        }
       }
     ],
     "last_used": 20130
@@ -2962,9 +2966,13 @@
           "total": 27,
           "users": 17
         }
+      },
+      {
+        "day": 20131,
+        "message": "1339264757496287293"
       }
     ],
-    "last_used": 19886
+    "last_used": 20131
   },
   {
     "text": "What's your favourite shampoo?",
