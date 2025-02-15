@@ -3029,7 +3029,11 @@
       },
       {
         "day": 20133,
-        "message": "1339989532468187146"
+        "message": "1339989532468187146",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 20133
@@ -3052,9 +3056,13 @@
           "total": 20,
           "users": 13
         }
+      },
+      {
+        "day": 20134,
+        "message": "1340351920581120093"
       }
     ],
-    "last_used": 19889
+    "last_used": 20134
   },
   {
     "text": "What's your preferred sleeping position?",
