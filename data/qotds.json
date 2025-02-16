@@ -3059,7 +3059,11 @@
       },
       {
         "day": 20134,
-        "message": "1340351920581120093"
+        "message": "1340351920581120093",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20134
@@ -3082,9 +3086,13 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20135,
+        "message": "1340714308664954921"
       }
     ],
-    "last_used": 19890
+    "last_used": 20135
   },
   {
     "text": "What is your exercise routine?",
