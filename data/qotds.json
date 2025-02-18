@@ -3119,7 +3119,11 @@
       },
       {
         "day": 20136,
-        "message": "1341076696165650506"
+        "message": "1341076696165650506",
+        "stats": {
+          "total": 11,
+          "users": 7
+        }
       }
     ],
     "last_used": 20136
@@ -3142,9 +3146,13 @@
           "total": 14,
           "users": 10
         }
+      },
+      {
+        "day": 20137,
+        "message": "1341439085188878434"
       }
     ],
-    "last_used": 19892
+    "last_used": 20137
   },
   {
     "text": "What's the best thing about your gender?",
