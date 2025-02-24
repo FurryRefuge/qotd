@@ -3299,7 +3299,11 @@
       },
       {
         "day": 20142,
-        "message": "1343251023137083403"
+        "message": "1343251023137083403",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20142
@@ -3322,9 +3326,13 @@
           "total": 18,
           "users": 14
         }
+      },
+      {
+        "day": 20143,
+        "message": "1343613411501543464"
       }
     ],
-    "last_used": 19898
+    "last_used": 20143
   },
   {
     "text": "What is your least favourite chore?",
