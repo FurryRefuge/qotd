@@ -3329,7 +3329,11 @@
       },
       {
         "day": 20143,
-        "message": "1343613411501543464"
+        "message": "1343613411501543464",
+        "stats": {
+          "total": 10,
+          "users": 10
+        }
       }
     ],
     "last_used": 20143
@@ -3352,9 +3356,13 @@
           "total": 12,
           "users": 10
         }
+      },
+      {
+        "day": 20144,
+        "message": "1343975799430189128"
       }
     ],
-    "last_used": 19899
+    "last_used": 20144
   },
   {
     "text": "If you could only eat one type of food for the rest of your life, what would it be?",
