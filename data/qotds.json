@@ -3359,7 +3359,11 @@
       },
       {
         "day": 20144,
-        "message": "1343975799430189128"
+        "message": "1343975799430189128",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20144
@@ -3382,9 +3386,13 @@
           "total": 15,
           "users": 11
         }
+      },
+      {
+        "day": 20145,
+        "message": "1344338187358830602"
       }
     ],
-    "last_used": 19900
+    "last_used": 20145
   },
   {
     "text": "What is your favourite day of the week and why?",
