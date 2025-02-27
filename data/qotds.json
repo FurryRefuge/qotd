@@ -3389,7 +3389,11 @@
       },
       {
         "day": 20145,
-        "message": "1344338187358830602"
+        "message": "1344338187358830602",
+        "stats": {
+          "total": 15,
+          "users": 6
+        }
       }
     ],
     "last_used": 20145
@@ -3412,9 +3416,13 @@
           "total": 16,
           "users": 10
         }
+      },
+      {
+        "day": 20146,
+        "message": "1344700575165714543"
       }
     ],
-    "last_used": 19901
+    "last_used": 20146
   },
   {
     "text": "What is your biggest fear?",
