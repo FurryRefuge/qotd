@@ -3479,7 +3479,11 @@
       },
       {
         "day": 20148,
-        "message": "1345425351286984825"
+        "message": "1345425351286984825",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 20148
@@ -3502,9 +3506,13 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 20149,
+        "message": "1345787738367983738"
       }
     ],
-    "last_used": 19904
+    "last_used": 20149
   },
   {
     "text": "What are you eating for dinner tomorrow?",
