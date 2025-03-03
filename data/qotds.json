@@ -3509,7 +3509,11 @@
       },
       {
         "day": 20149,
-        "message": "1345787738367983738"
+        "message": "1345787738367983738",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20149
@@ -3532,9 +3536,13 @@
           "total": 18,
           "users": 8
         }
+      },
+      {
+        "day": 20150,
+        "message": "1346150126191906868"
       }
     ],
-    "last_used": 19905
+    "last_used": 20150
   },
   {
     "text": "What do you do to stay in shape?",
