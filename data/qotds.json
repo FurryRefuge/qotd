@@ -3539,7 +3539,11 @@
       },
       {
         "day": 20150,
-        "message": "1346150126191906868"
+        "message": "1346150126191906868",
+        "stats": {
+          "total": 10,
+          "users": 8
+        }
       }
     ],
     "last_used": 20150
@@ -3562,9 +3566,13 @@
           "total": 19,
           "users": 13
         }
+      },
+      {
+        "day": 20151,
+        "message": "1346512514825064528"
       }
     ],
-    "last_used": 19906
+    "last_used": 20151
   },
   {
     "text": "What's the longest you've gone without showering?",
