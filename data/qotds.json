@@ -3599,7 +3599,11 @@
       },
       {
         "day": 20152,
-        "message": "1346874903042719755"
+        "message": "1346874903042719755",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20152
@@ -3622,9 +3626,13 @@
           "total": 32,
           "users": 16
         }
+      },
+      {
+        "day": 20153,
+        "message": "1347237290346287138"
       }
     ],
-    "last_used": 19908
+    "last_used": 20153
   },
   {
     "text": "What is the longest that you've stayed awake for?",
