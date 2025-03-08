@@ -3659,7 +3659,11 @@
       },
       {
         "day": 20154,
-        "message": "1347599678371528774"
+        "message": "1347599678371528774",
+        "stats": {
+          "total": 10,
+          "users": 9
+        }
       }
     ],
     "last_used": 20154
@@ -3682,9 +3686,13 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20155,
+        "message": "1347962065679159370"
       }
     ],
-    "last_used": 19910
+    "last_used": 20155
   },
   {
     "text": "If you could be any celebrity, who would it be?",
