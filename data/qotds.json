@@ -3749,7 +3749,11 @@
       },
       {
         "day": 20157,
-        "message": "1348686841687048252"
+        "message": "1348686841687048252",
+        "stats": {
+          "total": 6,
+          "users": 4
+        }
       }
     ],
     "last_used": 20157
@@ -3772,9 +3776,13 @@
           "total": 15,
           "users": 10
         }
+      },
+      {
+        "day": 20158,
+        "message": "1349049230173536256"
       }
     ],
-    "last_used": 19913
+    "last_used": 20158
   },
   {
     "text": "Who is your favourite person?",
