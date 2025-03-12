@@ -3779,7 +3779,11 @@
       },
       {
         "day": 20158,
-        "message": "1349049230173536256"
+        "message": "1349049230173536256",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20158
@@ -3802,9 +3806,13 @@
           "total": 50,
           "users": 14
         }
+      },
+      {
+        "day": 20159,
+        "message": "1349411617518911499"
       }
     ],
-    "last_used": 19914
+    "last_used": 20159
   },
   {
     "text": "What's the worst decision you've ever made?",
