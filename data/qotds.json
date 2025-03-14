@@ -3839,7 +3839,11 @@
       },
       {
         "day": 20160,
-        "message": "1349774005527384117"
+        "message": "1349774005527384117",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20160
@@ -3862,9 +3866,13 @@
           "total": 20,
           "users": 11
         }
+      },
+      {
+        "day": 20161,
+        "message": "1350136393283797012"
       }
     ],
-    "last_used": 19916
+    "last_used": 20161
   },
   {
     "text": "What's the worst thing that you've done during a sleepover?",
