@@ -3869,7 +3869,11 @@
       },
       {
         "day": 20161,
-        "message": "1350136393283797012"
+        "message": "1350136393283797012",
+        "stats": {
+          "total": 10,
+          "users": 5
+        }
       }
     ],
     "last_used": 20161
@@ -3892,9 +3896,13 @@
           "total": 31,
           "users": 17
         }
+      },
+      {
+        "day": 20162,
+        "message": "1350498780541227029"
       }
     ],
-    "last_used": 19917
+    "last_used": 20162
   },
   {
     "text": "What is the worst in-app purchase you've ever made?",
