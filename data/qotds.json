@@ -3989,7 +3989,11 @@
       },
       {
         "day": 20165,
-        "message": "1351585944402137219"
+        "message": "1351585944402137219",
+        "stats": {
+          "total": 9,
+          "users": 5
+        }
       }
     ],
     "last_used": 20165
@@ -4012,9 +4016,13 @@
           "total": 30,
           "users": 18
         }
+      },
+      {
+        "day": 20166,
+        "message": "1351948332376784907"
       }
     ],
-    "last_used": 19921
+    "last_used": 20166
   },
   {
     "text": "What is your favourite sweet?",
