@@ -4049,7 +4049,11 @@
       },
       {
         "day": 20167,
-        "message": "1352310720091521135"
+        "message": "1352310720091521135",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20167
@@ -4072,9 +4076,13 @@
           "total": 21,
           "users": 17
         }
+      },
+      {
+        "day": 20168,
+        "message": "1352673108020035696"
       }
     ],
-    "last_used": 19923
+    "last_used": 20168
   },
   {
     "text": "What are your hobbies?",
