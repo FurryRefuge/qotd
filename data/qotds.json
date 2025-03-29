@@ -4289,7 +4289,11 @@
       },
       {
         "day": 20175,
-        "message": "1355209823670505533"
+        "message": "1355209823670505533",
+        "stats": {
+          "total": 8,
+          "users": 6
+        }
       }
     ],
     "last_used": 20175
@@ -4312,9 +4316,13 @@
           "total": 48,
           "users": 14
         }
+      },
+      {
+        "day": 20176,
+        "message": "1355572211657736263"
       }
     ],
-    "last_used": 19931
+    "last_used": 20176
   },
   {
     "text": "What is something that makes you smile?",
