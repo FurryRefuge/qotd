@@ -4319,7 +4319,11 @@
       },
       {
         "day": 20176,
-        "message": "1355572211657736263"
+        "message": "1355572211657736263",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ],
     "last_used": 20176
@@ -4342,9 +4346,13 @@
           "total": 49,
           "users": 11
         }
+      },
+      {
+        "day": 20177,
+        "message": "1355934598676218031"
       }
     ],
-    "last_used": 19932
+    "last_used": 20177
   },
   {
     "text": "What is your favourite drink?",
