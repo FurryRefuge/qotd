@@ -4349,7 +4349,11 @@
       },
       {
         "day": 20177,
-        "message": "1355934598676218031"
+        "message": "1355934598676218031",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 20177
@@ -4372,9 +4376,13 @@
           "total": 15,
           "users": 14
         }
+      },
+      {
+        "day": 20178,
+        "message": "1356296986671714415"
       }
     ],
-    "last_used": 19933
+    "last_used": 20178
   },
   {
     "text": "How many pictures of The Queen do you have in your house right now?",
