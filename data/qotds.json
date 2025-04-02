@@ -4409,7 +4409,11 @@
       },
       {
         "day": 20179,
-        "message": "1356659374319210588"
+        "message": "1356659374319210588",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20179
@@ -4432,9 +4436,13 @@
           "total": 21,
           "users": 12
         }
+      },
+      {
+        "day": 20180,
+        "message": "1357021762910683400"
       }
     ],
-    "last_used": 19935
+    "last_used": 20180
   },
   {
     "text": "What was the last gift that you received?",
