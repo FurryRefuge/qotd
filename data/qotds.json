@@ -4469,7 +4469,11 @@
       },
       {
         "day": 20181,
-        "message": "1357384150885335242"
+        "message": "1357384150885335242",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20181
@@ -4492,9 +4496,13 @@
           "total": 19,
           "users": 10
         }
+      },
+      {
+        "day": 20182,
+        "message": "1357746538880827532"
       }
     ],
-    "last_used": 19937
+    "last_used": 20182
   },
   {
     "text": "What is your favorite dessert?",
