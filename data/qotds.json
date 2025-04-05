@@ -4499,7 +4499,11 @@
       },
       {
         "day": 20182,
-        "message": "1357746538880827532"
+        "message": "1357746538880827532",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20182
@@ -4522,9 +4526,13 @@
           "total": 48,
           "users": 17
         }
+      },
+      {
+        "day": 20183,
+        "message": "1358108925861298258"
       }
     ],
-    "last_used": 19938
+    "last_used": 20183
   },
   {
     "text": "If you were stuck on a desert island, what would you chose to have with you?",
