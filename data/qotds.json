@@ -4679,7 +4679,11 @@
       },
       {
         "day": 20188,
-        "message": "1359920866422423722"
+        "message": "1359920866422423722",
+        "stats": {
+          "total": 12,
+          "users": 8
+        }
       }
     ],
     "last_used": 20188
@@ -4702,9 +4706,13 @@
           "total": 28,
           "users": 11
         }
+      },
+      {
+        "day": 20189,
+        "message": "1360283253415612648"
       }
     ],
-    "last_used": 19944
+    "last_used": 20189
   },
   {
     "text": "If you could visit any country for a day with all expenses paid, which country would you choose and why?",
