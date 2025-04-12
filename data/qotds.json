@@ -4709,7 +4709,11 @@
       },
       {
         "day": 20189,
-        "message": "1360283253415612648"
+        "message": "1360283253415612648",
+        "stats": {
+          "total": 7,
+          "users": 3
+        }
       }
     ],
     "last_used": 20189
@@ -4732,9 +4736,13 @@
           "total": 49,
           "users": 17
         }
+      },
+      {
+        "day": 20190,
+        "message": "1360645641512030451"
       }
     ],
-    "last_used": 19945
+    "last_used": 20190
   },
   {
     "text": "What is your favourite kind of pie?",
