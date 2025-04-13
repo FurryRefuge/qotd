@@ -4739,7 +4739,11 @@
       },
       {
         "day": 20190,
-        "message": "1360645641512030451"
+        "message": "1360645641512030451",
+        "stats": {
+          "total": 9,
+          "users": 6
+        }
       }
     ],
     "last_used": 20190
@@ -4762,9 +4766,13 @@
           "total": 49,
           "users": 18
         }
+      },
+      {
+        "day": 20191,
+        "message": "1361008028626981165"
       }
     ],
-    "last_used": 19946
+    "last_used": 20191
   },
   {
     "text": "Describe yourself in one sentence.",
