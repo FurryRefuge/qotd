@@ -4799,7 +4799,11 @@
       },
       {
         "day": 20193,
-        "message": "1361732804563566612"
+        "message": "1361732804563566612",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20193
@@ -4822,9 +4826,13 @@
           "total": 20,
           "users": 13
         }
+      },
+      {
+        "day": 20194,
+        "message": "1362095192756326560"
       }
     ],
-    "last_used": 19949
+    "last_used": 20194
   },
   {
     "text": "What costume would you wear to a Halloween party?",
