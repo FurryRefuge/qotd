@@ -4829,7 +4829,11 @@
       },
       {
         "day": 20194,
-        "message": "1362095192756326560"
+        "message": "1362095192756326560",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20194
@@ -4852,9 +4856,13 @@
           "total": 21,
           "users": 11
         }
+      },
+      {
+        "day": 20195,
+        "message": "1362457581175574558"
       }
     ],
-    "last_used": 19950
+    "last_used": 20195
   },
   {
     "text": "What are your favourite sports?",
