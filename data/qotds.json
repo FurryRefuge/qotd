@@ -4859,7 +4859,11 @@
       },
       {
         "day": 20195,
-        "message": "1362457581175574558"
+        "message": "1362457581175574558",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20195
@@ -4882,9 +4886,13 @@
           "total": 34,
           "users": 19
         }
+      },
+      {
+        "day": 20196,
+        "message": "1362819968789643636"
       }
     ],
-    "last_used": 19951
+    "last_used": 20196
   },
   {
     "text": "How do you think the world will end?",
