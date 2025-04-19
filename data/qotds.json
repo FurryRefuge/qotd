@@ -4889,7 +4889,11 @@
       },
       {
         "day": 20196,
-        "message": "1362819968789643636"
+        "message": "1362819968789643636",
+        "stats": {
+          "total": 11,
+          "users": 8
+        }
       }
     ],
     "last_used": 20196
@@ -4912,9 +4916,13 @@
           "total": 19,
           "users": 12
         }
+      },
+      {
+        "day": 20197,
+        "message": "1363182359503175731"
       }
     ],
-    "last_used": 19952
+    "last_used": 20197
   },
   {
     "text": "What are some things that you shouldn't say at a funeral?",
