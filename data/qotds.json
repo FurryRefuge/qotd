@@ -4919,7 +4919,11 @@
       },
       {
         "day": 20197,
-        "message": "1363182359503175731"
+        "message": "1363182359503175731",
+        "stats": {
+          "total": 10,
+          "users": 7
+        }
       }
     ],
     "last_used": 20197
@@ -4942,9 +4946,13 @@
           "total": 14,
           "users": 12
         }
+      },
+      {
+        "day": 20198,
+        "message": "1363544745405710467"
       }
     ],
-    "last_used": 19953
+    "last_used": 20198
   },
   {
     "text": "What is the biggest priority in your life right now?",
