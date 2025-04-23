@@ -5009,7 +5009,11 @@
       },
       {
         "day": 20200,
-        "message": "1364269519811645502"
+        "message": "1364269519811645502",
+        "stats": {
+          "total": 13,
+          "users": 7
+        }
       }
     ],
     "last_used": 20200
@@ -5032,9 +5036,13 @@
           "total": 14,
           "users": 13
         }
+      },
+      {
+        "day": 20201,
+        "message": "1364631908218048743"
       }
     ],
-    "last_used": 19956
+    "last_used": 20201
   },
   {
     "text": "What do you wear to sleep?",
