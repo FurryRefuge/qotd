@@ -5039,7 +5039,11 @@
       },
       {
         "day": 20201,
-        "message": "1364631908218048743"
+        "message": "1364631908218048743",
+        "stats": {
+          "total": 13,
+          "users": 11
+        }
       }
     ],
     "last_used": 20201
@@ -5062,9 +5066,13 @@
           "total": 37,
           "users": 17
         }
+      },
+      {
+        "day": 20202,
+        "message": "1364994296033574983"
       }
     ],
-    "last_used": 19957
+    "last_used": 20202
   },
   {
     "text": "If you could meet any celebrity, who would you meet and why?",
