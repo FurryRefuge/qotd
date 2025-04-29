@@ -5189,7 +5189,11 @@
       },
       {
         "day": 20206,
-        "message": "1366443847013498891"
+        "message": "1366443847013498891",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 20206
@@ -5212,9 +5216,13 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20207,
+        "message": "1366806235000606761"
       }
     ],
-    "last_used": 19962
+    "last_used": 20207
   },
   {
     "text": "What is your most and least favourite sport?",
