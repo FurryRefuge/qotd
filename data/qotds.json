@@ -5219,7 +5219,11 @@
       },
       {
         "day": 20207,
-        "message": "1366806235000606761"
+        "message": "1366806235000606761",
+        "stats": {
+          "total": 22,
+          "users": 9
+        }
       }
     ],
     "last_used": 20207
@@ -5242,9 +5246,13 @@
           "total": 21,
           "users": 14
         }
+      },
+      {
+        "day": 20208,
+        "message": "1367168622975385660"
       }
     ],
-    "last_used": 19963
+    "last_used": 20208
   },
   {
     "text": "What is your worst fear?",
