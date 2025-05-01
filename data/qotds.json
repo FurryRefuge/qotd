@@ -5249,7 +5249,11 @@
       },
       {
         "day": 20208,
-        "message": "1367168622975385660"
+        "message": "1367168622975385660",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20208
@@ -5272,9 +5276,13 @@
           "total": 23,
           "users": 14
         }
+      },
+      {
+        "day": 20209,
+        "message": "1367531010945974274"
       }
     ],
-    "last_used": 19964
+    "last_used": 20209
   },
   {
     "text": "What was the name and species of you first pet?",
