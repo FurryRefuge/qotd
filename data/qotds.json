@@ -5429,7 +5429,11 @@
       },
       {
         "day": 20214,
-        "message": "1369342950693146887"
+        "message": "1369342950693146887",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20214
@@ -5452,9 +5456,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20215,
+        "message": "1369705338835697806"
       }
     ],
-    "last_used": 19970
+    "last_used": 20215
   },
   {
     "text": "What is your favourite song right now?",
