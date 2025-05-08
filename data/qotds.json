@@ -5459,7 +5459,11 @@
       },
       {
         "day": 20215,
-        "message": "1369705338835697806"
+        "message": "1369705338835697806",
+        "stats": {
+          "total": 1,
+          "users": 1
+        }
       }
     ],
     "last_used": 20215
@@ -5482,9 +5486,13 @@
           "total": 17,
           "users": 16
         }
+      },
+      {
+        "day": 20216,
+        "message": "1370067725753520218"
       }
     ],
-    "last_used": 19971
+    "last_used": 20216
   },
   {
     "text": "What's adorable and unique about your pet(s)? (Please provide photo evidence)",
