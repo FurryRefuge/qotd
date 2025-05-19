@@ -5789,7 +5789,11 @@
       },
       {
         "day": 20226,
-        "message": "1373691605214564483"
+        "message": "1373691605214564483",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 20226
@@ -5812,9 +5816,13 @@
           "total": 12,
           "users": 11
         }
+      },
+      {
+        "day": 20227,
+        "message": "1374053992593883287"
       }
     ],
-    "last_used": 19982
+    "last_used": 20227
   },
   {
     "text": "If you became president, what is the first thing you would do?",
