@@ -5909,7 +5909,11 @@
       },
       {
         "day": 20230,
-        "message": "1375141155704017027"
+        "message": "1375141155704017027",
+        "stats": {
+          "total": 8,
+          "users": 6
+        }
       }
     ],
     "last_used": 20230
@@ -5932,9 +5936,13 @@
           "total": 27,
           "users": 11
         }
+      },
+      {
+        "day": 20231,
+        "message": "1375503543699767336"
       }
     ],
-    "last_used": 19986
+    "last_used": 20231
   },
   {
     "text": "What is the first thing that you think of in the morning?",
