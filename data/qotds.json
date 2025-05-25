@@ -5969,7 +5969,11 @@
       },
       {
         "day": 20232,
-        "message": "1375865931976409218"
+        "message": "1375865931976409218",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20232
@@ -5992,9 +5996,13 @@
           "total": 10,
           "users": 6
         }
+      },
+      {
+        "day": 20233,
+        "message": "1376228319661396168"
       }
     ],
-    "last_used": 19988
+    "last_used": 20233
   },
   {
     "text": "If you were transported 400 years into the past, how would you prove that you were from the future?",
