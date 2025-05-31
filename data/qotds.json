@@ -112,13 +112,17 @@
       },
       {
         "day": 20238,
-        "message": "1378040259547500544"
+        "message": "1378040259547500544",
+        "stats": {
+          "total": 13,
+          "users": 8
+        }
       }
     ]
   },
   {
     "text": "What fictional item do you wish you owned in real life?",
-    "last_used": 19994,
+    "last_used": 20239,
     "history": [
       {
         "day": 19741,
@@ -135,6 +139,10 @@
           "total": 10,
           "users": 8
         }
+      },
+      {
+        "day": 20239,
+        "message": "1378402647320826019"
       }
     ]
   },
