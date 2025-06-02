@@ -172,13 +172,17 @@
       },
       {
         "day": 20240,
-        "message": "1378765035136090212"
+        "message": "1378765035136090212",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What's the longest line you've ever waited in? Was it worth it?",
-    "last_used": 19996,
+    "last_used": 20241,
     "history": [
       {
         "day": 19743,
@@ -195,6 +199,10 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20241,
+        "message": "1379127422037004329"
       }
     ]
   },
