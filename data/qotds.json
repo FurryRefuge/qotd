@@ -262,13 +262,17 @@
       },
       {
         "day": 20243,
-        "message": "1379854666573152437"
+        "message": "1379854666573152437",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What recent trend are you totally on board with?",
-    "last_used": 19999,
+    "last_used": 20244,
     "history": [
       {
         "day": 19746,
@@ -285,6 +289,10 @@
           "total": 9,
           "users": 8
         }
+      },
+      {
+        "day": 20244,
+        "message": "1380214585398657048"
       }
     ]
   },
