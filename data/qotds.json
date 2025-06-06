@@ -292,13 +292,17 @@
       },
       {
         "day": 20244,
-        "message": "1380214585398657048"
+        "message": "1380214585398657048",
+        "stats": {
+          "total": 9,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What silly or funny thing are you afraid of?",
-    "last_used": 20000,
+    "last_used": 20245,
     "history": [
       {
         "day": 19747,
@@ -315,6 +319,10 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20245,
+        "message": "1380576974854029563"
       }
     ]
   },
