@@ -382,13 +382,17 @@
       },
       {
         "day": 20247,
-        "message": "1381301749817671933"
+        "message": "1381301749817671933",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ]
   },
   {
     "text": "What would you do for a day without the internet?",
-    "last_used": 20003,
+    "last_used": 20248,
     "history": [
       {
         "day": 19750,
@@ -405,6 +409,10 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20248,
+        "message": "1381664137763094711"
       }
     ]
   },
