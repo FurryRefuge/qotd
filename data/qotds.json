@@ -532,13 +532,17 @@
       },
       {
         "day": 20252,
-        "message": "1383113689770627154"
+        "message": "1383113689770627154",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What is your favourite meal and why?",
-    "last_used": 20008,
+    "last_used": 20253,
     "history": [
       {
         "day": 19755,
@@ -555,6 +559,10 @@
           "total": 12,
           "users": 8
         }
+      },
+      {
+        "day": 20253,
+        "message": "1383476077250482206"
       }
     ]
   },
