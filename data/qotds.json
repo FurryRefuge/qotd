@@ -562,13 +562,17 @@
       },
       {
         "day": 20253,
-        "message": "1383476077250482206"
+        "message": "1383476077250482206",
+        "stats": {
+          "total": 8,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What is the most embarrassing thing you've ever done?",
-    "last_used": 20009,
+    "last_used": 20254,
     "history": [
       {
         "day": 19756,
@@ -585,6 +589,10 @@
           "total": 15,
           "users": 6
         }
+      },
+      {
+        "day": 20254,
+        "message": "1383838464369365186"
       }
     ]
   },
