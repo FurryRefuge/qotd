@@ -652,13 +652,17 @@
       },
       {
         "day": 20256,
-        "message": "1384563240897351703"
+        "message": "1384563240897351703",
+        "stats": {
+          "total": 6,
+          "users": 4
+        }
       }
     ]
   },
   {
     "text": "What is your favourite donut topping?",
-    "last_used": 20012,
+    "last_used": 20257,
     "history": [
       {
         "day": 19759,
@@ -675,6 +679,10 @@
           "total": 13,
           "users": 10
         }
+      },
+      {
+        "day": 20257,
+        "message": "1384925628045725779"
       }
     ]
   },
