@@ -682,13 +682,17 @@
       },
       {
         "day": 20257,
-        "message": "1384925628045725779"
+        "message": "1384925628045725779",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ]
   },
   {
     "text": "If you won the lottery, what would you buy?",
-    "last_used": 20013,
+    "last_used": 20258,
     "history": [
       {
         "day": 19761,
@@ -705,6 +709,10 @@
           "total": 37,
           "users": 13
         }
+      },
+      {
+        "day": 20258,
+        "message": "1385288016104394925"
       }
     ]
   },
