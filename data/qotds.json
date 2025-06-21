@@ -742,13 +742,17 @@
       },
       {
         "day": 20259,
-        "message": "1385650404171448373"
+        "message": "1385650404171448373",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What is your favourite TV show and why?",
-    "last_used": 20015,
+    "last_used": 20260,
     "history": [
       {
         "day": 19763,
@@ -765,6 +769,10 @@
           "total": 15,
           "users": 9
         }
+      },
+      {
+        "day": 20260,
+        "message": "1386012792066146384"
       }
     ]
   },
