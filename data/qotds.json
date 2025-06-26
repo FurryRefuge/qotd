@@ -892,13 +892,17 @@
       },
       {
         "day": 20264,
-        "message": "1387462342740279498"
+        "message": "1387462342740279498",
+        "stats": {
+          "total": 15,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What's the simplest thing you can't do?",
-    "last_used": 20020,
+    "last_used": 20265,
     "history": [
       {
         "day": 19769,
@@ -915,6 +919,10 @@
           "total": 40,
           "users": 11
         }
+      },
+      {
+        "day": 20265,
+        "message": "1387824731172110408"
       }
     ]
   },
