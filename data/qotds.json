@@ -1293,7 +1293,11 @@
       },
       {
         "day": 20275,
-        "message": "1391448610562113638"
+        "message": "1391448610562113638",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20275
@@ -1324,9 +1328,13 @@
           "total": 17,
           "users": 12
         }
+      },
+      {
+        "day": 20276,
+        "message": "1391810998070939799"
       }
     ],
-    "last_used": 20031
+    "last_used": 20276
   },
   {
     "text": "What is your favourite breakfast snack?",
