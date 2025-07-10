@@ -1407,7 +1407,11 @@
       },
       {
         "day": 20278,
-        "message": "1392535773575909469"
+        "message": "1392535773575909469",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 20278
@@ -1438,9 +1442,13 @@
           "total": 11,
           "users": 8
         }
+      },
+      {
+        "day": 20279,
+        "message": "1392898161412149248"
       }
     ],
-    "last_used": 20034
+    "last_used": 20279
   },
   {
     "text": "If you had 2 days to live with seemingly infinite amount of money, what would you do?",
