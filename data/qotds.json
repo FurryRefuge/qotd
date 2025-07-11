@@ -1445,7 +1445,11 @@
       },
       {
         "day": 20279,
-        "message": "1392898161412149248"
+        "message": "1392898161412149248",
+        "stats": {
+          "total": 14,
+          "users": 4
+        }
       }
     ],
     "last_used": 20279
@@ -1476,9 +1480,13 @@
           "total": 15,
           "users": 9
         }
+      },
+      {
+        "day": 20280,
+        "message": "1393260549617352758"
       }
     ],
-    "last_used": 20035
+    "last_used": 20280
   },
   {
     "text": "What is your dream job?",
