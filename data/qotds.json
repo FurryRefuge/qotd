@@ -1521,7 +1521,11 @@
       },
       {
         "day": 20281,
-        "message": "1393622937705381929"
+        "message": "1393622937705381929",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20281
@@ -1552,9 +1556,13 @@
           "total": 15,
           "users": 13
         }
+      },
+      {
+        "day": 20282,
+        "message": "1393985324736188527"
       }
     ],
-    "last_used": 20037
+    "last_used": 20282
   },
   {
     "text": "If you were invisible for a day, what would you do?",
