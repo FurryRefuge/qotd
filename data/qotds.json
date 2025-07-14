@@ -1559,7 +1559,11 @@
       },
       {
         "day": 20282,
-        "message": "1393985324736188527"
+        "message": "1393985324736188527",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20282
@@ -1590,9 +1594,13 @@
           "total": 8,
           "users": 7
         }
+      },
+      {
+        "day": 20283,
+        "message": "1394347713092517898"
       }
     ],
-    "last_used": 20038
+    "last_used": 20283
   },
   {
     "text": "What are you most passionate about?",
