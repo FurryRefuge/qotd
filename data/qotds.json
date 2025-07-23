@@ -1749,7 +1749,11 @@
       },
       {
         "day": 20291,
-        "message": "1397246815199428630"
+        "message": "1397246815199428630",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20291
@@ -1780,9 +1784,13 @@
           "total": 23,
           "users": 10
         }
+      },
+      {
+        "day": 20292,
+        "message": "1397609297399119945"
       }
     ],
-    "last_used": 20047
+    "last_used": 20292
   },
   {
     "text": "What is the cutest thing you've ever seen?",
