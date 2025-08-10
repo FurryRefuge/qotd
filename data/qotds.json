@@ -2229,7 +2229,11 @@
       },
       {
         "day": 20309,
-        "message": "1403769797036212246"
+        "message": "1403769797036212246",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20309
@@ -2260,9 +2264,13 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20310,
+        "message": "1404132185845534855"
       }
     ],
-    "last_used": 20066
+    "last_used": 20310
   },
   {
     "text": "What is your favourite McDonads' McFlurry flavour and why? (Oreo, M&Ms, Mars, etc)",
