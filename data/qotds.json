@@ -2267,7 +2267,11 @@
       },
       {
         "day": 20310,
-        "message": "1404132185845534855"
+        "message": "1404132185845534855",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 20310
@@ -2298,9 +2302,13 @@
           "total": 10,
           "users": 9
         }
+      },
+      {
+        "day": 20311,
+        "message": "1404494573606273236"
       }
     ],
-    "last_used": 20067
+    "last_used": 20311
   },
   {
     "text": "What is your all-time favourite song?",
