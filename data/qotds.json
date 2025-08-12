@@ -2305,7 +2305,11 @@
       },
       {
         "day": 20311,
-        "message": "1404494573606273236"
+        "message": "1404494573606273236",
+        "stats": {
+          "total": 9,
+          "users": 6
+        }
       }
     ],
     "last_used": 20311
@@ -2336,9 +2340,13 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20312,
+        "message": "1404856960981143774"
       }
     ],
-    "last_used": 20068
+    "last_used": 20312
   },
   {
     "text": "What is the worst movie that you've ever seen?",
