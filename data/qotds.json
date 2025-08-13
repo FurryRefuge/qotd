@@ -2343,7 +2343,11 @@
       },
       {
         "day": 20312,
-        "message": "1404856960981143774"
+        "message": "1404856960981143774",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 20312
@@ -2374,9 +2378,13 @@
           "total": 10,
           "users": 6
         }
+      },
+      {
+        "day": 20313,
+        "message": "1405219349073100890"
       }
     ],
-    "last_used": 20069
+    "last_used": 20313
   },
   {
     "text": "What is your favourite dessert?",
