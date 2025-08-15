@@ -2419,7 +2419,11 @@
       },
       {
         "day": 20314,
-        "message": "1405581736892563537"
+        "message": "1405581736892563537",
+        "stats": {
+          "total": 4,
+          "users": 3
+        }
       }
     ],
     "last_used": 20314
@@ -2450,9 +2454,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20315,
+        "message": "1405944124934197359"
       }
     ],
-    "last_used": 20071
+    "last_used": 20315
   },
   {
     "text": "What junk food do you feel most guilty after eating?",
