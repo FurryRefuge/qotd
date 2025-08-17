@@ -2495,7 +2495,11 @@
       },
       {
         "day": 20316,
-        "message": "1406306512464511207"
+        "message": "1406306512464511207",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20316
@@ -2526,9 +2530,13 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20317,
+        "message": "1406668900191436930"
       }
     ],
-    "last_used": 20073
+    "last_used": 20317
   },
   {
     "text": "What is your favourite ice cream?",
