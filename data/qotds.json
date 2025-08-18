@@ -2533,7 +2533,11 @@
       },
       {
         "day": 20317,
-        "message": "1406668900191436930"
+        "message": "1406668900191436930",
+        "stats": {
+          "total": 9,
+          "users": 7
+        }
       }
     ],
     "last_used": 20317
@@ -2564,9 +2568,13 @@
           "total": 15,
           "users": 11
         }
+      },
+      {
+        "day": 20318,
+        "message": "1407031288220618903"
       }
     ],
-    "last_used": 20074
+    "last_used": 20318
   },
   {
     "text": "What kind of music do you like to listen to and why?",
