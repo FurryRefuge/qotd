@@ -2571,7 +2571,11 @@
       },
       {
         "day": 20318,
-        "message": "1407031288220618903"
+        "message": "1407031288220618903",
+        "stats": {
+          "total": 7,
+          "users": 7
+        }
       }
     ],
     "last_used": 20318
@@ -2602,9 +2606,13 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20319,
+        "message": "1407393675885154444"
       }
     ],
-    "last_used": 20075
+    "last_used": 20319
   },
   {
     "text": "What is your favourite type of cake?",
