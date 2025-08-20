@@ -2609,7 +2609,11 @@
       },
       {
         "day": 20319,
-        "message": "1407393675885154444"
+        "message": "1407393675885154444",
+        "stats": {
+          "total": 7,
+          "users": 6
+        }
       }
     ],
     "last_used": 20319
@@ -2640,9 +2644,13 @@
           "total": 9,
           "users": 8
         }
+      },
+      {
+        "day": 20320,
+        "message": "1407756063914332313"
       }
     ],
-    "last_used": 20076
+    "last_used": 20320
   },
   {
     "text": "What is your favourite restaurant and why?",
