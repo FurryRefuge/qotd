@@ -2685,7 +2685,11 @@
       },
       {
         "day": 20323,
-        "message": "1408843233534148689"
+        "message": "1408843233534148689",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20323
@@ -2716,9 +2720,13 @@
           "total": 10,
           "users": 8
         }
+      },
+      {
+        "day": 20324,
+        "message": "1409205616332767293"
       }
     ],
-    "last_used": 20080
+    "last_used": 20324
   },
   {
     "text": "What is your favourite pudding?",
