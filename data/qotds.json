@@ -2723,7 +2723,11 @@
       },
       {
         "day": 20324,
-        "message": "1409205616332767293"
+        "message": "1409205616332767293",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20324
@@ -2754,9 +2758,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20325,
+        "message": "1409568003305115651"
       }
     ],
-    "last_used": 20081
+    "last_used": 20325
   },
   {
     "text": "What is the most luckiest thing that has ever happened to you?",
