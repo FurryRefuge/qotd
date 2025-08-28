@@ -7163,7 +7163,11 @@
       },
       {
         "day": 20327,
-        "message": "1410292784975315066"
+        "message": "1410292784975315066",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20327
@@ -7186,9 +7190,13 @@
           "total": 6,
           "users": 5
         }
+      },
+      {
+        "day": 20328,
+        "message": "1410655166813962403"
       }
     ],
-    "last_used": 20084
+    "last_used": 20328
   },
   {
     "text": "If you could have any fictional character as your best friend, who would it be and why?",
