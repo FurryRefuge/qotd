@@ -7403,7 +7403,11 @@
       },
       {
         "day": 20335,
-        "message": "1413191882137403523"
+        "message": "1413191882137403523",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20335
@@ -7426,9 +7430,13 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20336,
+        "message": "1413554270220845130"
       }
     ],
-    "last_used": 20092
+    "last_used": 20336
   },
   {
     "text": "If you could time travel to any era, past or future, where would you go and what would you do?",
