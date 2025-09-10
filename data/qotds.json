@@ -7553,7 +7553,11 @@
       },
       {
         "day": 20340,
-        "message": "1415003821209288818"
+        "message": "1415003821209288818",
+        "stats": {
+          "total": 1,
+          "users": 1
+        }
       }
     ],
     "last_used": 20340
@@ -7576,9 +7580,13 @@
           "total": 9,
           "users": 7
         }
+      },
+      {
+        "day": 20341,
+        "message": "1415366210698088559"
       }
     ],
-    "last_used": 20097
+    "last_used": 20341
   },
   {
     "text": "What's your favourite way to spend a rainy day?",
