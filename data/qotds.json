@@ -7643,7 +7643,11 @@
       },
       {
         "day": 20343,
-        "message": "1416090985615724584"
+        "message": "1416090985615724584",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20343
@@ -7666,9 +7670,13 @@
           "total": 2,
           "users": 2
         }
+      },
+      {
+        "day": 20344,
+        "message": "1416453373204496495"
       }
     ],
-    "last_used": 20100
+    "last_used": 20344
   },
   {
     "text": "If you could have any job in the world for one week, what would you choose and why?",
