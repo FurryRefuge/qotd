@@ -7703,7 +7703,11 @@
       },
       {
         "day": 20345,
-        "message": "1416815760474636608"
+        "message": "1416815760474636608",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 20345
@@ -7726,9 +7730,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20346,
+        "message": "1417178149069918228"
       }
     ],
-    "last_used": 20102
+    "last_used": 20346
   },
   {
     "text": "If you could create your own holiday, what would it be and how would you celebrate it?",
