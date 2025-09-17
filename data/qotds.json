@@ -2796,9 +2796,13 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20348,
+        "message": "1417902924176297996"
       }
     ],
-    "last_used": 20104
+    "last_used": 20348
   },
   {
     "text": "If you could travel anywhere for free, where would you go and why?",
@@ -7763,7 +7767,11 @@
       },
       {
         "day": 20347,
-        "message": "1417540536864342090"
+        "message": "1417540536864342090",
+        "stats": {
+          "total": 0,
+          "users": 0
+        }
       }
     ],
     "last_used": 20347
