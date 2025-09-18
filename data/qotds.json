@@ -2799,7 +2799,11 @@
       },
       {
         "day": 20348,
-        "message": "1417902924176297996"
+        "message": "1417902924176297996",
+        "stats": {
+          "total": 1,
+          "users": 1
+        }
       }
     ],
     "last_used": 20348
@@ -2830,9 +2834,13 @@
           "total": 12,
           "users": 7
         }
+      },
+      {
+        "day": 20349,
+        "message": "1418265312117129247"
       }
     ],
-    "last_used": 20105
+    "last_used": 20349
   },
   {
     "text": "If you could meet any celebrity, who would you meet?",
