@@ -2951,7 +2951,11 @@
       },
       {
         "day": 20352,
-        "message": "1419352475768586541"
+        "message": "1419352475768586541",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ],
     "last_used": 20352
@@ -2982,9 +2986,13 @@
           "total": 8,
           "users": 6
         }
+      },
+      {
+        "day": 20353,
+        "message": "1419714863286194208"
       }
     ],
-    "last_used": 20109
+    "last_used": 20353
   },
   {
     "text": "If you could send anything to hell forever, what would you send?",
