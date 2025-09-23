@@ -2989,7 +2989,11 @@
       },
       {
         "day": 20353,
-        "message": "1419714863286194208"
+        "message": "1419714863286194208",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20353
@@ -3020,9 +3024,13 @@
           "total": 17,
           "users": 9
         }
+      },
+      {
+        "day": 20354,
+        "message": "1420077251671888002"
       }
     ],
-    "last_used": 20110
+    "last_used": 20354
   },
   {
     "text": "What is your most favourite fast food meal?",
