@@ -3103,7 +3103,11 @@
       },
       {
         "day": 20356,
-        "message": "1420802044633288815"
+        "message": "1420802044633288815",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20356
@@ -3134,9 +3138,13 @@
           "total": 10,
           "users": 5
         }
+      },
+      {
+        "day": 20357,
+        "message": "1421164415830593747"
       }
     ],
-    "last_used": 20113
+    "last_used": 20357
   },
   {
     "text": "What is your favourite restaurant?",
