@@ -3179,7 +3179,11 @@
       },
       {
         "day": 20358,
-        "message": "1421526802223857695"
+        "message": "1421526802223857695",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20358
@@ -3210,9 +3214,13 @@
           "total": 10,
           "users": 8
         }
+      },
+      {
+        "day": 20359,
+        "message": "1421889191616315422"
       }
     ],
-    "last_used": 20115
+    "last_used": 20359
   },
   {
     "text": "What song is your utmost favourite?",
