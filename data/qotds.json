@@ -3255,7 +3255,11 @@
       },
       {
         "day": 20360,
-        "message": "1422251580144484442"
+        "message": "1422251580144484442",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20360
@@ -3286,9 +3290,13 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20361,
+        "message": "1422613966915375114"
       }
     ],
-    "last_used": 20117
+    "last_used": 20361
   },
   {
     "text": "What's the tastiest thing in your fridge right now?",
