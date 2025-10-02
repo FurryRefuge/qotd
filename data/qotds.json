@@ -3331,7 +3331,11 @@
       },
       {
         "day": 20362,
-        "message": "1422976354470723666"
+        "message": "1422976354470723666",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20362
@@ -3362,9 +3366,13 @@
           "total": 10,
           "users": 5
         }
+      },
+      {
+        "day": 20363,
+        "message": "1423338742726262955"
       }
     ],
-    "last_used": 20119
+    "last_used": 20363
   },
   {
     "text": "Have you ever peed in the shower?",
