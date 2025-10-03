@@ -3369,7 +3369,11 @@
       },
       {
         "day": 20363,
-        "message": "1423338742726262955"
+        "message": "1423338742726262955",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20363
@@ -3400,9 +3404,13 @@
           "total": 14,
           "users": 8
         }
+      },
+      {
+        "day": 20364,
+        "message": "1423701130340208842"
       }
     ],
-    "last_used": 20120
+    "last_used": 20364
   },
   {
     "text": "What is your favourite snack?",
