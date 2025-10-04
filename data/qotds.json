@@ -3407,7 +3407,11 @@
       },
       {
         "day": 20364,
-        "message": "1423701130340208842"
+        "message": "1423701130340208842",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20364
@@ -3438,9 +3442,13 @@
           "total": 23,
           "users": 11
         }
+      },
+      {
+        "day": 20365,
+        "message": "1424063517304160307"
       }
     ],
-    "last_used": 20121
+    "last_used": 20365
   },
   {
     "text": "What is your favourite milkshake flavour and why?",
