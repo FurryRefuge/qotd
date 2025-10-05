@@ -3445,7 +3445,11 @@
       },
       {
         "day": 20365,
-        "message": "1424063517304160307"
+        "message": "1424063517304160307",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ],
     "last_used": 20365
@@ -3476,9 +3480,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20366,
+        "message": "1424425906453352524"
       }
     ],
-    "last_used": 20122
+    "last_used": 20366
   },
   {
     "text": "What is your favourite weird food combination?",
