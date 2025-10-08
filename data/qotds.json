@@ -3559,7 +3559,11 @@
       },
       {
         "day": 20368,
-        "message": "1425150689088110673"
+        "message": "1425150689088110673",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20368
@@ -3590,9 +3594,13 @@
           "total": 37,
           "users": 10
         }
+      },
+      {
+        "day": 20369,
+        "message": "1425513102702805025"
       }
     ],
-    "last_used": 20125
+    "last_used": 20369
   },
   {
     "text": "What is your favourite hair style and why?",
