@@ -3749,7 +3749,11 @@
       },
       {
         "day": 20373,
-        "message": "1426962620283355168"
+        "message": "1426962620283355168",
+        "stats": {
+          "total": 2,
+          "users": 2
+        }
       }
     ],
     "last_used": 20373
@@ -3780,9 +3784,13 @@
           "total": 21,
           "users": 8
         }
+      },
+      {
+        "day": 20374,
+        "message": "1427325009277227231"
       }
     ],
-    "last_used": 20130
+    "last_used": 20374
   },
   {
     "text": "How many tabs do you have open in your browser right now?",
