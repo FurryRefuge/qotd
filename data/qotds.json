@@ -4053,7 +4053,11 @@
       },
       {
         "day": 20381,
-        "message": "1429861723359150092"
+        "message": "1429861723359150092",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20381
@@ -4084,9 +4088,13 @@
           "total": 15,
           "users": 8
         }
+      },
+      {
+        "day": 20382,
+        "message": "1430224111627538544"
       }
     ],
-    "last_used": 20138
+    "last_used": 20382
   },
   {
     "text": "If you could meet any celebrity in-person, who would you meet?",
