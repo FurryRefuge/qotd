@@ -4129,7 +4129,11 @@
       },
       {
         "day": 20383,
-        "message": "1430586499707175033"
+        "message": "1430586499707175033",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20383
@@ -4160,9 +4164,13 @@
           "total": 18,
           "users": 11
         }
+      },
+      {
+        "day": 20384,
+        "message": "1430948887073656902"
       }
     ],
-    "last_used": 20140
+    "last_used": 20384
   },
   {
     "text": "What position do you usually sleep in?",
