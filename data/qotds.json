@@ -4205,7 +4205,11 @@
       },
       {
         "day": 20385,
-        "message": "1431311276184965262"
+        "message": "1431311276184965262",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20385
@@ -4236,9 +4240,13 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20386,
+        "message": "1431673663312363691"
       }
     ],
-    "last_used": 20142
+    "last_used": 20386
   },
   {
     "text": "What time do you go to sleep?",
