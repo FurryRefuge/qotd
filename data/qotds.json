@@ -4395,7 +4395,11 @@
       },
       {
         "day": 20390,
-        "message": "1433123214145355826"
+        "message": "1433123214145355826",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20390
@@ -4426,9 +4430,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20391,
+        "message": "1433485602359083009"
       }
     ],
-    "last_used": 20147
+    "last_used": 20391
   },
   {
     "text": "What's the most tasty thing you've every cooked?",
