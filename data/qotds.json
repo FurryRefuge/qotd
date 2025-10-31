@@ -4433,7 +4433,11 @@
       },
       {
         "day": 20391,
-        "message": "1433485602359083009"
+        "message": "1433485602359083009",
+        "stats": {
+          "total": 8,
+          "users": 8
+        }
       }
     ],
     "last_used": 20391
@@ -4464,9 +4468,13 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 20392,
+        "message": "1433847990430203924"
       }
     ],
-    "last_used": 20148
+    "last_used": 20392
   },
   {
     "text": "If you could get the traits of any animal, what animal and what traits would you get?",
