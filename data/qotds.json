@@ -4585,7 +4585,11 @@
       },
       {
         "day": 20395,
-        "message": "1434935153494589523"
+        "message": "1434935153494589523",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20395
@@ -4616,9 +4620,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20396,
+        "message": "1435297541720641680"
       }
     ],
-    "last_used": 20152
+    "last_used": 20396
   },
   {
     "text": "If you were stuck on an island, who or what would you want to have with you?",
