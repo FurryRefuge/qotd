@@ -4661,7 +4661,11 @@
       },
       {
         "day": 20397,
-        "message": "1435659931134070804"
+        "message": "1435659931134070804",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20397
@@ -4692,9 +4696,13 @@
           "total": 10,
           "users": 9
         }
+      },
+      {
+        "day": 20398,
+        "message": "1436022317313687613"
       }
     ],
-    "last_used": 20154
+    "last_used": 20398
   },
   {
     "text": "If you could consume any person and gain their skills, who would you eat and what skills would you gain?",
