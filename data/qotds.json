@@ -4813,7 +4813,11 @@
       },
       {
         "day": 20401,
-        "message": "1437109480780464258"
+        "message": "1437109480780464258",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20401
@@ -4844,9 +4848,13 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20402,
+        "message": "1437471870248161421"
       }
     ],
-    "last_used": 20158
+    "last_used": 20402
   },
   {
     "text": "Who is your favourite person?",
