@@ -4889,7 +4889,11 @@
       },
       {
         "day": 20403,
-        "message": "1437834257769828445"
+        "message": "1437834257769828445",
+        "stats": {
+          "total": 7,
+          "users": 5
+        }
       }
     ],
     "last_used": 20403
@@ -4920,9 +4924,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20404,
+        "message": "1438196644184330312"
       }
     ],
-    "last_used": 20160
+    "last_used": 20404
   },
   {
     "text": "What is the weirdest thing that happened to you in real life?",
