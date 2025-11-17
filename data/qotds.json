@@ -5079,7 +5079,11 @@
       },
       {
         "day": 20408,
-        "message": "1439646195755651276"
+        "message": "1439646195755651276",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20408
@@ -5110,9 +5114,13 @@
           "total": 9,
           "users": 5
         }
+      },
+      {
+        "day": 20409,
+        "message": "1440008583994675221"
       }
     ],
-    "last_used": 20165
+    "last_used": 20409
   },
   {
     "text": "What is one weird fact about you?",
