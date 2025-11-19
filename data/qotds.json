@@ -5155,7 +5155,11 @@
       },
       {
         "day": 20410,
-        "message": "1440370971885178981"
+        "message": "1440370971885178981",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20410
@@ -5186,9 +5190,13 @@
           "total": 7,
           "users": 7
         }
+      },
+      {
+        "day": 20411,
+        "message": "1440733360069541946"
       }
     ],
-    "last_used": 20167
+    "last_used": 20411
   },
   {
     "text": "What do you think the best invention is?",
