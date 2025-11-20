@@ -5193,7 +5193,11 @@
       },
       {
         "day": 20411,
-        "message": "1440733360069541946"
+        "message": "1440733360069541946",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20411
@@ -5224,9 +5228,13 @@
           "total": 6,
           "users": 6
         }
+      },
+      {
+        "day": 20412,
+        "message": "1441095747662516264"
       }
     ],
-    "last_used": 20168
+    "last_used": 20412
   },
   {
     "text": "What are your hobbies?",
