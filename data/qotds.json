@@ -5269,7 +5269,11 @@
       },
       {
         "day": 20413,
-        "message": "1441458135532441705"
+        "message": "1441458135532441705",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20413
@@ -5300,9 +5304,13 @@
           "total": 8,
           "users": 7
         }
+      },
+      {
+        "day": 20414,
+        "message": "1441820523276533842"
       }
     ],
-    "last_used": 20170
+    "last_used": 20414
   },
   {
     "text": "If you were on death row, what would you chose as your last meal?",
