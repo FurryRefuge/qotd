@@ -5421,7 +5421,11 @@
       },
       {
         "day": 20417,
-        "message": "1442907687900811334"
+        "message": "1442907687900811334",
+        "stats": {
+          "total": 12,
+          "users": 9
+        }
       }
     ],
     "last_used": 20417
@@ -5452,9 +5456,13 @@
           "total": 5,
           "users": 4
         }
+      },
+      {
+        "day": 20418,
+        "message": "1443270075149979700"
       }
     ],
-    "last_used": 20174
+    "last_used": 20418
   },
   {
     "text": "What's the worst thing about your gender?",
