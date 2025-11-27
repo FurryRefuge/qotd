@@ -5459,7 +5459,11 @@
       },
       {
         "day": 20418,
-        "message": "1443270075149979700"
+        "message": "1443270075149979700",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 20418
@@ -5490,9 +5494,13 @@
           "total": 8,
           "users": 6
         }
+      },
+      {
+        "day": 20419,
+        "message": "1443632462617116864"
       }
     ],
-    "last_used": 20175
+    "last_used": 20419
   },
   {
     "text": "If you could have any one-time purchase 100% discounted, what would you buy?",
