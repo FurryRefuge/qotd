@@ -5535,7 +5535,11 @@
       },
       {
         "day": 20420,
-        "message": "1443994851929755903"
+        "message": "1443994851929755903",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20420
@@ -5566,9 +5570,13 @@
           "total": 8,
           "users": 8
         }
+      },
+      {
+        "day": 20421,
+        "message": "1444357237991673908"
       }
     ],
-    "last_used": 20177
+    "last_used": 20421
   },
   {
     "text": "What is your favourite drink?",
