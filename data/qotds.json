@@ -5649,7 +5649,11 @@
       },
       {
         "day": 20423,
-        "message": "1445082014368661514"
+        "message": "1445082014368661514",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20423
@@ -5680,9 +5684,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20424,
+        "message": "1445444408978706645"
       }
     ],
-    "last_used": 20180
+    "last_used": 20424
   },
   {
     "text": "What was the last gift that you received?",
