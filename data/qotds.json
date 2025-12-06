@@ -5801,7 +5801,11 @@
       },
       {
         "day": 20427,
-        "message": "1446531566472790056"
+        "message": "1446531566472790056",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20427
@@ -5832,9 +5836,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20428,
+        "message": "1446893953424031827"
       }
     ],
-    "last_used": 20184
+    "last_used": 20428
   },
   {
     "text": "What happened in the last dream that you remember?",
