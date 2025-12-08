@@ -5877,7 +5877,11 @@
       },
       {
         "day": 20429,
-        "message": "1447256341738557482"
+        "message": "1447256341738557482",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20429
@@ -5908,9 +5912,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20430,
+        "message": "1447618729293643817"
       }
     ],
-    "last_used": 20186
+    "last_used": 20430
   },
   {
     "text": "What is your all-time favourite video game?",
