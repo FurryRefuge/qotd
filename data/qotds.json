@@ -5953,7 +5953,11 @@
       },
       {
         "day": 20431,
-        "message": "1447981118749151303"
+        "message": "1447981118749151303",
+        "stats": {
+          "total": 16,
+          "users": 13
+        }
       }
     ],
     "last_used": 20431
@@ -5984,9 +5988,13 @@
           "total": 12,
           "users": 8
         }
+      },
+      {
+        "day": 20432,
+        "message": "1448343578261848147"
       }
     ],
-    "last_used": 20188
+    "last_used": 20432
   },
   {
     "text": "If you could only eat one thing for the rest of your life, what would it be?",
