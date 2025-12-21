@@ -6333,7 +6333,11 @@
       },
       {
         "day": 20442,
-        "message": "1451967384444469362"
+        "message": "1451967384444469362",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20442
@@ -6364,9 +6368,13 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20443,
+        "message": "1452329773085884487"
       }
     ],
-    "last_used": 20199
+    "last_used": 20443
   },
   {
     "text": "What restaurant do you order most from?",
