@@ -6371,7 +6371,11 @@
       },
       {
         "day": 20443,
-        "message": "1452329773085884487"
+        "message": "1452329773085884487",
+        "stats": {
+          "total": 9,
+          "users": 9
+        }
       }
     ],
     "last_used": 20443
@@ -6402,9 +6406,13 @@
           "total": 13,
           "users": 7
         }
+      },
+      {
+        "day": 20444,
+        "message": "1452692159299063984"
       }
     ],
-    "last_used": 20200
+    "last_used": 20444
   },
   {
     "text": "What is your favourite flavour of soup?",
