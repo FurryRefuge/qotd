@@ -6409,7 +6409,11 @@
       },
       {
         "day": 20444,
-        "message": "1452692159299063984"
+        "message": "1452692159299063984",
+        "stats": {
+          "total": 11,
+          "users": 9
+        }
       }
     ],
     "last_used": 20444
@@ -6440,9 +6444,13 @@
           "total": 13,
           "users": 11
         }
+      },
+      {
+        "day": 20445,
+        "message": "1453054548733067335"
       }
     ],
-    "last_used": 20201
+    "last_used": 20445
   },
   {
     "text": "What do you wear to sleep?",
