@@ -6485,7 +6485,11 @@
       },
       {
         "day": 20446,
-        "message": "1453416935130923110"
+        "message": "1453416935130923110",
+        "stats": {
+          "total": 16,
+          "users": 10
+        }
       }
     ],
     "last_used": 20446
@@ -6516,9 +6520,13 @@
           "total": 11,
           "users": 8
         }
+      },
+      {
+        "day": 20447,
+        "message": "1453779323877327042"
       }
     ],
-    "last_used": 20203
+    "last_used": 20447
   },
   {
     "text": "What is your favourite drinks brand?",
