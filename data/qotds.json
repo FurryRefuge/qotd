@@ -6523,7 +6523,11 @@
       },
       {
         "day": 20447,
-        "message": "1453779323877327042"
+        "message": "1453779323877327042",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20447
@@ -6554,9 +6558,13 @@
           "total": 13,
           "users": 10
         }
+      },
+      {
+        "day": 20448,
+        "message": "1454141711533080649"
       }
     ],
-    "last_used": 20204
+    "last_used": 20448
   },
   {
     "text": "If you were given three wishes, what would you wish for?",
