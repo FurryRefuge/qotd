@@ -6599,7 +6599,11 @@
       },
       {
         "day": 20449,
-        "message": "1454504099516125388"
+        "message": "1454504099516125388",
+        "stats": {
+          "total": 21,
+          "users": 8
+        }
       }
     ],
     "last_used": 20449
@@ -6630,9 +6634,13 @@
           "total": 8,
           "users": 7
         }
+      },
+      {
+        "day": 20450,
+        "message": "1454866487230861353"
       }
     ],
-    "last_used": 20206
+    "last_used": 20450
   },
   {
     "text": "What is your weirdest fantasy?",
