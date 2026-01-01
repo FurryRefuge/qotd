@@ -6751,7 +6751,11 @@
       },
       {
         "day": 20453,
-        "message": "1455953651012206817"
+        "message": "1455953651012206817",
+        "stats": {
+          "total": 30,
+          "users": 8
+        }
       }
     ],
     "last_used": 20453
@@ -6782,9 +6786,13 @@
           "total": 13,
           "users": 9
         }
+      },
+      {
+        "day": 20454,
+        "message": "1456316038273568850"
       }
     ],
-    "last_used": 20210
+    "last_used": 20454
   },
   {
     "text": "What is your favourite cereal brand? Why?",
