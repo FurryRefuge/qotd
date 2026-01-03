@@ -6827,7 +6827,11 @@
       },
       {
         "day": 20455,
-        "message": "1456678425736773666"
+        "message": "1456678425736773666",
+        "stats": {
+          "total": 14,
+          "users": 7
+        }
       }
     ],
     "last_used": 20455
@@ -6858,9 +6862,13 @@
           "total": 14,
           "users": 9
         }
+      },
+      {
+        "day": 20456,
+        "message": "1457040814453559563"
       }
     ],
-    "last_used": 20212
+    "last_used": 20456
   },
   {
     "text": "What is the one thing that makes you dislike someone?",
