@@ -7017,7 +7017,11 @@
       },
       {
         "day": 20460,
-        "message": "1458493852741668906"
+        "message": "1458493852741668906",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20460
@@ -7048,9 +7052,13 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20461,
+        "message": "1458855998033887332"
       }
     ],
-    "last_used": 20217
+    "last_used": 20461
   },
   {
     "text": "What's the strangest place you've ever travelled to?",
