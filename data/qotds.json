@@ -7055,7 +7055,11 @@
       },
       {
         "day": 20461,
-        "message": "1458855998033887332"
+        "message": "1458855998033887332",
+        "stats": {
+          "total": 8,
+          "users": 7
+        }
       }
     ],
     "last_used": 20461
@@ -7086,9 +7090,13 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20462,
+        "message": "1459215140355576029"
       }
     ],
-    "last_used": 20218
+    "last_used": 20462
   },
   {
     "text": "What was the best birthday you ever had?",
