@@ -7131,7 +7131,11 @@
       },
       {
         "day": 20463,
-        "message": "1459577527864656128"
+        "message": "1459577527864656128",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ],
     "last_used": 20463
@@ -7162,9 +7166,13 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20464,
+        "message": "1459939916925632673"
       }
     ],
-    "last_used": 20220
+    "last_used": 20464
   },
   {
     "text": "If you had to be trapped in a TV show for a month, which show would you choose?",
