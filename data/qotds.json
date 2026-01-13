@@ -7207,7 +7207,11 @@
       },
       {
         "day": 20465,
-        "message": "1460305570132262994"
+        "message": "1460305570132262994",
+        "stats": {
+          "total": 4,
+          "users": 4
+        }
       }
     ],
     "last_used": 20465
@@ -7238,9 +7242,13 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20466,
+        "message": "1460668380959735891"
       }
     ],
-    "last_used": 20222
+    "last_used": 20466
   },
   {
     "text": "What's your favorite smell?",
