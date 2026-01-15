@@ -7283,7 +7283,11 @@
       },
       {
         "day": 20467,
-        "message": "1461027268158816456"
+        "message": "1461027268158816456",
+        "stats": {
+          "total": 24,
+          "users": 14
+        }
       }
     ],
     "last_used": 20467
@@ -7314,9 +7318,13 @@
           "total": 5,
           "users": 4
         }
+      },
+      {
+        "day": 20468,
+        "message": "1461393967630385163"
       }
     ],
-    "last_used": 20224
+    "last_used": 20468
   },
   {
     "text": "What's in your fridge?",
