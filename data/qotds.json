@@ -7359,7 +7359,11 @@
       },
       {
         "day": 20469,
-        "message": "1461751937929183283"
+        "message": "1461751937929183283",
+        "stats": {
+          "total": 13,
+          "users": 10
+        }
       }
     ],
     "last_used": 20469
@@ -7390,9 +7394,13 @@
           "total": 6,
           "users": 5
         }
+      },
+      {
+        "day": 20470,
+        "message": "1462114244836200603"
       }
     ],
-    "last_used": 20226
+    "last_used": 20470
   },
   {
     "text": "If you could live anywhere on earth, where would you live?",
