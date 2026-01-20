@@ -7473,7 +7473,11 @@
       },
       {
         "day": 20472,
-        "message": "1462842153884582025"
+        "message": "1462842153884582025",
+        "stats": {
+          "total": 9,
+          "users": 6
+        }
       }
     ],
     "last_used": 20472
@@ -7504,9 +7508,13 @@
           "total": 5,
           "users": 4
         }
+      },
+      {
+        "day": 20473,
+        "message": "1463205751580266663"
       }
     ],
-    "last_used": 20229
+    "last_used": 20473
   },
   {
     "text": "The earth is doomed to destruction by a big-ass meteor, scheduled to arrive tomorrow. What do you do with today?",
