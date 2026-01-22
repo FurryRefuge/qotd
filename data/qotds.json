@@ -7549,7 +7549,11 @@
       },
       {
         "day": 20474,
-        "message": "1463568666607222807"
+        "message": "1463568666607222807",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ],
     "last_used": 20474
@@ -7580,9 +7584,13 @@
           "total": 2,
           "users": 2
         }
+      },
+      {
+        "day": 20475,
+        "message": "1463930405882302622"
       }
     ],
-    "last_used": 20231
+    "last_used": 20475
   },
   {
     "text": "What is the first thing that you think of in the morning?",
