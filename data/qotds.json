@@ -7587,7 +7587,11 @@
       },
       {
         "day": 20475,
-        "message": "1463930405882302622"
+        "message": "1463930405882302622",
+        "stats": {
+          "total": 4,
+          "users": 3
+        }
       }
     ],
     "last_used": 20475
@@ -7618,9 +7622,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20476,
+        "message": "1464291917683626157"
       }
     ],
-    "last_used": 20232
+    "last_used": 20476
   },
   {
     "text": "If you could switch two movie characters, what switch would lead to the most inappropriate movies?",
