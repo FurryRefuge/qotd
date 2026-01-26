@@ -7701,7 +7701,11 @@
       },
       {
         "day": 20478,
-        "message": "1465013346775601420"
+        "message": "1465013346775601420",
+        "stats": {
+          "total": 9,
+          "users": 8
+        }
       }
     ],
     "last_used": 20478
@@ -7732,9 +7736,13 @@
           "total": 11,
           "users": 8
         }
+      },
+      {
+        "day": 20479,
+        "message": "1465379753992392922"
       }
     ],
-    "last_used": 20235
+    "last_used": 20479
   },
   {
     "text": "If animals could talk, which would be the rudest?",
