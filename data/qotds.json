@@ -182,13 +182,17 @@
       },
       {
         "day": 20483,
-        "message": "1466830747942916218"
+        "message": "1466830747942916218",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What upcoming media (movie, show, game, etc.) are you most looking forward to?",
-    "last_used": 20240,
+    "last_used": 20484,
     "history": [
       {
         "day": 19742,
@@ -213,6 +217,10 @@
           "total": 7,
           "users": 6
         }
+      },
+      {
+        "day": 20484,
+        "message": "1467187779317530664"
       }
     ]
   },
