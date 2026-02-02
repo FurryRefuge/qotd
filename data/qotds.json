@@ -258,13 +258,17 @@
       },
       {
         "day": 20485,
-        "message": "1467553176751444029"
+        "message": "1467553176751444029",
+        "stats": {
+          "total": 4,
+          "users": 3
+        }
       }
     ]
   },
   {
     "text": "What is your favourite meal to have for dinner?",
-    "last_used": 20242,
+    "last_used": 20486,
     "history": [
       {
         "day": 19744,
@@ -289,6 +293,10 @@
           "total": 9,
           "users": 9
         }
+      },
+      {
+        "day": 20486,
+        "message": "1467917416502657105"
       }
     ]
   },
