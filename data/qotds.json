@@ -410,13 +410,17 @@
       },
       {
         "day": 20490,
-        "message": "1469368809826554102"
+        "message": "1469368809826554102",
+        "stats": {
+          "total": 5,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "If you were given 500 acres of land, what would you use it for?",
-    "last_used": 20246,
+    "last_used": 20491,
     "history": [
       {
         "day": 19748,
@@ -441,6 +445,10 @@
           "total": 11,
           "users": 10
         }
+      },
+      {
+        "day": 20491,
+        "message": "1469727623277183223"
       }
     ]
   },
