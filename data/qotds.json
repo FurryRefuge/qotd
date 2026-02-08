@@ -448,13 +448,17 @@
       },
       {
         "day": 20491,
-        "message": "1469727623277183223"
+        "message": "1469727623277183223",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What's the most useless talent you have?",
-    "last_used": 20247,
+    "last_used": 20492,
     "history": [
       {
         "day": 19749,
@@ -479,6 +483,10 @@
           "total": 4,
           "users": 4
         }
+      },
+      {
+        "day": 20492,
+        "message": "1470090224284733624"
       }
     ]
   },
