@@ -600,13 +600,17 @@
       },
       {
         "day": 20499,
-        "message": "1472626647071985815"
+        "message": "1472626647071985815",
+        "stats": {
+          "total": 8,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "What is your favourite type of pasta?",
-    "last_used": 20251,
+    "last_used": 20500,
     "history": [
       {
         "day": 19753,
@@ -631,6 +635,10 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20500,
+        "message": "1472992545608040520"
       }
     ]
   },
