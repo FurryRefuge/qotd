@@ -790,13 +790,17 @@
       },
       {
         "day": 20511,
-        "message": "1476978103363571893"
+        "message": "1476978103363571893",
+        "stats": {
+          "total": 6,
+          "users": 5
+        }
       }
     ]
   },
   {
     "text": "What holiday celebration do you hate attending?",
-    "last_used": 20256,
+    "last_used": 20512,
     "history": [
       {
         "day": 19758,
@@ -821,6 +825,10 @@
           "total": 6,
           "users": 4
         }
+      },
+      {
+        "day": 20512,
+        "message": "1477334533631250533"
       }
     ]
   },
