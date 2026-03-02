@@ -866,13 +866,17 @@
       },
       {
         "day": 20513,
-        "message": "1477696968418394194"
+        "message": "1477696968418394194",
+        "stats": {
+          "total": 6,
+          "users": 6
+        }
       }
     ]
   },
   {
     "text": "If you won the lottery, what would you buy?",
-    "last_used": 20258,
+    "last_used": 20514,
     "history": [
       {
         "day": 19761,
@@ -897,6 +901,10 @@
           "total": 10,
           "users": 6
         }
+      },
+      {
+        "day": 20514,
+        "message": "1478066025705505054"
       }
     ]
   },
