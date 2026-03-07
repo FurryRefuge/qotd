@@ -980,13 +980,17 @@
       },
       {
         "day": 20518,
-        "message": "1479514643062984804"
+        "message": "1479514643062984804",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ]
   },
   {
     "text": "What's your favourite candy?",
-    "last_used": 20261,
+    "last_used": 20519,
     "history": [
       {
         "day": 19764,
@@ -1011,6 +1015,10 @@
           "total": 10,
           "users": 4
         }
+      },
+      {
+        "day": 20519,
+        "message": "1479871333134372944"
       }
     ]
   },
