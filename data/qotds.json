@@ -1299,7 +1299,11 @@
       },
       {
         "day": 20534,
-        "message": "1485310439150714953"
+        "message": "1485310439150714953",
+        "stats": {
+          "total": 11,
+          "users": 7
+        }
       }
     ],
     "last_used": 20534
@@ -1338,9 +1342,13 @@
           "total": 11,
           "users": 8
         }
+      },
+      {
+        "day": 20540,
+        "message": "1487485592223617185"
       }
     ],
-    "last_used": 20269
+    "last_used": 20540
   },
   {
     "text": "If a stranger visited your home, they'd think you seem like a normal person, until they saw ___",
