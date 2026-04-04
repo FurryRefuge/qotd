@@ -1437,7 +1437,11 @@
       },
       {
         "day": 20546,
-        "message": "1489661641317683343"
+        "message": "1489661641317683343",
+        "stats": {
+          "total": 5,
+          "users": 4
+        }
       }
     ],
     "last_used": 20546
@@ -1476,9 +1480,13 @@
           "total": 11,
           "users": 9
         }
+      },
+      {
+        "day": 20547,
+        "message": "1490022703355400342"
       }
     ],
-    "last_used": 20272
+    "last_used": 20547
   },
   {
     "text": "Tell us about your chair. Is it great? How does your back like it?",
