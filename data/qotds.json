@@ -1483,7 +1483,11 @@
       },
       {
         "day": 20547,
-        "message": "1490022703355400342"
+        "message": "1490022703355400342",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20547
@@ -1522,9 +1526,13 @@
           "total": 8,
           "users": 6
         }
+      },
+      {
+        "day": 20548,
+        "message": "1490385497476956372"
       }
     ],
-    "last_used": 20273
+    "last_used": 20548
   },
   {
     "text": "What's the strangest place you've ever been?",
