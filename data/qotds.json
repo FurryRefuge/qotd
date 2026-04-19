@@ -1667,7 +1667,11 @@
       },
       {
         "day": 20561,
-        "message": "1495097339507900477"
+        "message": "1495097339507900477",
+        "stats": {
+          "total": 3,
+          "users": 3
+        }
       }
     ],
     "last_used": 20561
@@ -1706,9 +1710,13 @@
           "total": 5,
           "users": 5
         }
+      },
+      {
+        "day": 20562,
+        "message": "1495459713545142324"
       }
     ],
-    "last_used": 20277
+    "last_used": 20562
   },
   {
     "text": "What is the best movie you've ever watched?",
